@@ -1,0 +1,142 @@
+[
+    {
+        "ID": 1,
+        "field_name": "home",
+        "val_cz": "Domu",
+        "val_de": null,
+        "val_en": "Home"
+    },
+    {
+        "ID": 2,
+        "field_name": "stone",
+        "val_cz": "Kamenar",
+        "val_de": null,
+        "val_en": "Stones"
+    },
+    {
+        "ID": 3,
+        "field_name": "plant",
+        "val_cz": "Herbar",
+        "val_de": null,
+        "val_en": "Plants"
+    },
+    {
+        "ID": 4,
+        "field_name": "anima",
+        "val_cz": "Animar",
+        "val_de": null,
+        "val_en": "Animal"
+    },
+    {
+        "ID": 5,
+        "field_name": "planet",
+        "val_cz": "Planety",
+        "val_de": null,
+        "val_en": "Planets"
+    },
+    {
+        "ID": 6,
+        "field_name": "calc",
+        "val_cz": "Kalkulátor",
+        "val_de": null,
+        "val_en": "Calculator"
+    },
+    {
+        "ID": 7,
+        "field_name": "rest",
+        "val_cz": "Restaurace",
+        "val_de": null,
+        "val_en": "Restaurant"
+    },
+    {
+        "ID": 8,
+        "field_name": "database",
+        "val_cz": "Databáze",
+        "val_de": null,
+        "val_en": "Databse"
+    },
+    {
+        "ID": 9,
+        "field_name": "rss",
+        "val_cz": "RSS",
+        "val_de": null,
+        "val_en": "RSS"
+    },
+    {
+        "ID": 10,
+        "field_name": "radio",
+        "val_cz": "Radio",
+        "val_de": null,
+        "val_en": "Radio"
+    },
+    {
+        "ID": 11,
+        "field_name": "maps",
+        "val_cz": "Mapy",
+        "val_de": null,
+        "val_en": "Mapping"
+    },
+    {
+        "ID": 12,
+        "field_name": "test",
+        "val_cz": "Testovací",
+        "val_de": null,
+        "val_en": "Testing"
+    },
+    {
+        "ID": 13,
+        "field_name": "shop",
+        "val_cz": "Nakupovat",
+        "val_de": null,
+        "val_en": "Shop"
+    },
+    {
+        "ID": 14,
+        "field_name": "search",
+        "val_cz": "Hledat",
+        "val_de": null,
+        "val_en": "Search"
+    },
+    {
+        "ID": 15,
+        "field_name": "pass",
+        "val_cz": "Nutno zadat heso",
+        "val_de": null,
+        "val_en": "Enter password"
+    },
+    {
+        "ID": 16,
+        "field_name": "today",
+        "val_cz": "Dnes",
+        "val_de": null,
+        "val_en": "Today"
+    },
+    {
+        "ID": 17,
+        "field_name": "is",
+        "val_cz": "je",
+        "val_de": null,
+        "val_en": "is"
+    },
+    {
+        "ID": 18,
+        "field_name": "name",
+        "val_cz": "má svátek ",
+        "val_de": null,
+        "val_en": "celebrates"
+    },
+    {
+        "ID": 19,
+        "field_name": "week",
+        "val_cz": "Týden",
+        "val_de": null,
+        "val_en": "Week"
+    },
+    {
+        "ID": 20,
+        "field_name": "day",
+        "val_cz": "Den v roce",
+        "val_de": null,
+        "val_en": "Day in year"
+    }
+]
