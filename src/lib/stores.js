@@ -6,6 +6,7 @@ import { readable, writable } from "svelte/store";
 // https://stackoverflow.com/questions/56488202/how-to-persist-svelte-store
 
 export const h808e = writable({
+	cal: loadDataJson('calendar.json'),
 	enc: loadDataJson('enc.json'),
 	lang: loadDataJson('language.json'),
 	path: '',
@@ -47,15 +48,15 @@ export const time = readable(new Date(), function start(set) {
 export function translate(dataset, change="") {
 	let result = {};
 	let lang="";
-	if (change) {lang=change} else {lang = findLocaleMatch()};
+	if (change) {lang=change} else {lang=findLocaleMatch()};
 	if (lang=='cz') {
-		dataset.forEach(function(entry){
+		for (let entry of dataset) {
 			result[entry["field_name"]] = entry["val_cz"];
-		});
+		}
 	} else if (lang=='en') {
-		dataset.forEach(function(entry){
+		for (let entry of dataset) {
 			result[entry["field_name"]] = entry["val_en"];
-		});
+		}
 	} else {
 		console.log('no other language: '+lang)
 	};
@@ -140,6 +141,9 @@ export async function loadDataUrl(address) {
 	};
 };
 
+/**
+ * @param {RequestInfo | URL} address
+ */
 export async function loadDataJson(address) {
 	if (!address) { // default settings for application (PHP site)
 		address = 'assets/saturn_pluto.json';
