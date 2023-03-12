@@ -3,7 +3,7 @@
   import Clock from "./Clock.svelte"; //TODO: Clock na small zobrazit jako ikonu hodin
   import Burger from "./Burger.svelte"; //Burger zustane porad stejny
   import Logo from "./Logo.svelte"; //TODO: Jen siroke
-  //import Moon from "./Moon.svelte";
+  import Moon from "./Moon.svelte";
   import { h808e } from "./stores"; //tady je hlavni logika
   import Popover from "svelte-popover";
 
@@ -63,10 +63,14 @@
   });
 </script>
 
-<header id="menu" class="p-2 bg-primary">
-  <div class="flex-none w-1/6"><Burger bind:open={sidebar} /></div>
-  <div class="flex-auto">
-    <Popover arrowColor="#fff" placement="bottom-center">
+<header id="menu">
+  <div class="f-none"><Burger bind:open={sidebar} /></div>
+  <div class="f-auto">
+    <Popover
+      arrowColor="#fff"
+      overlayColor="rgba(0,0,0,0.5)"
+      placement="bottom-center"
+    >
       <div slot="target" class="search">
         <form class="search-form" on:submit|preventDefault={handleSubmit}>
           <input
@@ -94,9 +98,9 @@
       <!-- <input type="text" bind:value={$h808e}> -->
     </Popover>
   </div>
-  <div class="flex-auto sm:hidden md:hidden lg:inline"><Logo /></div>
-  <!-- <div class="flex-none"><Moon /></div> -->
-  <div class="flex-none"><Clock /></div>
+  <div class="f-auto"><Logo /></div>
+  <div class="f-none"><Moon /></div>
+  <div class="f-none"><Clock /></div>
 </header>
 
 <style>
@@ -108,8 +112,21 @@
     display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
     flex-direction: row;
     flex-wrap: nowrap;
+    flex-grow: 1;
     justify-content: space-between;
     align-items: center;
+    background: #1742b6;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .f-none {
+    flex: none;
+    background: none;
+  }
+  .f-auto {
+    flex: auto;
+    background: none;
   }
   .search-input {
     width: 100%;

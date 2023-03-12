@@ -6,12 +6,13 @@ import { readable, writable } from "svelte/store";
 // https://stackoverflow.com/questions/56488202/how-to-persist-svelte-store
 
 export const h808e = writable({
-	cal: loadDataJson('calendar.json'),
-	enc: loadDataJson('enc.json'),
-	lang: loadDataJson('language.json'),
+	cal: loadDataJson('assets/calendar.json'),
+	enc: loadDataJson('assets/enc.json'),
+	lang: loadDataJson('assets/language.json'),
 	path: '',
 	project: '',
-	sources: loadDataJson('sources.json'),
+	plants: loadDataJson('assets/herbar.json'),
+	sources: loadDataJson('assets/sources.json'),
 	api: {
 		ipgeoloc: {
 			access_key: '12a3d14c6ab94927af1c9f9fb0aac658',
@@ -43,8 +44,10 @@ export const time = readable(new Date(), function start(set) {
 		clearInterval(interval);
 	};
 });
-//export let xxx = writable(0)
 
+/**
+ * @param {any} dataset
+ */
 export function translate(dataset, change="") {
 	let result = {};
 	let lang="";
@@ -63,11 +66,15 @@ export function translate(dataset, change="") {
 	return result
 };
 
+/**
+ * @param {number} initialValue
+ * @param {{ (): void; (arg0: any, arg1: any): void; }} watchFunction
+ */
 export function watcher(initialValue, watchFunction) {
 	const { subscribe, update } = writable(initialValue)
 	return {
 		subscribe,
-		set: value => {
+		set: (/** @type {number} */ value) => {
 			update(oldvalue => {
 				watchFunction(oldvalue, value)
 				return value
@@ -93,6 +100,9 @@ export function findLocaleMatch() {
 	return langMatch;
 }
 
+/**
+ * @param {string | string[]} string
+ */
 export function parseDate(string) {
 	let d = new Date();
 	let a = string.split('-');
@@ -106,6 +116,9 @@ export function parseDate(string) {
 	return d
 };
 
+/**
+ * @param {RequestInfo | URL} address
+ */
 export async function loadDataUrl(address) {
 	if (!address) { // default settings for application (PHP site)
 		address = `https://www.blisty.cz/rss2?all=1`;
@@ -147,8 +160,6 @@ export async function loadDataUrl(address) {
 export async function loadDataJson(address) {
 	if (!address) { // default settings for application (PHP site)
 		address = 'assets/saturn_pluto.json';
-	} else {
-		address = 'assets/'+address;
 	}
 	try {
 		const res = await fetch(address);
@@ -167,6 +178,9 @@ export async function loadDataJson(address) {
 	};
 };
 
+/**
+ * @param {RequestInfo | URL} address
+ */
 export async function loadDataMD(address) {
 	let marked = require('marked');
 	if (!address) { // default settings for application (PHP site)
@@ -201,52 +215,10 @@ export async function loadDataMD(address) {
 	};
 };
 
-export async function loadDataXML(address) {
-	try {
-
-		var request = new XMLHttpRequest({mozSystem: true});
-
-		//different solution
-		/* request.onreadystatechange = () => {
-			if (request.readyState === 4) {
-				request.status === 200 ? console.log(console.responseText) : console.error('error')
-			}
-		}; */
-
-		
-
-		request.open('GET', address, true);
-		request.setRequestHeader('Access-Control-Allow-Origin', '*');
-		request.setRequestHeader('Content-Type', 'application/rss+xml');
-		
-		console.log('loading address: '+address+' / headers set');
-
-		request.onreadystatechange = () => {
-			if (request.readyState === 4) {
-				if (request.status >= 200 && request.status < 400) {
-					/* var data = JSON.parse(request.responseText)
-					if (data.values) {
-						tableData = {
-							header: data.values.slice(0,1)[0],
-							footer: data.values.slice(1,2)[0],
-							thead: data.values.slice(2,4),
-							tbody: data.values.slice(4)
-						}
-					} */
-					console.log(console.responseText);
-				} else {
-					console.error('error')
-				}
-			}
-		};
-		
-		request.send();
-	} catch(ex) {
-		//alert(ex);
-		console.log(ex);
-	};
-};
-
+/**
+ * @param {any} text
+ * @param {(string | RegExp)[][]} replacementArray
+ */
 export function massReplace(text, replacementArray) {
 	let results = text;
 	for (let [regex, replacement] of replacementArray) {
@@ -255,6 +227,10 @@ export function massReplace(text, replacementArray) {
 	return results;
   }
   
+/**
+ * @param {any} text
+ * @param {string} orig
+ */
 export function transformHeadings(text, orig) {
 	if (orig.match(/^#{1,6}\s/)) {
 	  return massReplace(text,
@@ -268,6 +244,10 @@ export function transformHeadings(text, orig) {
 	}
   }
   
+/**
+ * @param {any} text
+ * @param {string} orig
+ */
 export function transformQuotes(text, orig) {
 	if (orig.match(/"|'/)) {
 	  return massReplace(text,
@@ -279,6 +259,10 @@ export function transformQuotes(text, orig) {
 	}
   }
   
+/**
+ * @param {any} text
+ * @param {string} orig
+ */
 export function transformStyling(text, orig) {
 	if (orig.match(/\*\*|\*/)) {
 	  return massReplace(text, 
@@ -287,18 +271,29 @@ export function transformStyling(text, orig) {
 	}
   }
   
+/**
+ * @param {any} text
+ * @param {string} orig
+ */
 export function transformDashes(text, orig) {
 	if (orig.match(/\-\-/)) {
 	  return massReplace (text, [ [ /\-\-/g, '&mdash;' ] ]);
 	}
   }
   
+/**
+ * @param {any} text
+ * @param {string} orig
+ */
 export function transformParagraphs(text, orig) {
 	if (!orig.match(/^#{1,6} (.*)/)) {
 	  return `<p>${text}</p>`;
 	}
   }
   
+/**
+ * @param {string} markdownSource
+ */
 export function transformToHTML(markdownSource) {
 	let data = markdownSource.split('\n\n'),
 		orig = data.slice(),

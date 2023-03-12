@@ -1,6 +1,7 @@
 <script>
   import { onMount } from "svelte";
-  import { h808e, loadDataJson } from "./stores";
+  import { h808e } from "$lib/stores";
+  import Popover from "svelte-popover";
 
   let date = new Date();
   $: day = date.getDate();
@@ -9,22 +10,14 @@
   $: hour = date.getHours();
   $: min = date.getMinutes();
   $: sec = date.getSeconds();
-  $: dayDesc =
-    "Je " +
-    weekDay(date) +
-    " / " +
-    weekNumber(date) +
-    ". týden / " +
-    dayNumber(date) +
-    ". den v roce";
+  $: dayDesc = `Je ${weekDay(date)} / ${weekNumber(date)}.týden / ${dayNumber(
+    date
+  )}. den v roce`;
 
   /**
    * @type {string[]}
    */
   let today = [];
-  /**
-   * @type {any[]}
-   */
   let calContent;
   let dayOrNight = "AM";
 
@@ -74,7 +67,6 @@
       }
     }
     today.push(dayDesc);
-    console.log(today);
   });
 </script>
 

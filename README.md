@@ -2,6 +2,33 @@
 
 Star Encyklopedia | H808E | Hvězdná encyklopedie
 
+- 400 : Příroda (Nature)
+	- [[410| Minerály (Minerals)]] ✓
+	- [[420|Život (Life)]] ✓
+	- [[430|Složení (Realization)]] ✓
+- 500 : Člověk (Human)
+	- [[510|Základní potřeby (Basic needs)]]✓
+	- [[520|Pohyb (Movement)]] ✓
+	- [[530|Kultura (Culture)]] ✓
+	- [[540|Zákony (Laws)]]  ☒
+	- [[550|Magie (Magic)]] ☒
+- 600 : Vědy (Science)
+	- [[610|Matematika (Mathematics)]] ✓
+	- [[620|Fyzika (Physics)]] ✓
+	- [[630|Chemie(Chemistry)]] ✓
+- 700 : Technologie (Technology)
+	- [[710|Materiály (Materials)]] ✓
+	- [[720|Nástroje (Tools)]] ☒
+	- [[730|Energie (Energy)]] ✓
+	- [[740|Digital (environment)]] ✓
+	- [[750|Stavby (Builds)]] ✓
+
+
+# Svelte structure
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
