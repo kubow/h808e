@@ -3,7 +3,6 @@
   import { h808e, loadDataUrl } from "./stores";
 
   let date = new Date();
-  let moon_phase = [];
   let ast_info = "";
   var params = {
     lang: "en",
@@ -29,7 +28,11 @@
       "last-quarter-moon",
       "waning-crescent-moon",
     ],
-    phase: (year, month, day) => {
+    phase: (
+      /** @type {number} */ year,
+      /** @type {number} */ month,
+      /** @type {number} */ day
+    ) => {
       let jd = 0; // jd is helper for recompute
       let b = 0; // b is the actual phase
       if (month < 3) {
@@ -46,13 +49,17 @@
       return { phase: b, name: Moon.phases[b] };
     },
   };
-  moon_phase = Moon.phase(
+  let moon_phase = Moon.phase(
     date.getFullYear(),
     date.getMonth() + 1,
     date.getDate()
   );
   //console.log(moon_phase);
 
+  /**
+   * @param {number} value
+   * @param {number} places
+   */
   function roundTo(value, places) {
     let power = Math.pow(10, places);
     return Math.round(value * power) / power;
@@ -106,7 +113,8 @@
           {#await ast_info}
             <p>...data not yet loaded</p>
           {:then ast_info}
-            <p>{moon_phase.name} @ {ast_info.location.location}</p>
+            here we see a moon
+            <!-- <p>{moon_phase.name} @ {ast_info.location.location}</p>
             <p>moon rise: {ast_info.moonrise} set {ast_info.moonset}</p>
             <p>
               moon alt: {roundTo(ast_info.moon_altitude, 2)} angle {roundTo(
@@ -115,7 +123,7 @@
               )}
             </p>
             <p>sun rise: {ast_info.sunrise} set: {ast_info.sunset}</p>
-            <p>day length: {ast_info.day_length}</p>
+            <p>day length: {ast_info.day_length}</p> -->
           {:catch error}
             <p style="color: red">error: {error.message}</p>
           {/await}

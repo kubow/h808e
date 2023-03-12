@@ -3,13 +3,17 @@
   export let ghost = false;
 </script>
 
+<button class:big class:ghost>
+  <slot />
+</button>
+
 <style>
   .big {
     font-size: 20px;
     display: block;
     /*width: 100%;*/
   }
-  
+
   .ghost {
     background-color: transparent;
     /*border: solid currentColor 2px;*/
@@ -24,13 +28,8 @@
     cursor: pointer;
   }
 
-button:hover,
-button:active {
-  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35)
-}
-
-</style>    
-    
-<button class:big class:ghost>
-  <slot />
-</button>
+  button:hover,
+  button:active {
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35);
+  }
+</style>
