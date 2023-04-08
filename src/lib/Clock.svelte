@@ -2,6 +2,7 @@
   import { onMount } from "svelte";
   import { h808e } from "$lib/stores";
   import Popover from "svelte-popover";
+  import calendar from "$lib/store/calendar.json";
 
   let date = new Date();
   $: day = date.getDate();
@@ -18,7 +19,6 @@
    * @type {string[]}
    */
   let today = [];
-  let calContent;
   let dayOrNight = "AM";
 
   function weekNumber(d) {
@@ -52,8 +52,7 @@
       date = new Date();
       dayOrNight = hour >= 12 ? "PM" : "AM";
     }, 1000);
-    calContent = await $h808e.cal;
-    for (let entry of calContent) {
+    for (let entry of calendar) {
       if (entry["`n_month`"] == month && entry["`n_day`"] == day) {
         if (entry["`calendar`"] == "cz_jmena") {
           today.push("Dnes má svátek " + entry["`day_name`"]);

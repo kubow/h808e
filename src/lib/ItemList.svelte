@@ -21,7 +21,6 @@
     console.log("preparing source");
     if (source.source_address) {
       currentContent = await loadDataUrl(source.source_address);
-      //currentContent = await loadDataUrl($h808e.api.scrapestack.url.replace("BOBOK", $h808e.api.scrapestack.access_key)+source.source_address);
       console.log(currentContent);
     } else if (source.url) {
       currentContent = await loadDataUrl(
@@ -67,6 +66,8 @@
                     <p>{x.source.name}</p>
                   {:else if x.source_address}
                     <p>{x.source_name}</p>
+                  {:else if x.Nazev_cz}
+                    <p>{x.Nazev_cz}</p>
                   {:else}
                     <p>some random name</p>
                   {/if}
@@ -74,6 +75,8 @@
                 <slot name="card_title">
                   {#if x.title}
                     <p>{x.title}</p>
+                  {:else if x.Nazev_lat}
+                    <p>{x.Nazev_lat}</p>
                   {:else}
                     <p>some random name</p>
                   {/if}

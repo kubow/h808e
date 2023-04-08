@@ -1,18 +1,14 @@
 import { readable, writable } from "svelte/store";
 
+
 //localstore will be preferred_language
 //const store = writable(localStorage.getItem("store") || "");
 //store.subscribe(val => localStorage.setItem("store", val));
 // https://stackoverflow.com/questions/56488202/how-to-persist-svelte-store
 
 export const h808e = writable({
-	cal: loadDataJson('assets/calendar.json'),
-	enc: loadDataJson('assets/enc.json'),
-	lang: loadDataJson('assets/language.json'),
 	path: '',
 	project: '',
-	plants: loadDataJson('assets/herbar.json'),
-	sources: loadDataJson('assets/sources.json'),
 	api: {
 		ipgeoloc: {
 			access_key: '12a3d14c6ab94927af1c9f9fb0aac658',

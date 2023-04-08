@@ -4,12 +4,18 @@
   import { page } from "$app/stores";
   import Mode from "$lib/Mode.svelte";
   import Head from "$lib/Head.svelte";
-  import { h808e, translate } from "$lib/stores";
+  import { translate } from "$lib/stores";
+  // JSON files
+  import language from "$lib/store/language.json";
+  import enc from "$lib/store/enc.json";
 
   let open = false; // side menu
   let pwd = ""; // password protected
   let searchQuery = "";
   let lang = {};
+  /**
+   * @type {{ href: string; name: any; }[]}
+   */
   let routes;
   // https://nicobachner.com/sveltekit-theme-switch
 
@@ -36,18 +42,20 @@
   }
 
   onMount(async () => {
-    let l = await $h808e.lang;
-    lang = await translate(l, "cz");
-    console.log(lang);
+    lang = await translate(language, "cz");
     // this will be transferred from enc.json
+    // console.log(lang);
     routes = [
       { href: "/", name: lang.home },
-      { href: "/astro", name: "Astronomy" },
+      { href: "/astro", name: lang.planet },
+      { href: "/calc", name: lang.calc },
       { href: "/db", name: lang.database },
       { href: "/map", name: lang.maps },
+      { href: "/min", name: lang.stone },
       { href: "/plant", name: lang.plant },
       { href: "/radio", name: lang.radio },
       { href: "/rest", name: lang.rest },
+      { href: "/rss", name: lang.rss },
       { href: "/test", name: "Test" },
     ];
   });
@@ -111,8 +119,8 @@
   }
   aside {
     position: absolute;
-    width: 100%;
-    height: 100%;
+    /*width: 100%;
+    height: 100%;*/
     background-color: whitesmoke;
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
       0 4px 6px -4px rgb(0 0 0 / 0.1);

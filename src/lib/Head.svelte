@@ -4,7 +4,7 @@
   import Burger from "./Burger.svelte"; //Burger zustane porad stejny
   import Logo from "./Logo.svelte"; //TODO: Jen siroke
   import Moon from "./Moon.svelte";
-  import { h808e } from "./stores"; //tady je hlavni logika
+  import enc from "$lib/store/enc.json";
   import Popover from "svelte-popover";
 
   export let sidebar = false;
@@ -48,8 +48,7 @@
   }
 
   onMount(async () => {
-    let topics = await $h808e.enc;
-    for (const item of topics) {
+    for (const item of enc) {
       if (Math.trunc(item["code"]) % 10 == 0) {
         if (Math.trunc(item["code"]) % 100 == 0) {
           l1.push(item);
