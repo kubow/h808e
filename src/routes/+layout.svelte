@@ -4,14 +4,14 @@
   import { page } from "$app/stores";
   import Mode from "$lib/Mode.svelte";
   import Head from "$lib/Head.svelte";
-  import { translate } from "$lib/stores";
+  import { findLocaleMatch } from "$lib/stores";
   // JSON files
   import language from "$lib/store/language.json";
-  import enc from "$lib/store/enc.json";
 
+  let font_color = "#191971";
   let open = false; // side menu
-  let pwd = ""; // password protected
-  let searchQuery = "";
+  let pwd = ""; // password protected - not active for now
+  let searchQuery = ""; // active searched value (will be dict with latest searched values)
   let lang = {};
   /**
    * @type {{ href: string; name: any; }[]}
@@ -26,7 +26,6 @@
   function tgl() {
     open = !open;
   }
-
   /**
    * @param {{ preventDefault: () => void; }} event
    */
@@ -39,6 +38,30 @@
       event.preventDefault();
       return false;
     }
+  }
+  /**
+   * @param {any} dataset
+   */
+  export function translate(dataset, change = "") {
+    let result = {};
+    let lang = "";
+    if (change) {
+      lang = change;
+    } else {
+      lang = findLocaleMatch();
+    }
+    if (lang == "cz") {
+      for (let entry of dataset) {
+        result[entry["field_name"]] = entry["val_cz"];
+      }
+    } else if (lang == "en") {
+      for (let entry of dataset) {
+        result[entry["field_name"]] = entry["val_en"];
+      }
+    } else {
+      console.log("no other language: " + lang);
+    }
+    return result;
   }
 
   onMount(async () => {
@@ -61,32 +84,34 @@
   });
 </script>
 
-<Head bind:sidebar={open} bind:query={searchQuery} {handleSubmit} />
-{#if open}
-  <aside class:open in:fly={{ x: -200, duration: 1000 }} out:fade>
-    {#await lang}
-      <p>waiting for content...</p>
-    {:then lang}
-      <nav>
-        {#each routes as route}
-          <a
-            href={route.href}
-            class:text-blue-300={route.href !== $page.route.id}
-            class:active={route.href === $page.route.id}
-            on:click={tgl}
-          >
-            {route.name}
-          </a>
-        {/each}
-        <Mode />
-      </nav>
-    {:catch error}
-      <p>oooo</p>
-    {/await}
-  </aside>
-{/if}
-<!-- This is where the page will be rendered -->
-<slot />
+<div style="--theme-color: {font_color}">
+  <Head bind:sidebar={open} bind:query={searchQuery} {handleSubmit} />
+  {#if open}
+    <aside class:open in:fly={{ x: -200, duration: 1000 }} out:fade>
+      {#await lang}
+        <p>waiting for content...</p>
+      {:then lang}
+        <nav>
+          {#each routes as route}
+            <a
+              href={route.href}
+              class:text-blue-300={route.href !== $page.route.id}
+              class:active={route.href === $page.route.id}
+              on:click={tgl}
+            >
+              {route.name}
+            </a>
+          {/each}
+          <Mode />
+        </nav>
+      {:catch error}
+        <p>oooo</p>
+      {/await}
+    </aside>
+  {/if}
+  <!-- This is where the page will be rendered -->
+  <slot />
+</div>
 
 <style>
   :global(body) {
@@ -94,20 +119,22 @@
     color: var(--font, midnightblue);
     transition: background-color 0.3s;*/
     background-color: whitesmoke;
-    color: midnightblue;
+    color: #191971;
+    color: var(--theme-color);
     /* important to set body-wide */
     margin: 0;
     padding: 0;
   }
 
   :global(body.dark-mode) {
-    /*background-color: var(--bg, #1d3040);
+    /* set to a variable does not work
+    background-color: var(--bg, #1d3040);
     color: var(--font, #bfc2c7);*/
     background-color: #1d3040;
     color: #bfc2c7;
   }
   nav {
-    background-color: whitesmoke;
+    /*background-color: whitesmoke;*/
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -119,9 +146,11 @@
   }
   aside {
     position: absolute;
+    color: currentColor;
+    background-color: currentColor;
     /*width: 100%;
-    height: 100%;*/
-    background-color: whitesmoke;
+    height: 100%;
+    background-color: whitesmoke;*/
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
       0 4px 6px -4px rgb(0 0 0 / 0.1);
     left: -100%;
@@ -130,6 +159,8 @@
   }
 
   a {
+    color: currentColor;
+    background-color: transparent;
     text-underline-offset: auto;
     padding: 3rem 5rem; /* 8px */
     padding-right: 5rem; /* 8px */
@@ -140,6 +171,11 @@
     align-self: center;
   }
 
+  a:hover,
+  a:focus {
+    background-color: yellowgreen;
+    cursor: pointer;
+  }
   a.active {
     background-color: aquamarine;
   }

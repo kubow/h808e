@@ -1,13 +1,10 @@
 <script>
-  import p5 from "p5-svelte";
-  let width = 55;
-  let height = 55;
+  // import p5 from "p5-svelte";
+  // let width = 55;
+  // let height = 55;
 
-  //will aproach with p5 in future
-  const sketch = (
-    /** @type {{ setup: () => void; createCanvas: (arg0: number, arg1: number) => void; draw: () => void; push: () => void; translate: (arg0: number, arg1: number) => void; rotate: (arg0: number) => void; pop: () => void; }} */ p5
-  ) => {
-    p5.setup = () => {
+  const sketch = () => {
+    /*p5.setup = () => {
       p5.createCanvas(700, 700);
     };
 
@@ -18,10 +15,11 @@
       p5.rotate(frameCount / 200.0);
       polygon(0, 0, 82, 3);
       p5.pop();
-    };
+    };*/
+    console.log("will aproach with p5 in future");
   };
 
-  function polygon(x, y, radius, npoints) {
+  /*function polygon(x, y, radius, npoints) {
     let angle = TWO_PI / npoints;
     beginShape();
     for (let a = 0; a < TWO_PI; a += angle) {
@@ -30,7 +28,7 @@
       vertex(sx, sy);
     }
     endShape(CLOSE);
-  }
+  }*/
 </script>
 
 <main>
@@ -83,5 +81,6 @@
     flex-basis: calc(50%);
     justify-content: center;
     flex-direction: column;
+    z-index: 0;
   }
 </style>

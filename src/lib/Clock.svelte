@@ -21,6 +21,9 @@
   let today = [];
   let dayOrNight = "AM";
 
+  /**
+   * @param {Date} d
+   */
   function weekNumber(d) {
     let first = +new Date(d.getFullYear(), 0, 1);
     let today = +new Date(d.getFullYear(), d.getMonth(), d.getDate());
@@ -28,6 +31,9 @@
     return Math.ceil(dayOfYear / 7).toString();
   }
 
+  /**
+   * @param {Date} d
+   */
   function weekDay(d) {
     let weekday = new Array(7);
     weekday[0] = "neděle"; //"Sunday";
@@ -40,6 +46,9 @@
     return weekday[d.getDay()];
   }
 
+  /**
+   * @param {Date} d
+   */
   function dayNumber(d) {
     let first = +new Date(d.getFullYear(), 0, 1);
     let today = +new Date(d.getFullYear(), d.getMonth(), d.getDate());
@@ -55,21 +64,47 @@
     for (let entry of calendar) {
       if (entry["`n_month`"] == month && entry["`n_day`"] == day) {
         if (entry["`calendar`"] == "cz_jmena") {
-          today.push("Dnes má svátek " + entry["`day_name`"]);
+          today = today.concat("Dnes má svátek " + entry["`day_name`"]);
         } else if (entry["`calendar`"] == "cz_important") {
-          today.push(entry["`day_name`"]);
+          today = today.concat(entry["`day_name`"]);
         } else if (entry["`calendar`"] == "cz_holiday") {
-          today.push(entry["`day_name`"]);
+          today = today.concat(entry["`day_name`"]);
         } else if (entry["`calendar`"] == "cz_other") {
-          today.push(entry["`day_name`"] + "(" + entry["`day_memo`"] + ")");
+          today = today.concat(
+            entry["`day_name`"] + "(" + entry["`day_memo`"] + ")"
+          );
         }
       }
     }
-    today.push(dayDesc);
+    today = today.concat(dayDesc);
+    console.log(today);
   });
 </script>
 
 <section>
+  <Popover arrowColor="#fff" action="hover" placement="bottom-start">
+    <div slot="target" class="clockWrapper">
+      <p class="clockDisplay">
+        {day}. {month}. {year} <br />
+        {hour} : {min} : {sec}
+        {dayOrNight}
+        <!-- <span class="tooltip-wrapper">
+          <span class="tooltip">
+            {#each today as line}
+              <p>{line}</p>
+            {/each}
+          </span>
+        </span> -->
+      </p>
+    </div>
+    <div slot="content" class="tooltip">
+      wassuo
+      {#each today as line}
+        <p>{line}</p>
+      {/each}
+    </div>
+  </Popover>
+
   <div class="clockWrapper">
     <p class="clockDisplay">
       {day}. {month}. {year} <br />
@@ -77,15 +112,9 @@
       {dayOrNight}
       <span class="tooltip-wrapper">
         <span class="tooltip">
-          {#await today}
-            <p>...data not yet loaded</p>
-          {:then today}
-            {#each today as important}
-              <p>{important}</p>
-            {/each}
-          {:catch error}
-            <p style="color: red">error: {error.message}</p>
-          {/await}
+          {#each today as line}
+            <p>{line}</p>
+          {/each}
         </span>
       </span>
     </p>
@@ -109,7 +138,7 @@
     display: inline;
     margin: auto;
     border-radius: 17px;
-    background: #ffffff;
+    background: none;
   }
   .clockDisplay {
     font-size: 0.75em;

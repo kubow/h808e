@@ -134,12 +134,10 @@
     border: 1px solid #ccc;
     padding: 10px 20px;
     font-size: 20px;
-    color: black;
   }
 
   .content {
     padding: 10px;
     background: #fff;
-    color: purple;
   }
 </style>

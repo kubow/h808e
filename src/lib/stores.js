@@ -41,26 +41,6 @@ export const time = readable(new Date(), function start(set) {
 	};
 });
 
-/**
- * @param {any} dataset
- */
-export function translate(dataset, change="") {
-	let result = {};
-	let lang="";
-	if (change) {lang=change} else {lang=findLocaleMatch()};
-	if (lang=='cz') {
-		for (let entry of dataset) {
-			result[entry["field_name"]] = entry["val_cz"];
-		}
-	} else if (lang=='en') {
-		for (let entry of dataset) {
-			result[entry["field_name"]] = entry["val_en"];
-		}
-	} else {
-		console.log('no other language: '+lang)
-	};
-	return result
-};
 
 /**
  * @param {number} initialValue

@@ -3,13 +3,24 @@
   import Btn from "./Btn.svelte";
   import { h808e, loadDataUrl } from "./stores.js";
   import Popover from "svelte-popover";
+
+  /**
+   * @type {RequestInfo | URL}
+   */
+  let addr;
   //
   /**
    * @type {any}
    */
   export let data_set;
+  // will be 4 independent values in the future
+  // 1. title (card title)
+  // 2. content (short introdution aspart of the database)
+  // 3. image (path to a thumbnail)
+  // 3. ref - referrence to a web page with more details
+
   /**
-   * @type {null}
+   * @type {() => Promise<string>}
    */
   let currentContent;
 
@@ -17,22 +28,20 @@
    * @param {{ source_address: RequestInfo | URL; url: string; }} source
    */
   async function prepareSource(source) {
-    currentContent = null;
     console.log("preparing source");
     if (source.source_address) {
-      currentContent = await loadDataUrl(source.source_address);
-      console.log(currentContent);
+      const addr =
+        "https://cors-anywhere.herokuapp.com/" + source.source_address;
     } else if (source.url) {
-      currentContent = await loadDataUrl(
-        $h808e.api.scrapestack.url.replace(
-          "BOBOK",
-          $h808e.api.scrapestack.access_key
-        ) + source.url
-      );
-      console.log(currentContent);
+      const addr = "https://cors-anywhere.herokuapp.com/" + source.url;
+    } else if (source.wiki_cs) {
+      const addr = "https://cors-anywhere.herokuapp.com/" + source.wiki_cs;
     } else {
+      const addr = "https://cors-anywhere.herokuapp.com/https://www.seznam.cz";
       console.log(source);
     }
+    let content = await fetch(addr);
+    currentContent = await content.text;
   }
 </script>
 
@@ -64,6 +73,8 @@
                 <slot name="card_source">
                   {#if x.source}
                     <p>{x.source.name}</p>
+                  {:else if x.name_cs}
+                    <p>{x.name_cs}</p>
                   {:else if x.source_address}
                     <p>{x.source_name}</p>
                   {:else if x.Nazev_cz}
