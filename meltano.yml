@@ -1,0 +1,31 @@
+version: 1
+default_environment: dev
+project_id: 6c354c9b-5c4f-4a5a-bb1e-f8b546f585bb
+environments:
+- name: dev
+- name: staging
+- name: prod
+plugins:
+  extractors:
+  - name: tap-csv
+    variant: meltanolabs
+    pip_url: git+https://github.com/MeltanoLabs/tap-csv.git
+    config:
+      add_metadata_columns: true
+      files:
+      - entity: ENC
+        path: ./backup/enc.csv
+        keys:
+        - node_id
+        encoding: UTF-8
+      - entity: LANG
+        path: ./backup/language.csv
+        keys:
+        - ID
+        encoding: UTF-8
+  loaders:
+  - name: target-jsonl
+    variant: andyh1203
+    pip_url: target-jsonl
+    config:
+      destination_path: ./src/lib/store
