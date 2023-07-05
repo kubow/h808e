@@ -1,0 +1,26 @@
+ID,fieldname,fieldtype,fieldinfo,defval
+1,timestamp,text,time of record occured,NULL
+2,Temperature1,integer,temperature,0
+3,Humidity,integer,humidity,0
+4,RainFalls,integer,rainfalls,0
+5,WindSpeed,integer,wind speed,0
+6,WindDirection,text,wind direction,"""0"""
+7,Luminosity,integer,photorezistor,0
+8,x8,integer,,0
+9,x9,integer,,0
+10,x10,integer,,0
+11,x11,integer,,0
+12,x12,integer,,0
+13,x13,integer,,0
+14,x14,integer,,0
+15,x15,integer,,0
+16,x16,integer,,0
+17,x17,integer,,0
+18,x18,integer,,0
+19,x19,integer,,0
+20,x20,integer,,0
+21,x21,integer,,0
+22,x22,integer,,0
+23,x23,integer,,0
+24,x24,integer,,0
+25,device,integer,"device, which recorded measurement",0

@@ -1,0 +1,164 @@
+ID,ABB,MEAN,MEMO
+1,ACID,"Atomicity, Consistency, Isolation, Durability",property of a good database
+2,ADT,ABAP Development Tools,
+3,AFL,Application Function Library,
+4,API,Application Programming Interface,
+5,ASE,Adaptive Server Enterprise,
+6,ASE,Adaptive Server Enterprise,SAP Sybase OLTP database
+7,BA,Business Analytics,"""newer"" term for BI"
+8,BAPI,Business Application Programming Interface,Standardized programming interface that enables external applications to access business processes and data in an SAP System.
+9,BAdi,SAP delivered Business Add,In's  used to customize SAP ERP components for SAP Industry solutions and country variants. Also available for customers and partners for project specific enhancements.
+10,BDC,Batch Data Communication,technology used for data transfer thru SAP transactions using different options for foreground/background processing.
+11,BFL,Business Function Library,part of HANA
+12,BI,Business Intelligence,"""older"" term for BA"
+13,BOA,Business Objects Analysis,
+14,BOBJ,Business OBJects,
+15,BODS,Business Object Data Services,
+16,BOR,Business Object Repository,Central repository within the SAP System containing all the SAP business object types and SAP interface types together with their definitions and methods
+17,BPC,Business Planning and Consolidation Application,"available in a Microsoft version and a SAP NetWeaver version. The NetWeaver version requires BW, and can also utilize BW on HANA."
+18,BW,SAP NetWeaver Business Warehouse,"for example 7.3, runs on traditional RDBMS, SAP NetWeaver BW, or on HANA, SAP NetWeaver BW on HANA"
+19,BWA,SAP Business Warehouse Accelerator,"no further development, superfluous w BW on HANA"
+20,CDA,Case Direct Access,
+21,CIS,Component Integration Services,
+22,CO-PA,Controlling Profitability Analysis,Module in SAP ECC
+23,CRC,Cyclic Redundant Check,
+24,CSB,Concurent License,
+25,CTLIB,ClienT LIBrary,
+26,CapEx,Capital Expenditure,Balance Sheet item where the depreciation amounts impact the P&L
+27,Column Store,DB storage engine that stores each column (attribute) of a table sequentially in a contiguous area of memory,
+28,Compression,Encoding information to achieve a lower consumption of in memory space,
+29,D&T,Development & Testing,
+30,DA,Data architekt,
+31,DDIC,Data Dictionary stores in ERP all the meta data and ensures consistency across all tables,
+32,DDL,Data Definition Language,
+33,DML,Data Manipulation Language,
+34,DMS,Document Management System,
+35,DR,Disaster Recovery,usually restore from Backup
+36,DS,SAP (BusinessObjects) DataServices,part of EIM
+37,DS-DI,DataServices Data Integrator,
+38,DS-DQ,DataServices Data Quality,
+39,DSO,Day Sales Outstanding (FI KPI ),part of SAP's Working Capital Analyze on HANA
+40,DSS,Decission Support System,
+41,DTM,Distribute Transaction Management,
+42,DU,Deployment Unit,most granular level for HANA content patches
+43,DXC,Direct Extractor Connection,
+44,ECC,ERP Central Component,"formerly known as R/3, before the R/3 system was separated into individual instances like HCM, APO(SCM), SRM for system performance and ease of patching, latest incarnation SAP BusinessSuite"
+45,EDW,Enterprise Data Warehouse,
+46,EDW,Enterprise Data Warehouse,"BW is SAP's EDW Buy solution, Sybase IQ  the EDW Built solution, which requires a separate ETL tool and Data Modeling tool and Repository tool"
+47,EIM,Enterprise Information Management,
+48,ELT,"A variation is ETL, where data are loaded first (and persisted, and transformed later.",
+49,EMF,,
+50,EPM,Enterprise Performance Managament,
+51,ERD,Entity Relationship Diagram,Business Data Model
+52,TMS,Transportation Management System,
+53,ERP,Enterprise Resource Planning,https://en.wikipedia.org/wiki/Enterprise_resource_planning
+54,HANA,High-Performance Analytic Appliance,
+55,ESP,SAP Sybase Event Stream Processor,
+56,ETL,"Extract, Transform, Load (reading, converting, writing)",
+57,ETL,"Extract, Transform, Load","a Data Warehousing term to describe the process of physically moving the data from a source to a target data mart or data warehouse, and at the same time applying master data management processes, like data harmonization etc. and data transformation or manipulation processes"
+58,Eclipse,"Development framework in JAVA, open source project by IBM",
+59,FA,Financial accounting in SAP ERP,
+60,FI,Finance in SAP ERP,
+61,GAM,Global Allocation Map,
+62,GRC,"Governance, Risk and Compliance",
+63,GTS,Global Trade Services,
+64,HA,High Availability,"based on planned and un-planned downtime, can be product or software based, usually mentioned in connection w DR, and based on SLA's. Planned uptime usually 98%."
+65,HAF,"HANA Analytical Foundation, please see SAP HANA Live",
+66,HCP,"HANA Cloud Platform provides SAP's IaaS, PaaS and SaaS services",
+67,HEC,"HANA Enterprise Cloud, provides SAP's MCaaS and other Cloud services",
+68,Hot Patching,Applying Fixes or SP's or SPS's to a productive system without system downtime,
+69,IDE,Integrated Development Environment,
+70,ILM,Information Lifecycle Management,
+71,IQ,SAP Sybase OLAP data base,
+72,L,"Usedin HANA for binding variables in PAL and BFL, which is done  currently by AFL",
+73,LDAP,Lightweight Directory Access Protocol,
+74,LDM,Logical Data Model,
+75,LOB,"Line of Business, e.g.: FI","Finance, sometimes also called: Global Controlling or just: Accounting"
+76,(S)LT,"SAP Landscape Transformation, Trigger based Table replication service",originally developed as TDMS Test Data Migration Server
+77,MDA,Monitoring Data Access (MDA tables),
+78,MDG,Multi Dimensional Governance (also Master Data Governance ),SAP ECC based Master Data Management application
+79,MDM,Multi-Dimensional Management,"also Mobile Device Management or Master Data Management, a SAP NetWeaver solution,  part of EIM"
+80,MDM -1,Master Data Management,"SAP NetWeaver, succeeded by SAP MDS"
+81,MDM -2,Mobile Device Management,as in SAP AFARIA
+82,MDX,Multi-Dimensional Expression,SQL enhancement
+83,MM,"Materials management in SAP ERP, includes Purchasing and Inventory Management, but not SRM",
+84,MPP,Massively Parallel Processing,
+85,NSIQ,Non-Stop IQ connect with VBDB,
+86,NoSQL,Not Only SQL,advanced SQL data bases
+87,OAM,Object Allocation Map,
+88,OEM,Original equipment manufacturer,
+89,OLAP,On Line Analytical Processing,
+90,OLAP/OLTP,On-Line Analytics Processing/Transactional Processing,
+91,OLTP,On Line Transaction Processing,
+92,Opex,"Operational Expenses in P&L, maintained in yearly Budget",
+93,PAL,Predictive Algorithm Library,
+94,PAM,Product Availability Matrix,
+95,PD,PowerDesigner,
+96,PMML,Predictive Modeling Markup Language,
+97,POC,Proof of Concept,
+98,PostgreSQL,Open Source Relational database,
+99,R,open source programming language and software environment for statistical computing and graphics,
+100,R/3,"SAP's ERP system on (3) client tier architecture, R/2 is SAP mainframe based ERP solution",
+101,RDBMS,Relational Database Management System,
+102,RDL,River Definition Language,"Much of this complexity in traditional development languages is due to the fact that traditional application run-times are performance bound. In order to achieve optimal execution, the application�s code undergoes careful optimizations. Data load and transfers, query optimizations, etc. to work with the underlying engine.  Such optimizations do not add business value as they have nothing to do with the realization of business requirements in code. We have completely rethought this process based on the new capabilities enabled by HANA. The result is a simplification of the development process because we can now eliminate such optimizations from appearing in the code.  Uses XS."
+103,RDS,Rapid Development Solution,a service by SAP Service
+104,RDTP,Real Time Data Platform,
+105,RFC,SAP Protocol for data transfer,
+106,RFI,Recover Failure Isolation,
+107,RPC,Remote Procedure Call,
+108,RPS,Request per Second,
+109,SAML,Security Assertions Markup Language,
+110,SAN,Shared Area Network Storage,
+111,SAP,"System, Applications & Products",
+112,SCC,Sybase Control Center,
+113,SDC,Sybase Direct Control,
+114,SDK,Software Developer Kit,
+115,SFIN,Simple Finance,SAP FI application developed natively in HANA
+116,SHL,"SAP HANA HANA Live, formerly know as SHAF","the SAP Business Suite Analytics based on Virtual Data Models (VDM) or Virtual Data Layers (VDL), not requiring persistent data in addition to the ECC transaction tables"
+117,SID,System Identification,
+118,SLT,"Another variation of ETL (Stream, Load, Transform, Extensions)","Used to describe enhancement to applications which do not modify the application code, and are developed in a cloud environment.."
+119,SP,Support Package,"Versions of Software Components e.g. SAP BASIS, SAP ABA, SAP BBPCRM, PI are delivered via Support Packages"
+120,SPARQL,standard query language for linked data in GRAPH data bases,
+121,SPS,Support Package Stack,
+122,SQLA,SAP Sybase Mobile database SQL Anywhere,
+123,SRM,Supplier Relationship Management part of SAP Business Suite,
+124,SRS,System Replication Service,Log based
+125,SSIS,SQL Server Integration Services,(https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services)
+126,Studio,SAP HANA Studio is the Eclipse based HANA Development Workbench,
+127,SySAM,Sybase Software Asset Management,licensing software
+128,TCO,Total Cost of Ownership,Opex and Capex
+129,TDS,Tabular Data Storm,
+130,TDS protocol,Tabular Data System,
+131,TP,Technicka podpora,
+132,TPM,Trade Promotion Management,
+133,VBDB,Virtual Backup of Database,
+134,VDL,"Virtual Data Layer, please see HANA Live  for more details",
+135,VDM,"Virtual Data Mart, please see HANA Live for more details",please see HANA Live for more details
+136,XS,SAP HANA Extended Application Services,"embedded into HANA Appserver and app development. Part of the HANA execution runtimes, together with the HANA Calculation Engine, both used by RDL. Also SAP HANA platform for Business Framework and Business Rules Framework"
+137,ABAP,Advanced Business Application Programming,
+138,CRM,Customer RelationShip Management,
+139,SCM,Supply Chain Management,
+140,PLM,Product Lifecycle Management,
+141,LCM,Life Cycle Management,
+142,MVCC,Multiversion Concurency Control,concept that ensures transactional data consistency by isolating transactions that are accessing the same data at the same time (aka Garbage Collector)
+143,DMO,Database Migration Option,
+144,SUM,Software Update Manager,
+145,MDC,Multitenant Database Container,since HANA SPS01 - the only option
+146,SCOS,Single Component on One System,
+147,MCOD,Multiple Components on One Database,
+148,MCOS,Multiple Components on One System,
+149,ALE,Application Link Enabling,ALE exchanges messages across R/3 systems. ALE uses the IDOC-format
+150,ATO,Assemble To Order,
+151,CTO,Configure To Order,
+152,CWG,Configuration Work Group,
+153,ECM,Engineering Change Management,
+154,IDOC,Ontermediate DOCuments,format to communicate between different SAP systems
+155,UI,User Interface,
+156,ISA,Internet Sales Application,SAP web commerce application integrated against SAP ERP or SAP CRM
+157,CCL,Common Crypto Lib,SAP Crypto Library (SSL replacement)
+158,AWS,Amazon Web Services,
+159,XML,eXtensible Markup Language,
+160,XSL(T),eXtensible Stylesheet Language (Transformation),
+161,REST,,
+162,SQL,Structured Query Language,
+163,JSON,JavaScript Object Notation,

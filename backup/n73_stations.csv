@@ -1,0 +1,17 @@
+ID,MachineName,MachineDesc,Manufacturer,IPAddress,HomeSite,OpSystem,OpSysType,ComAddress,ComAddLast,BaudeRate,HelpTheme
+1,JAV-PC,Working Station,Intel,,,Windows 10,win,COM5,COM5,9600,
+2,P297C,Personal Station,Lenovo,,,Linux,lnx,/dev/ttyUSB0,/dev/ttyACM0,9600,
+3,xps13kde,Hybrid station,Dell,,,Linux,knx,,,,
+4,yyyyy,,,,,,,,,,
+5,arduino,,,,,,,/dev/ttyACM0,/dev/ttyACM0,,
+6,cp06,dummy windows,Intel,,,Windows XP,win,COM1,COM5,9600,
+7,iPad,,Apple,,,iOS,,,,,
+8,Kubow-WP10,,Microsoft,,,Windows Mobile,,,,,
+9,openELEC,RPi,RPi,192.168.88.201,,Linux,lnx,/dev/ttyUSB0,/dev/ttyACM0,9600,
+10,MISKA,,Huawei,192.168.88.202,,Android,,,,,
+11,CHIP,,Next Thing Co.,,,Linux,lnx,/dev/ttyUSB0,/dev/ttyGS0,9600,
+12,cp12,dummy linux,,,,N/A Linux,lnx,/dev/ttyACM0,/dev/tty,9600,
+13,NECINDATA,NAS Necin,,192.168.88.200,http://192.168.88.200:8080/cgi-bin/,,,,,,
+14,CUBIETRUCK,Kuba - cubieboard server Debian Wheezy,,192.168.0.8,,,lnx,,,,
+15,192.168.0.9,localhost,,192.168.0.9,,,,,,,
+16,CUBIEBOARD,Home Server,CubieTech,192.168.1.107,http://192.168.1.107/HAC/,Linux,lnx,/dev/ttyUSB0,/dev/ttyUSB0,9600,http://www.cubieforums.com/index.php?topic=103.0

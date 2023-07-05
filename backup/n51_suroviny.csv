@@ -1,0 +1,173 @@
+ID,nazev,nazev_en,botanik,alias,typ,popis,puvod,vune,chut,varovani,obr,ucinky,sklizi,propojeno
+1,Durian,Durian,durian cibetkový,Král ovoce,0,ostnatý se žlutým masem,Thajsko,pronikavý pach,sladká ořechová,,durian.jpg,,,178
+2,Acai bobule,Acai berries,euterpe brazilská,Ovoce bohů,1,palma Acai v pralesech,Brazílie,,,,acai.jpg,"nejsilnější přírodní antioxidant,  urychluje metabolismus, snižuje cholesterol, napomáhá optimalizaci tělesných funkcí, podporuje pocit svěžesti a tlumí chuť k jídlu",,
+3,Aloe Vera,Aloe Vera,aloe pravá,,13,sukulentní rostlina,severní Afrika,,,,aloe_vera.jpg,"antibakteriální, antivirové, s pozitivním působením na svaly a klouby, zlepšuje krevní tlak, pomáhá při překyselení žaludku a pálení žáhy, prevence nádorových onemocnění, doplněk stravy, antihistamické vlastnosti (popálení, opary, alergické reakce)",,
+4,Chia,Chervil,šalvěj hispánská,Chia semínka,13,,jižní Amerika,,,,chia.jpg,,0101,253
+5,Chlorella,Chlorella,,,0,Jednobuněčná sladkovodní řasa,,,,,chlorela.jpg,"Představuje jeden z nejbohatších zdrojů vitamínů, minerálů a dalších vzácných látek. Obsahuje přírodní antibiotikum jež dokáže zastavit či potlačit řadu infekcí včetně boreliózy. Podporuje trávení, oslabuje chronickou únavu a pozitivně ovlivňuje spánek, myšlení a paměť.",,
+7,Maka kořen,Maca root,řeřicha peruánská,,,kořen připomínající řepu,Peru,,,,maca.jpg,"působí na zvýšení fyzické odolnosti, vytrvalosti a optimalizování hormonální hladiny. Způsobuje nárůst síly a svalové hmoty, posiluje imunitu a pomáhá při léčbě osteoporózy, chudokrevnosti i rakoviny.",,
+8,Ječmen,Barley,ječmen obecný,,,Extrakt z listů mladého ječmene,,,,,jecmen.jpg,"má vysokou výživovou hodnotu spojenou s velkými detoxikačními účinky. Snižuje překyselení organismu, tělesné pachy a riziko rakoviny. Dlouhodobě zlepšuje psychiku, normalizuje hladinu cukrů v krvi a působí příznivě na peristaltiku střev.",,51
+9,Jackfruit,Jackfruit,chlebovník různolistý,,0,"roste na chlebovníku, vážící až 20 kg",Malajsie,vůně po svěžích banánech a mangu,chuť po svěžích banánech a mangu,slupka obsahuje přírodní latex,jackfruit.jpg,,,185
+10,Pitahaya,Dragonfruit,pithaya,,0,plody kaktusu,Vietnam,,připomíná meloun nebo kiwi,,dragonfruit.jpg,,,
+11,Maracuja,Passionfruit,Mučenka jedlá,,0,,Vietnam,,sladkokyselá s pocitem exploze svěžesti,,passionfruit.jpg,,,198
+12,Salak,Snakefruit,Salaka jedlá,,0,trvanlivé ovoce se slupkou připomínající hadí kůži,Thajsko,,"připomíná jahody, ananas a banán v lehce zemitém nádechu",pecka uvnitř nejedlá,snakefruit.jpg,,,
+13,Longan,Longan,Longan,Dračí oko,0,,Vietnam,aromatická,medová,pecka uvnitř nejedlá,longan.jpg,,,466
+14,Banán,Banana,Banánovník,,0,,,,,,banan.jpg,,,167
+15,Baby banán,Banana,Banánovník druhý,baby banana,0,,Thajsko,,intenzivnější a sladší,,banan_baby.jpg,,,167
+16,Cukr třtinový,Sugar,třtinovec cukrový,,0,,JAR,,sladká a zelená,,trtina.jpg,,,
+17,Guanábana,Graviola,anona ostnitá,Anona,0,,Malajsie,,"kombinace jahod, kokosu, ananasu a banánu",semena se nekonzumují,guanabana.jpg,,,
+18,Gacfruit,Gacfruit,Gac,,0,"velice měkké a křehké, ceremoniální ovoce",Vietnam,,"svěží, plná a nepříliš sladká",,gacfruit.jpg,,,
+19,Salát,Salad,locika setá (salát),,13,,,,,,,,,837
+20,Špenát,Spinach,špenát setý,,13,,,,,,,,0100,396
+21,Polníček,Lamb's lettuce,kozlíček polníček,,13,,,,,,,,,
+22,Hořčice,Mustard,bělohořčice setá,,13,,,,,,,,,356
+23,Roketa,Rocket salad,roketa setá,,13,,,,,,,,,423
+24,Vinná réva,Grape,réva vinná,Víno,0,,Středozemí,,,,,,,182
+25,Šťovík,Sorrel,šťovík kyselý,,13,,Evropa/Asie,,,,,,0100,443
+26,Mangold,Mangold,mangold,,1,,,,,,,,,
+27,Kopřiva,Nettle,kopřiva dvoudomá,,13,,,,,,,,,
+28,Kapusta listová,Cabbage,dřeňová kapusta,,1,,,,,,,,,353
+29,Květák,Cauliflower,květák,,1,,,,,,,,,354
+30,Kedluben,Kohlrabi,kedluben,,1,,,,,,,,,359
+31,Brokolice,Broccoli,brokolice,,1,,,,,,,,,351
+32,Kadeřávek,Cabbage,kadeřavá kapusta,savoy cabage,1,,,,,,,,,353
+33,Růžičková kapusta,Brussels Sprout,růžičková kapusta,,1,,,,,,,,,352
+34,Kapusta hlávková,Cabbage,hlávková kapusta,,1,,,,,,,,,353
+35,Hlávkové zelí,Cabbage,brukev zelná (hlávkové zelí),,1,,,,,,,,,353
+36,Zelí pekingské,Cabbage,brukev pekingská,,1,,,,,,,,,353
+37,Granátové jablko,Pomegranate,marhaník granátový,,0,,,,,,,,,394
+38,Citron,Lemon,citrus limonový,,0,,,,,,,,0001,240
+39,Limetka,Lime,citrus limonový limeta,,0,,,,,,,,,241
+40,Ostružina,Blackberry,ostružiník maliník (maliník),,0,,,,,,,,,222
+41,Malina,Raspberry,ostružiník maliník (maliník),,0,,,,,,,,,233
+42,Jablko,Apple,jabloň domácí,jablíčko,0,,,,,,,,,162
+43,Hruška,Pear,hrušeň obecná,,0,,,,,,,,,202
+44,Švestka,Plum,slivoň švestka (švestka),,0,,,,,,,,0001,207
+45,Meruňka,Apricot,meruňka obecná,,0,,,,,,,,0001,164
+46,Broskev,Peach,broskvoň obecná,,0,,,,,,,,,201
+47,Třešeň,Cherry,třešeň ptačí (třešeň),,0,,,,,,,,,224
+48,Višeň,Sour Cherry,třešeň višeň (višeň),,0,,,,,,,,,226
+49,Arašídy,Peanut,podzemnice olejná,,2,,,,,,,,,287
+50,Celer,Celery,miřík celer,celer řapíkatý,1,,,,,,,,,329
+51,Cibule,Onion,cibule kuchyňská,"red skin, white skin, bílá, červená",1,,,,,,,,1100,348
+52,Česnek,Garlic,česnek kuchyňský,,13,,,,,,,,,259
+53,Lanýž,Truffle,,,,,,,,,,,,329
+54,Kešu,Cashew nut,ledvinovník západní,,2,,,,,,,,1100,411
+55,Madle,Almond,mandloň obecná,,2,,,,,,,,1100,281
+56,Cibule jarní,Welsh onion,cibule šalotka,,1,,,,,,,,1100,472
+57,Čočka,Lentils,čočka kuchyňská,,,,,,,,,,,429
+58,Cizrna,Chickpea,cizrna beraní,,,,,,,,,,,417
+59,Čokoláda,Chocolate,kakaovník pravý,,,,,,,,,,,817
+60,Cuketa,Zucchini,"tykev, cukina",,1,,,,,,,,,969
+61,Dýně,Pumpkin,dýně,,1,,,,,,,,,209
+62,Fazole,Beans,fazol obecný,,,,,,,,,,,284
+63,Fenykl,Fennel,fenykl obecný,,13,,,,,,,,,257
+64,Hrách,Peas,hrách setý,,,,,,,,,,,288
+65,Pažitka,Chive,pažitka pobřežní,,13,,,,,,,,0100,343
+66,Patizon,Pattypan,patison,,1,,,,,,,,,
+67,Petržel,Parsley,petržel obecná,,13,,,,,,,,,338
+68,Pórek,Leek,pór zahradní,,1,,,,,,,,,345
+69,Rajče,Tomato,lilek rajče (rajče jedlé),,1,,,,,,,,,364
+70,Goji,Goji,kustovnice čínská,"kustovnice, čínské tajemství dlouhověkosti",0,,,,,,,,,
+71,Noni,Noni,morinda barvířská,,0,,,,,,,,,
+72,Citronová tráva,Lemon Grass,voňatka citronová,,13,,,,,,,,0100,113
+73,Řepa červená,Beetroot,řepa červená,,1,,,,,,,,1000,367
+74,Acerola,Acerola,malpígie lysá,malpígie,1,,,,,,,,,491
+75,Chřest,Asparagus,chřest lékařský,Špargl,1,,,,,,,,0100,371
+76,Zázvor,Ginger,zázvor lékařský,,,,,,,,,,,333
+77,Kopr,Dill,kopr vonný,,13,,,,,,,,0101,256
+78,Opuncie,Prickly pear,opuncie hnědoostná (nopál hnědoostný),,,plody kaktusu,,,,,,,,
+79,Agastache,Agastache,Agastache anýzová,,13,,,,,,,,0011,
+80,Angrešt,Gooseberry,"srstka angrešt (angrešt, meruzalka srstka)",,0,,,,,,,,0001,230
+81,Bazalka,Basil,bazalka pravá,,13,,,,,,,,0101,250
+82,Benedikt,Benedict,benedikt lékařský,,13,,,,,,,,,
+83,Čekanka,Chicory,čekanka obecná,,,,,,,,,,,303
+84,Divizna,Mullein,divizna velkokvětá,,13,,,,,,,,,
+85,Dobromysl,Oregano,dobromysl obecná,Oregáno,13,,,,,,,,,337
+86,Ibišek,Hibiscus,ibišek syrský,,,,,,,,,,,
+87,Kukuřice,Corn,kukuřice setá,,,,,,,,,,0001,56
+88,Levandule,Lavendar,levandule lékařská,jedlá levandule,13,,,,,,,,0100,160
+89,Libeček,Lovage,libeček lékařský,,13,,,,,,,,0100,116
+90,Mák,Poppy Seed,mák setý,,,,,,,,,,0001,395
+91,Máta,Mint,máta peprná,,13,,,,,,,,0100,262
+92,Mateřídouška,Thyme,mateřídouška úzkolistá,,13,,,,,,,,0100,269
+93,Meduňka,Lemon Balm,meduňka lékařská,,13,,,,,,,,0100,260
+94,Mrkev,Carrot,mrkev obecná setá,,1,,,,,,,,1000,368
+95,Ostropestřec,Thistle,ostropestřec mariánský,,13,,,,,,,,0001,754
+96,Pelyněk,Sage-brush,pelyněk estragon,,13,,,,,,,proti hmyzu,0100,
+97,Rozmarýn,Rosemary,rozmarýn lékařský,,13,,,,,,,,0100,264
+98,Růže,Rose,růže galská,,13,,,,,,,,0011,161
+99,Rybíz červený,Currant,rybíz červený (meruzalka červená),,0,,,,,,,,0001,173
+100,Řeřicha,Watercress,lichořeřišnice větší,kapucínka,13,,,,,,,,1100,313
+101,Řebříček,Yarrow,řebříček obecný,,13,,,,,,,,0100,132
+102,Šalvěj,Sage,šalvěj lékařská,,13,,,,,,,,0101,265
+103,Heřmánek,Chamomile,heřmánek pravý,,13,,,,,,,,0100,102
+104,Konopí,Cannabis,konopí indické,,13,,,,,,,,0011,
+105,Ořech,Walnut,ořešák královský,Vlašák,2,,,,,,,,0001,297
+106,Žampion,Champignon,,,4,,,,,,,,,
+107,Pomeranč,Orange,pomerančovník čínský,,0,,,,,,,,,194
+108,Pomelo,Pummelo,pomelo,,0,,,,,,,,,418
+109,Grep,Grapefruit,grapefruit,,0,,,,,,,,,238
+110,Kiwi,Kiwifruit,aktinidie lahodná,,0,,,,,,,,,186
+111,Koriandr,Coriander,koriandr setý,,13,,,,,,,,,254
+112,Kokos,Coconut,kokosovník ořechoplodý,,2,,,,,,,,,172
+113,Sója,Soybean,sója luštinatá,,,,,,,,,,,289
+114,Anýz,Anise,bedrník anýz,,13,,,,,,,,,323
+115,Kmín,Caraway,kmín kořenný,,13,,,,,,,,,326
+116,Tymián,Thyme,mateřídouška obecná (tymián),,13,,,,,,,,,269
+117,Řepa bílá,Sugar beet,řepa cukrovka,,1,,,,,,,,,
+118,Saturejka,Satureja,saturejka zahradní,,13,,,,,,,,,
+119,Meloun,Melon,meloun cukrový,,1,,,,,,,,,191
+120,Rukola,Rocket salad,roketa setá,,13,,,,,,,,,423
+121,Ředkev,Radish,ředkev setá ředkvička,,1,,,,,,,,,357
+122,Brambor,Potato,lilek brambor,,1,,,,,,,,,373
+123,Okurka,Cucumber,okurka setá,,1,,,,,,,,,366
+124,Lilek,Eggplant,lilek vejcoplodý,,1,,,,,,,,,387
+125,Ringle,Plumcot,slivoň renklóda,mirabelka,0,,,,,,,,,
+126,Minikiwi,Kiwifruit,aktinidie význačná,,0,,,,,,,,,186
+127,Meloun vodní,Melon,lubenice obecná (vodní meloun),,1,,,,,,,,,191
+128,Kumquat,Kumquat,kumquat,,0,,,,,,,,,239
+129,Vejce,Egg,,,12,,,,,,,,,0
+130,Ušeň,Abalone,,škeble,,,,,,,,,,489
+131,Lískový ořech,Acorn,líska obecná,,2,,,,,,,,,492
+132,Jogurt,Yogurt,,,9,,,,,,,,,94
+133,Kvasnice,Yeast,,,,,,,,,,,,993
+134,Rýže,Rice,rýže setá,,,,,,,,,,,55
+135,Pšenice,Wheat,pšenice setá,,,,,,,,,,,452
+136,Voda,Water,,,,,,,,,,,,794
+137,Tofu,Tofu,sója luštinatá,,,,,,,,,,,823
+138,Čaj,Tea,čajovník čínský,,,,,,,,,,,310
+139,Slunečnice,Sunflower,slunečnice roční,,,,,,,,,,,426
+140,Cukr bílý,Sugar,řepa cukrovka,,,,,,,,,,,781
+141,Agar,Agar,,,,,,,,,,,,494
+142,Máslo,Butter,,,,,,,,,,,,60
+143,Sýr,Cheese,,,,,,,,,,,,62
+144,Avokádo,Avocado,hruškovec přelahodný,,,,,,,,,,,165
+145,Datle,Dates,datlovník pravý,,,,,,,,,,,177
+146,Fík,Fig,fíkovník smokvoň,,,,,,,,,,,181
+147,Černý bez,Elderberry,bez černý,,,,,,,,,,,179
+148,Mango,Mango,mangovník indický,,,,,,,,,,,190
+149,Papája,Papaya,papája obecná,,,,,,,,,,,196
+150,Ananas,Pineapple,ananasovník chocholatý,,,,,,,,,,,206
+151,Vanilka,Vanilla,vanilkovník plocholistý,,,,,,,,,,,245
+152,Moruše,Mulberry,morušovník bílý,moruše bílá/černá,,,,,,,,,,434
+153,Lékořice,Liqourice,lékořice lysá,pendrek,,,,,,,,,,261
+154,Rebarbora,Rhubarb,reveň kadeřavá,,,,,,,,,,,263
+155,Kakao,Cocoa,kakaovník pravý,,,,,,,,,,,283
+156,Sůl,Salt,,,,,,,,,,,,778
+157,Pektin,Pectin,,,,,,,,,,,,858
+158,Jedlá soda,Baking Powder,,,,,,,,,,,,996
+159,Ječmen,Barley,ječmen obecný,,,,,,,,,,,51
+160,Oves,Oats,oves setý,,,,,,,,,,,54
+161,Quinoa,Quinoa,merlík čilský,,,,,,,,,,,616
+162,Špalda,Spelt,pšenice špalda,,,,,,,,,,,649
+163,Bulgur,Bulgur,Bulgur,,,,,,,,,,,865
+164,Ghí,Ghee,,,,,,,,,,,,87
+165,Mléko,Milk,,,,,,,,,,,,88
+166,Artyčok,Artichoke,artyčok kardový,,,,,,,,,,,157
+167,Jasmín,Jasmine,jasmín pravý,,,,,,,,,,,159
+168,Pampeliška,Dandelion,pampeliška lékařská,,,,,,,,,,,449
+169,Chléb,Bread,,,,,,,,,,,,
+170,Pastiňák,Parsnip,pastinák setý,,,,,,,,,,,
+171,Myrta,Myrrh,myrta obecná,,,,,,,,,,,
+172,Ženšen,Ginseng,ženšen pravý,,,,,,,,,,,
+173,Rakytník,Sea Buckthorns,rakytník řešetlákový,,,,,,,,,,,

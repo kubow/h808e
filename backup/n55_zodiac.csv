@@ -1,0 +1,13 @@
+ID,Abbr,sign_la,sign_en,sign_cz,from_day,from_month,to_day,to_month,keyword_en,keyword_cz,img
+1,AR,Aries,Ram,Beran,21,3,20,4,I believe,Věřím,20px-Aries.png
+2,TA,Taurus,Bull,Býk,21,4,21,5,I know,Znám,20px-Taurus.png
+3,GE,Gemini,Twins,Blíženci,22,5,21,6,I use,Používám,20px-Gemini.png
+4,CN,Cancer,Crab,Rak,22,6,22,7,I understand,Rozumím,20px-Cancer.png
+5,LE,Leo,Lion,Lev,23,7,23,8,I desire,Chci,20px-Leo.png
+6,VI,Virgo,Virgin,Panna,24,8,23,9,I balance,Balancuji,20px-Virgo.png
+7,LI,Libra,Scales,Váhy,24,9,23,10,I analyze,Zkoumám,20px-Libra.png
+8,SC,Scorpio,Scorpion,Štír,24,10,22,11,I will,Budu,20px-Virgo.png
+9,SG,Sagitarius,Archer,Střelec,23,11,21,12,I feel,Cítím,20px-Sagittarius.png
+10,CP,Capricorn,Goat,Kozoroh,22,12,20,1,I think,Myslím,20px-Capricorn.png
+11,AQ,Aquarius,Water Bearer,Vodnář,21,1,19,2,I have,Mám,20px-Aquarius.png
+12,PI,Pisces,Fishes,Ryby,20,2,20,3,I am,Jsem,20px-Pisces.png

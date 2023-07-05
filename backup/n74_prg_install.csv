@@ -1,0 +1,29 @@
+ID,program_id,library_name,special_command,install_lnx,install_win,comment
+1,os,python,python3,0,1,linux add alias
+2,os,wget,,0,0,
+3,os,mc,,1,,
+4,python,argparse,pip install argparse,0,0,built-in
+5,python,lxml,pip install lxml,,,
+6,python,feedparser,pip install feedparser,0,0,
+7,python,tkinter,,1,1,GUI builder
+8,python,serial,pip install serial,1,0,
+9,python,pyowm,pip install pyowm,,,
+10,python,OsmApi,pip install OsmApi,,,
+11,python,pySerial,pip install pySerial,,,
+12,python,importlib,pip install importlib,,,
+13,python,PIL,,1,1,
+14,python,Kivy,,0,0,GUI builder
+15,python,bs4,,,,
+16,python,numpy,pip install numpy,1,1,extended arrays
+17,python,pandas,pip install pandas,1,1,advanced data analysis
+18,python,scipy,,0,0,contains numpy+matplotlib+pandas
+19,python,skyfield,pip install skyfield,1,1,astronomical computations
+20,python,rpa,pip install rpa,1,1,automate tasks
+21,python,openpyxl,pip install openpyxl,1,1,handle MS excel files
+22,python,matplotlib,pip install matplotlib,1,1,graphing
+23,python,appJar,,0,0,GUI builder
+24,vscode,Settings Sync,,,,
+25,python,airflow,pip install airflow,0,0,data engineering tool
+26,python,dask,pip install dask,0,0,data engineering tool
+27,python,jupyter,pip install jupyter,1,1,collaboration tool
+28,python,scikit-lear,,,,machine learning algorithms

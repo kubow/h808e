@@ -1,0 +1,14 @@
+ID,metric_name,metric_type,metric_desc,metric_area
+1,error ratio,numeric,"number of known errors – such as missing, incomplete or redundant entries – within a data set corresponds to the size of the data set.
+",data
+2,empty values,numeric,number of empty values which usually indicate that information was missing or recorded in the wrong field.,data
+3,transformation error rates,numeric,number of problems with data transformation,data
+4,dark data ammount,numeric,"dark data is data that can’t be used effectively, often because of data quality problems.",data
+5,email bounce rates,numeric,unvalidated emails which are not valid,data
+6,data storage costs,price,data storage costs rising,data
+7,data time-to-value,numeric,how long it takes your team to derive results from a given data set.,data
+8,word count,numeric,number of words in a text,data
+9,completeness,numeric,compare ammount of data with provided information,data
+10,timeliness,time,actual data delivery vs scheduled,data
+11,consistency,numeric,compare record count distribution of values,data
+12,integrity,structural,confirm record level referential integrity between tables,data

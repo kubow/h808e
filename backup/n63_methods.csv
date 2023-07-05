@@ -1,0 +1,20 @@
+ID,Abb,Def_en,Def_cz,Princip,Skupina,Typ,Latky_analyza,Detekce
+1,TLC,Thin Layer Chromatography,chromatografie na tenké vrstvě,rozdělování,dle tvaru SF,planární,,
+2,HPTLC,High Pressure Thin Layer Chromatography,vysokotlaká chromatografie na tenké vrstvě,,dle tvaru SF,planární,,
+3,PC,Paper Chromatography,papírová chromatografie,,dle tvaru SF,planární,,
+4,CC,Column Chromatography,sloupcová chromatografie,adsorpce,dle tvaru SF,sloupcová,,
+5,GC,Gas Chromatography,plynová chromatografie,,dle tvaru MF,plyn,"těkavé, organické, anorganické",MS
+6,HPLC,High Pressure Liquid Chromatography,vysokotlaká kapalinová chromatografie,,dle tvaru MF,kapalina,"organické, biomolekuly, ionty, polymery",MS
+7,SFC,Supercritical Fluid Chromatography,superkritická fluidní chromatografie,,dle afinity,fluidum,,
+8,SEC,,výluková chromatografie,velikost částic,,,,
+9,GPC,Gel Permeacy Chromatography,gelová permeační chromatografie,velikost částic,,,,
+10,IEC,Ion Exchange Chromatography,iontově výměnná chromatografie,adsorpce,,,,
+11,AC,,afinitní chromatografie,,,,,
+12,LC,Liquid Chromatography,kapalinová chromatografie,,dle tvaru MF,kapalina,,
+13,UPLC,,ultratlaká kapalinová chromatografie,,,,,
+14,GLC,Gas Liqiud Chromatography,plynová rozdělovací chromatografie,,,,,
+15,GSC,Gas Sorption Chromatography,plynová adsorpční chromatografie,,,,,
+16,LSC,Liquid Sorption CHromatography,kapalinová adsorpční chromatografie,,,,,
+17,LLC,,kapalinová rozdělovací chromatografie,,,,,
+18,HILIC,,chromatografie hydrofilních reakcí,,,,,
+19,,,plasmová chromatografie,proud iontů,,,,

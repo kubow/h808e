@@ -1,0 +1,119 @@
+ID,AN,ZN,CZ,EN,LA,Typ,Conf,OxSt,Clark,BT,BT_tol,BV,BV_tol,DN,Hust,Stav,Vaha,Elneg,Skup,Perio,Izotop,Objev
+1,1,H,Vodík,Hydrogenium,Hydrogenium,bio,1s1,"-1,0,1",,-259.13999999999993,,-252.87,,,0.071,(g),1.00794,2.2,1a,1,,1766
+2,2,He,Helium,Helium,Helium,,1s2,0,,-272.2,,-268.934,,,,(g),4.002602,,2a,1,,1868
+3,3,Li,Lithium,Lithium,Lithium,,[He] 2s1,"0,1",30,180.53999999999996,,1342,,,,(s),6.941,0.9699999999999999,1a,2,,1817
+4,4,Be,Berylium,Beryllium,Beryllium,,[He] 2s2,"0,2",3,1278,5,2970,,,,(s),9.012182,1.5,2a,2,,1798
+5,5,B,Bór,Borum,Beryllium,,[He] 2s2-2p1,"-3,0,3",11,2079,,2550,,,,(s),10.811,2,3a,2,,1808
+6,6,C,Uhlík,Carboneum,Carboneum,bio,[He] 2s2-2p2,"-4,0,2,4","2,2.10E2",3652,,,,,,(s),12.0107,2.5,4a,2,,
+7,7,N,Dusík,Nitrogenium,Nitrogenium,bio,[He] 2s2-2p3,"-3,0,1,2,3,4,5",19,-209.86,,-195.80000000000004,,,,(g),14.0067,3.1,5a,2,,1772
+8,8,O,Kyslík,Oxygenium,Oxygenium,bio,[He] 2s2-2p4,"-2,(-1),0","4,7.10E5",-218.40000000000003,,-182.962,,,,(g),15.9994,3.5,6a,2,,1774
+9,9,F,Fluór,Fluorum,Fluorum,,[He] 2s2-2p5,"-1,0",640,-219.62000000000003,,-188.14,,,,(g),18.9994,4.1,7a,2,,1886
+10,10,Ne,Neon,Neon,Neon,---,2s2-2p6,0,,-248.67,,-246.048,,,,(g),20.1797,,8a,2,,1898
+11,11,Na,Sodík,Natrium,Natrium,bio,[Ne] 3s1,"0,1","2,5.10E4",97.81,,882.9000000000001,,,,(s),22.98976928,1,1a,3,,1807
+12,12,Mg,Hořčík,Magnesium,Magnesium,bio,[Ne] 3s2,"0,2","2,1.10E4",648.8,,1090,,,,(s),24.305,1.2,2a,3,,1775
+13,13,Al,Hliník,Aluminium,Aluminium,,[Ne] 3s2-3p1,"0,(1),3","8,1.10E-4",660.37,,2467,,,,(s),26.9815386,1.5,3a,3,,1827
+14,14,Si,Křemík,Silicium,Silicium,,[Ne] 3s2-3p2,"-4,0,2,4","2,9.10E5",1410,,2355,,,,(s),28.0855,1.7,4a,3,,1824
+15,15,P,Fosfor,Phosphorus,Phosphorus,,[Ne] 3s2-3p3,"-3,0,1,3,4,5","1,1.10E3",44.1,,280,,,,(s),30.973762,2.1,5a,3,,1669
+16,16,S,Síra,Sulphur,Sulphur,bio,[Ne] 3s2-3p4,"-2,0,2,4,6",4.10E2,112.79999999999998,,444.674,,,,(s),32.065,2.4,6a,3,,
+17,17,Cl,Chlór,Chlorum,Chlorum,,[Ne] 3s2-3p5,"-1,0,1,3,4,5,6,7",150,-100.98,,-34.6,,,,(g),35.453,2.8,7a,3,,1774
+18,18,Ar,Argon,Argon,Argon,---,3s2-3p6,0,"185,7",-189.19999999999996,,-186,,,"1,64",(s),39.948,,8a,3,,1894
+19,19,K,Draslík,Kalium,Kalium,bio,[Ar] 4s1,"0,1",2.10E4,63.25,,759.9,,,,(s),39.09830000000001,0.91,1a,4,,1807
+20,20,Ca,Vápník,Calcium,Calcium,bio,[Ar] 4s2,"0,2",3.10E4,839,2,1484,,,,(s),40.078,1,2a,4,,1808
+21,21,Sc,Skandium,Scandium,Scandium,,[Ar] 3d1-4s2,"0,3",10,1539,,2832,,,,(s),44.955912,1.2,3b,4,,1879
+22,22,Ti,Titan,Titanium,Titanium,,[Ar] 3d2-4s2,"0,2,3,4",5.10E3,1660,10,3287,,,,(s),47.867,1.3,4b,4,,1791
+23,23,V,Vanad,Vanadium,Vanadium,,[Ar] 3d3-4s2,"0,2,3,4,5","1,0.10E2",1890,10,3380,,,,(s),50.9415,1.5,5b,4,,1801
+24,24,Cr,Chrom,Chromium,Chromium,,[Ar] 3d5-4s1,"0,1,2,3,4,5,6",90,1857,20,2672,,,,(s),51.9961,1.6,6b,4,,1797
+25,25,Mn,Mangan,Manganum,Manganum,,[Ar],"0,2,3,4,6,7","1,0.10E3",1244,3,1962,,,,(s),54.938045,1.6,7b,4,,1774
+26,26,Fe,Železo,Ferrum,Ferrum,,[Ar],"0,2,3,4,6","5,0.10E4",1535,,2750,,,,(s),55.845,1.6,8b,4,,
+27,27,Co,Kobalt,Cobaltum,Cobaltum,,[Ar],"0,2,3",21,1495,,2870,,,,(s),58.933195,1.7,8b,4,,1735
+28,28,Ni,Nikl,Niccolum,Niccolum,,[Ar],"0,1,2,3,4",60,1453,,2732,,,,(s),58.69339999999999,1.7,8b,4,,1751
+29,29,Cu,Měď,Cuprum,Cuprum,,[Ar],"0,1,2,3","1,9.10E4",1083.4,0.2,2567,,,,(s),63.546,1.7,1b,4,,
+30,30,Zn,Zinek,Zincum,Zincum,,[Ar],"0,2",80,419.58,,907,,,,(s),65.38,1.7,2b,4,,
+31,31,Ga,Gallium,Gallium,Gallium,,[Ar],"0,1,3",17,29.78,,2403,,,,(s),69.723,1.8,3a,4,,1875
+32,32,Ge,Germanium,Germanium,Germanium,,[Ar],"0,2,4","1,4",937.4,,2830,,,,(s),72.64,2,4a,4,,1886
+33,33,As,Arzén,Arsenicum,Arsenicum,,[Ar],"-3,0,3,5","1,7",817,,613,,,5720,(s),74.9216,2.2,5a,4,,
+34,34,Se,Selen,Selenium,Selenium,,[Ar],"-2,0,4,6","0,05",217,,685,,,,(s),78.96,2.5,6a,4,,1817
+35,35,Br,Bróm,Bromum,Bromum,,[Ar],"-1,0,1,3,5,7",2,-7.2,,58.78,,,,(l),79.90399999999998,2.7,7a,4,,1826
+36,36,Kr,Krypton,Krypton,Krypton,,3d10-4s2-4p6,0,,156.59999999999997,,152.30000000000004,,,,(g),83.79799999999999,,8a,4,,1898
+37,37,Rb,Rubidium,Rubidium,Rubidium,,[Kr],"0,1",120,38.89,,686,,,,(s),85.4678,0.89,1a,5,,1861
+38,38,Sr,Stroncium,Strontium,Strontium,,[Kr],"0,2",340,769,,1384,,,,(s),87.62,0.99,2a,5,,1808
+39,39,Y,Yttrium,Yttrium,Yttrium,,[Kr],"0,3",29,1523,8,3337,,,,(s),88.90585,1.1,3b,5,,1843
+40,40,Zr,Zirkonium,Zirconium,Zirconium,,[Kr],"0,2,3,4",170,1852,2,4377,,,,(s),91.22400000000002,1.2,4b,5,,1789
+41,41,Nb,Niob,Niobium,Niobium,,[Kr],"0,1,2,3,4,5",20,2468,10,4742,,,,(s),92.90638,1.2,5b,5,,1801
+42,42,Mo,Molybden,Molybdenium,Molybdenium,,[Kr],"0,2,3,4,5,6",1,2617,,4612,,,,(s),95.96,1.3,6b,5,,1778
+43,43,Tc,Technecium,Technetium,Technetium,rad,[Kr],"0,4,6,7",,2172,,4877,,,,(s),98,1.4,7b,5,,1937
+44,44,Ru,Ruthenium,Ruthenium,Ruthenium,,[Kr],"0,1,2,3,4,5,6,7,8",,2310,,3900,,,,(s),101.07,1.4,8b,5,,1844
+45,45,Rh,Rhodium,Rhodium,Rhodium,,[Kr],"0,2,3,4,6",,1965,3,3727,100,,,(s),102.9055,1.4,8b,5,,1804
+46,46,Pd,Palladium,Palladium,Palladium,,[Kr],"0,2,3,4","0,01",1554,,3140,,,,(s),106.42,1.3,8b,5,,1803
+47,47,Ag,Stříbro,Argentum,Argentum,,[Kr],"0,1,2","0,07",961.9299999999998,,2212,,,,(s),107.86819999999999,1.4,1b,5,,
+48,48,Cd,Kadmium,Cadmium,Cadmium,,[Kr],"0,2","0,1",320.8999999999999,,765,,,,(s),112.411,1.5,2b,5,,1817
+49,49,In,Indium,Indium,Indium,,[Kr],"1,3","0,2",156.61,,2080,,,,(s),114.818,1.5,3a,5,,1863
+50,50,Sn,Cín,Stanum,Stannum,,[Kr],"(-4),0,2,4",2,231.9681,,2270,,,,(s),118.71,1.7,4a,5,,
+51,51,Sb,Antimon,Stibium,Stibium,,[Kr],"-3,0,3,5","0,4",631,,1750,,,6690,(s),121.76,1.8,5a,5,,
+52,52,Te,Telur,Tellurium,Tellurium,,[Kr],"-2,0,4,6","0,001",449.5,,989.8,3.8,,,(s),127.6,2,6a,5,,1782
+53,53,I,Jód,Jodum,Jodum,,[Kr],"-1,0,1,3,5,7","0,4",113.5,,184.35,,,,(s),126.90447,2.1,7a,5,,1811
+54,54,Xe,Xenon,Xenon,Xenon,,4d10-5s2-5p6,0,,111.9,,-107,3,,,(g),131.29300000000003,,8a,5,,1898
+55,55,Cs,Cesium,Caesium,Caesium,,[Xe],"0,1",3,28.4,,669.3,,,,(s),132.9054519,0.86,1a,6,,1860
+56,56,Ba,Baryum,Baryum,Baryum,,[Xe],"0,2",500,725,,1640,,,3760,(s),137.327,0.9699999999999999,2a,6,,1774
+57,57,La,Lanthan,Lanthanum,Lanthanum,,[Xe],"0,3",29,920,5,3454,,,,(s),138.90547,1.1,3b,6,,1839
+58,58,Ce,Cer,Cerium,Cerium,,[Xe],"3,4",70,798,2,3257,,,,(s),140.116,1.1,La,6,,1803
+59,59,Pr,Praseodym,Praseodymium,Praseodymium,,[Xe],"3,4",9,931,4,3212,,,,(s),140.90764999999996,1.1,La,6,,1885
+60,60,Nd,Neodym,Neodymium,Neodymium,,[Xe],3,30,1010,,3127,,,,(s),144.24199999999996,1.1,La,6,,1885
+61,61,Pm,Promethium,Promethium,Promethium,rad,[Xe],3,,1080,,2460,,,,(s),145,1.1,La,6,,1945
+62,62,Sm,Samarium,Samarium,Samarium,,[Xe],"2,3",7,1072,5,1778,,,,(s),150.36,1.1,La,6,,1879
+63,63,Eu,Europium,Europium,Europium,,[Xe],"2,3","1,3",822,5,1597,,,,(s),151.964,1.1,La,6,,1901
+64,64,Gd,Gadolinium,Gadolinium,Gadolinium,,[Xe],3,7,1311,4,3233,,,,(s),157.25,1.1,La,6,,1880
+65,65,Tb,Terbium,Terbium,Terbium,,[Xe],"3,4",4,1360,4,3041,,,,(s),158.92535,1.1,La,6,,1843
+66,66,Dy,Dysprosium,Dysprosium,Dysprosium,,[Xe],3,4,1409,,2335,,,,(s),162.50010000000003,1.1,La,6,,1886
+67,67,Ho,Holmium,Holmium,Holmium,,[Xe],3,1,1470,,2720,,,,(s),164.93031999999997,1.1,La,6,,1879
+68,68,Er,Erbium,Erbium,Erbium,,[Xe],3,3,1522,,2510,,,,(s),167.259,1.1,La,6,,1843
+69,69,Tm,Thulium,Thulium,Thulium,,[Xe],3,"0,3",1545,15,1727,,,,(s),168.93421000000004,1.1,La,6,,1879
+70,70,Yb,Yterbium,Yterbium,Yterbium,,[Xe],"2,3","0,3",824,5,1193,,,,(s),173.054,1.1,La,6,,1907
+71,71,Lu,Lutecium,Lutecium,Lutecium,,[Xe],3,1,1656,5,3315,,,,(s),174.9668,1.1,La,6,,1907
+72,72,Hf,Hafnium,Hafnium,Hafnium,,[Xe],4,2,2227,20,4602,,,,(s),178.49000000000004,1.2,4b,6,,1923
+73,73,Ta,Tantal,Tantalum,Tantalum,,[Xe],"2,3,4,5",2,2996,,5400,,,,(s),180.94788,1.3,5b,6,,1802
+74,74,W,Wolfram,Wolframium,Wolframium,,[Xe],"2,3,4,5,6","1,4",3410,20,5660,,,,(s),183.84,1.4,6b,6,,1783
+75,75,Re,Rhenium,Rhenium,Rhenium,,[Xe],"1,2,3,4,5,6,7",7.10E-4,3180,,5627,,,,(s),186.207,1.5,7b,6,,1925
+76,76,Os,Osmium,Osmium,Osmium,,[Xe],"2,3,4,5,6,8",,3045,30,5027,100,,,(s),190.23,1.5,8b,6,,1803
+77,77,Ir,Iridium,Iridium,Iridium,,[Xe],"1,3,4,5,6",,2410,,4130,,,,(s),192.217,1.5,8b,6,,1804
+78,78,Pt,Platina,Platinum,Platinum,,[Xe],"2,3,4,6",,1772,,3827,100,,,(s),192.084,1.4,8b,6,,1741
+79,79,Au,Zlato,Aurum,Aurum,,[Xe],"1,3",4.10E3,1064.4339999999997,,3080,,,,(s),196.966569,1.4,1b,6,,
+80,80,Hg,Rtuť,Hydrargyrum,Hydrargyrum,,[Xe],"1,2","0,08",-38.87,,356.58,,,,(l),200.59,1.4,2b,6,,
+81,81,Tl,Thalium,Thallium,Thallium,,[Xe],"1,3",1,303.5,,1457,10,,,(s),204.38329999999996,1.4,3a,6,,1861
+82,82,Pb,Olovo,Plumbum,Plumbum,,[Xe],"2,4",15,327.502,,1470,,,,(s),207.2,1.5,4a,6,,
+83,83,Bi,Vizmut,Bismuthum,Bismuthum,,[Xe],"3,5","0,1",271.3,,1650,5,,,(s),208.980401,1.7,5a,6,,
+84,84,Po,Polonium,Polonium,Polonium,rad,[Xe],"2,4,6",,254,,962,,,,(s),210,1.8,6a,6,,1898
+85,85,At,Astat,Astatium,Astatium,rad,[Xe],(-1),,302,,337,,,,(s),209.98,1.9,7a,6,,1940
+86,86,Rn,Radon,Radon,Radon,rad,5d10-6s2-6p6,,,-71,,-61.8,,,,(g),222.01,,8a,6,,1900
+87,87,Fr,Francium,Francium,Francium,rad,[Rn],1,,27,,677,,,,(s),223,0.86,1a,7,,1939
+88,88,Ra,Rádium,Radium,Radium,rad,[Rn],2,,700,,1140,,,,(s),226,0.9699999999999999,2a,7,,1898
+89,89,Ac,Aktinium,Actinium,Actinium,rad,[Rn],"3,5",,1050,,3200,300,,10700,(s),227,1,3b,7,,1899
+90,90,Th,Thorium,Thorium,Thorium,rad,[Rn],"2,3,4","1,2",1750,,4790,,,,(s),232.03806,1.1,Ac,7,,1828
+91,91,Pa,Proaktinium,Proactinium,Proactinium,rad,[Rn],"3,4,5",,1600,,,,,,(s),231.03588,1.1,Ac,7,,1917
+92,92,U,Uran,Uranuim,Uranuim,rad,[Rn],"3,4,5,6","2,5",1132,0.8,3818,,,,(s),238.02891,1.2,Ac,7,,1789
+93,93,Np,Neptunium,Neptunium,Neptunium,rad,[Rn],"2,3,4,5,6",,640,1,3902,,,,(s),237.04,1.2,Ac,7,,1940
+94,94,Pu,Plutonium,Plutonium,Plutonium,rad,[Rn],"3,4,5,6",,641,,3232,,,,(s),244.06,1.2,Ac,7,,1940
+95,95,Am,Americium,Americium,Americium,rad,[Rn],"3,4,5,6",,994,4,2607,,,11700,(s),243.06,1.2,Ac,7,,1944
+96,96,Cm,Curium,Curium,Curium,rad,[Rn],"3,4",,1340,40,,,,,(s),247.07,1.2,Ac,7,,1944
+97,97,Bk,Berkelium,Berkelium,Berkelium,rad,[Rn],"3,4",,,,,,,,(s),247.07,1.2,Ac,7,,1950
+98,98,Cf,Kalifornium,Californium,Californium,rad,[Rn],3,,,,,,,,(s),242.05,1.2,Ac,7,,1950
+99,99,Es,Einsteinium,Einsteinium,Einsteinium,rad,[Rn],3,,,,,,,,(s),252.08,1.2,Ac,7,,1952
+100,100,Fm,Fermium,Fermium,Fermium,rad,[Rn],3,,,,,,,,(s),257.09,1.2,Ac,7,,1952
+101,101,Md,Mendìlevium,Mendelevium,Mendelevium,rad,[Rn],"2,3",,,,,,,,(s),258.1000000000001,1.2,Ac,7,,1955
+102,102,No,Nobelium,Nobelium,Nobelium,rad,[Rn],"2,3",,,,,,,,(s),259.1,1.2,Ac,7,,1958
+103,103,Lr,Lawrencium,Lawrencium,Lawrencium,rad,[Rn],3,,,,,,,,(s),262,1.2,Ac,7,,1961
+104,104,Rf,Ruthenfordium,Ruthenfordium,Ruthenfordium,rad,[Rn],,,,,,,,,(s),261,,4b,7,,
+105,105,Db,Dubnium,Dubnium,Dubnium,rad,[Rn],,,,,,,,,(s),262,,5b,7,,
+106,106,Sg,Seaborgium,Seaborgium,Seaborgium,rad,[Rn],,,,,,,,,(s),266,,6b,7,,
+107,107,Bh,Bohrium,Bohrium,Borum,rad,[Rn],,,271,,1560,,,,(s),264,,7b,7,,
+108,108,Hs,Hassium,Hassium,Hassium,rad,[Rn],,,,,,,,,(s),277,,8b,7,,
+109,109,Mt,Meitnerium,Meitnerium,Meitnerium,rad,[Rn],,,,,,,,,(s),268,,8b,7,,
+110,110,Ds,Darmstadtium,Darmstadtium,Darmstadtium,rad,[Rn],,,,,,,,,(s),271,,8b,7,,
+111,111,Rg,Roentgenium,Roentgenium,Roentgenium,rad,[Rn],,,,,,,,,(s),272,,1b,7,,
+112,112,Uub,Ununbium,Ununbium,Ununbium,rad,[Rn],,,,,,,,,(s),285,,2b,7,,
+113,113,Uut,Ununtrium,Ununtrium,Ununtrium,rad,[Rn],,,,,,,,,(s),284,,3a,7,,
+114,114,Uuq,Ununquadium,Ununquadium,Ununquadium,rad,[Rn],,,,,,,,,(s),,,4a,7,,
+115,115,Uup,Ununpentium,Ununpentium,Ununpentium,rad,[Rn],,,,,,,,,(s),,,5a,7,,
+116,116,Uuh,Ununhexium,Ununhexium,Ununhexium,rad,[Rn],,,,,,,,,(s),,,6a,7,,
+117,117,Uus,Ununseptium,Ununseptium,Ununseptium,rad,[Rn],,,,,,,,,(s),,,7a,7,,
+118,118,Uuo,Ununoctium,Ununoctium,Ununoctium,rad,6d10-7s2-7p6,,,,,,,,,(g),,,8a,7,,

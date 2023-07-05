@@ -1,0 +1,32 @@
+ID,sys_part,Keyboards,Meaning
+1,cmd,ESC,Erase command line
+2,cmd,F1,"Repeats the letters of the last command line, one by one"
+3,cmd,F2,Displays a dialog asking user to enter the char to copy up to of the last command line
+4,cmd,F3,Repeats the last command line (Similar to DOSKEY)
+5,cmd,TAB,Filename completion - cycles through all file names in current directory matching typed prefix
+6,cmd,UP,Cycles previous command line entries in backwards direction
+7,cmd,DOWN,Cycles previous command line entries in forwards direction
+8,cmd,RIGHT,Repeats letter at a time from previous command line
+9,cmd,F4,Displays a dialog asking user to enter the char to delete up to of the last command line
+10,cmd,F5,Goes back one command line
+11,cmd,F6,Enters the traditional CTRL+Z (^Z) (End-Of-File)
+12,cmd,F7,Displays a menu with the command line history (Similar to DOSKEY)
+13,cmd,F8,"Cycles back through previous command lines (beginning with most recent). If first typing the beginning letters of a command, then it will cycle through the previous commands matching that prefix when pressing F8."
+14,cmd,F9,"Displays a dialog asking user to enter a command number, where 0 is for first command line entered"
+15,explorer,WIN,Show start menu
+16,explorer,ALT,Show explorer menu
+17,explorer,WIN+E,Run windows explorer
+18,explorer,WIN+A,Open quick settings
+19,,,
+20,,,
+21,,,
+22,,,
+23,,,
+24,,,
+25,,,
+26,,,
+27,,,
+28,,,
+29,,,
+30,,,
+31,,,

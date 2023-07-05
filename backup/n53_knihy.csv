@@ -1,0 +1,415 @@
+ID,Auth1_prijm,Auth1_jmeno,Titul,nakladatelstvi,kategorie,Podtitul,edice,Auth2_prijm,Auth2_jmeno,Auth3_prijm,Auth3_jmeno,p_stran,rok_vydani,umisteni,ISBN,EAN,misc,svazek,odkaz,nahled,obrazek,adr
+1,Přikryl,Luděk,Zahrádkářova čítanka,FABULA,400,Biodynamické pěstování zeleniny a ovoce,,,,,,272,2010,pr,978-80-86600-69-7,,,,,1552n67_big.jpg,,https://www.databazeknih.cz/knihy/zahradkarova-citanka-biodynamicke-pestovani-zeleniny-a-ovoce-144425
+2,Syruček,Milan,"Voda, jak ji neznáme",EPOCHA,400,,,,,,,208,2011,pr,978-80-7425-105-4,,,,,,,https://www.databazeknih.cz/knihy/voda-jak-ji-nezname-93930
+3,Hála,Jiří,"Radioaktivita, ionizující záření, jaderná energie",KONVOJ,600,,,,,,,312,1998,pr,80-85615-56-8,,,,,,,https://www.databazeknih.cz/knihy/radioaktivita-ionizujici-zareni-jaderna-energie-173558
+4,Pitter,Pavel,Hydrochemie,VŠCHT,400,,,,,,,568,1999,pr,978-80-7080-928-0,,,,,,,https://www.databazeknih.cz/dalsi-vydani/hydrochemie-483084
+5,Aichele,Dietmar,Co tu kvete?,DOBROVSKÝ,400,"Kapesní průvodce přírodou, Klasická příručka s novými fotografiemi",,,,,,446,2006,pr,80-7202-808-1,,,,,,,https://www.databazeknih.cz/knihy/co-tu-kvete-9693
+6,Neomillnerová,Petra,Magický herbář,EPOCHA,400,Kapesní průvodce světem magických rostlin,,,,,,120,2011,pr,978-80-7425-100-9,,,,,,,https://www.databazeknih.cz/knihy/magicky-herbar-91612
+7,Ball,Martin W.,Duše šalvěje,DYBBUK,400,Šalvěj divotvorná a entherogenní zážitky,,,,,,175,2009,pr,978-80-86862-76-7,,,,,,,https://www.databazeknih.cz/knihy/duse-salveje-salvej-divotvorna-a-entheogenni-zazitky-139150
+8,Herčík,Miroslav,111 otázek a odpovědí o životním prostředí,MONTANEX,400,"Chytrá kniha pro studenty, odborníky a širokou veřejnost",,,,,,152,2004,pr,80-7225-123-6,,,,,,,https://www.databazeknih.cz/knihy/111-otazek-a-odpovedi-o-zivotnim-prostredi-131735
+9,Petránek,Jan,Za tajemstvím kamenů,GRADA,400,"Příručka pro mladé sběratele hornin, minerálů a zkamenělin",,,,,,200,2011,pr,978-80-247-3738-6,,,,,,,https://www.databazeknih.cz/knihy/za-tajemstvim-kamenu-96434
+10,Walker,C.B.F.,Klínopis,VOLVOX GLOBATOR,530,Čtení v minulosti,Litera,,,,,78,2007,ro,978-80-7207-627-7,,,3,,,,https://www.databazeknih.cz/knihy/klinopis-141234
+11,Reid,Daniel,"Tao zdraví, sexu a dlouhého života",PRAGMA,510,Nový praktický přístup starého vědění,,,,,,463,2005,ce,80-7205-209-8,,,,,,,https://www.databazeknih.cz/knihy/tao-zdravi-sexu-a-dlouheho-zivota-53650
+12,Weidner,Christopher A.,Doktor Feng-šuej,FONTÁNA,510,Komplexní léčba a udržení zdraví podle tradiční čínské medicíny,,Dong,Sui Xiang,,,139,2011,ce,978-80-7336-615-5,,,,,,,https://www.databazeknih.cz/knihy/doktor-feng-suej-482899
+13,Frotscher,Sven,5000 znaků a symbolů světa,GRADA,540,,,,,,,268,2008,ce,978-80-247-2230-6,,,,,,,https://www.databazeknih.cz/knihy/5000-znaku-a-symbolu-sveta-48212
+14,Berger,Peter L.,Pozvání do sociologie,BARRISTER & PRINCIPAL,530,Humanistická perspektiva,,,,,,194,2003,ce,80-85469-08-01,,,,,,,https://www.databazeknih.cz/knihy/pozvani-do-sociologie-humanisticka-perspektiva-64332
+15,Zapletal,Miloš,Špalíček her,ALBATROS,520,,,,,,,368,1988,ce,13-712-88,,,,,,,https://www.databazeknih.cz/knihy/spalicek-her-59261
+16,Kosorin,Pavel,Aforismy,CESTA,540,,,,,,,,2002,ce,80-7295-039-8,,,,,,,https://www.databazeknih.cz/knihy/aforismy-145850
+17,,,Přísloví krále Šalamouna,BIBLION,550,,,,,,,150,2006,ce,80-902458-8-9,,,,,,,https://www.databazeknih.cz/knihy/prislovi-krale-salomouna-41753
+18,Frankfurt,Harry G.,Sračka,COLUMBUS,540,,,,,,,65,2005,ce,80-7249-216-0,,,,,,,https://www.databazeknih.cz/knihy/sracka-61523
+19,Gellner,František,Radosti života,MAŤA,540,,,,,,,88,2011,ce,978-80-7399-386-3,9788072871568,,,,,,https://www.databazeknih.cz/dalsi-vydani/radosti-zivota-78958?lang=cz
+20,Anangaranga,,Květy rozkoše orientu,SVÍTÁNÍ,520,,,Mitner,Vít,,,102,2006,ce,80-86198-24-3,9788086198248,,,,,,https://www.databazeknih.cz/knihy/kvety-rozkose-orientu-329020
+21,Vohlídal,Jiří,Chemické a analytické tabulky,GRADA,600,,,Julák,Alois,Štulík,Karel,652,1999,pr,978-80-7169-855-5,,,,,,,https://www.databazeknih.cz/knihy/chemicke-a-analyticke-tabulky-191780
+22,Wilkens,Andreas,"Voda, učme se jí rozumět",DHARMAGAIA,400,Nový pohled na podstatu vody,,Jacobi,Michael,Schwenk,Wolfram,70,2001,pr,80-85905-99-X,,,,,,,https://www.databazeknih.cz/knihy/voda-ucme-se-ji-rozumet-315993
+23,Kafka,Břetislav,Nové základy experimentální psychologie,POZNÁNÍ,510,Duševědné výzkumy a objevy,,,,,,456,2016,,80-85385-08-2,,,,,,,https://www.databazeknih.cz/dalsi-vydani/nove-zaklady-experimentalni-psychologie-298297
+24,Vermeulen,Nico,Encyklopedie byliny a koření,REBO PRODUCTIONS,400,,,,,,,320,2008,,978-80-7234-664-6,,,,,,,https://www.databazeknih.cz/knihy/encyklopedie-byliny-a-koreni-99288
+25,DuQuette,Lon Milo,Klíč k Šalamounovu klíči,MLADÁ FRONTA,550,Tajemství magie a zednářství,,,,,,208,2007,,80-204-1557-2,,,,,,,https://www.databazeknih.cz/knihy/klic-k-salomounovu-klici-405584
+26,Filipský,Jan,Encykloedie indické mytologie,LIBRI,550,Postavy indických bájí a letopisů,,,,,,225,2007,,978-80-7277-348-0,,,,,,,https://www.databazeknih.cz/knihy/encyklopedie-indicke-mytologie-39216
+27,,,Kybalion,EUGENIKA,550,Studie o hermetické filosofii,,,,,,188,2012,,978-80-89227-74-7,,,,,,,https://www.databazeknih.cz/knihy/kybalion-studie-o-hermeticke-filosofii-stareho-egypta-a-recka-260718
+28,Lovelock,James E.,Gaia,ABIES,400,Nový p'uohled na život na Zemi,,,,,,228,2001,,80-88699-18-5,,,,,,,https://www.databazeknih.cz/knihy/gaia-novy-pohled-na-zivot-na-zemi-203082
+29,Lüpke,Geseko von,Poselství šamanů,PRÁH,550,Rozhovory s léčiteli a medicinmany 21.století,,,,,,377,2009,,978-80-7252-262-0,,,,,,,https://www.databazeknih.cz/knihy/poselstvi-samanu-34867
+30,Blavatská,Helena Petrovna,Kniha Dzyan,DOBRA,550,,,,,,,227,2006,,80-86459-53-5,,,,,,,https://www.databazeknih.cz/knihy/kniha-dzyan-135224
+31,Stejskal,Miloš,Moudrost starých Římanů,ODEON,540,,,,,,,240,1990,,80-207-0096-X,,,,,,,https://www.databazeknih.cz/knihy/moudrost-starych-rimanu-11631
+32,Prokš,Petr,Politikové a vznik republiky,PROSPEKTRUM,540,1914-1918,,,,,,238,1998,,80-7175-078-6,,,,,,,https://www.databazeknih.cz/knihy/politikove-a-vznik-republiky-204684
+33,,,Kuchařské suroviny a přísady,SLOVART,510,Praktická ilustrovaná příručka,,,,,,248,2007,,978-80-7209-901-6,,,,,,,https://www.databazeknih.cz/knihy/kucharske-suroviny-a-prisady-217936
+34,Cyliani,,Odhalený Hermés,TRIGON,550,,,,,,,37,1996,,80-85320-87-8,,,,,,,https://www.databazeknih.cz/knihy/odhaleny-hermes-75843
+35,Barlettová,Sarah,Tarot od A do Z,METAFORA,550,,,,,,,400,2007,,978-80-7359-115-1,,,,,,,https://www.databazeknih.cz/knihy/tarot-od-a-do-z-45803
+36,Leary,Timothy,Psychidelie,LEVNÉ KNIHY KMA,540,Trilogie o halucinogenech,,Metzner,Ralph,Alpert,Richard,192,2000,,80-86425-97-5,,,,,,,https://www.databazeknih.cz/dalsi-vydani/psychedelie-trilogie-o-halucinogenech-66486
+37,Kunz,Ina,Ruční papír jednoduše a tvořivě,CFA+H,400,Příručka pro výrobu ručního papíru,,,,,,53,2000,,80-902637-5-5,,,,,,,https://www.databazeknih.cz/knihy/rucni-papir-jednoduse-a-tvorive-prirucka-pro-vyrobu-rucniho-papiru-242816
+38,Hemenwayová,Priya,Tajný kód,SLOVART,600,"Záhadný vzorec v umění, přírodě a vědě",,,,,,203,2009,,978-80-7391-253-6,,,,,,,https://www.databazeknih.cz/knihy/tajny-kod-57413
+39,Merz,Blanche,Místa síly,FONTÁNA,400,Centra nejvyšší kosmicko-pozemské energie,,,,,,301,2008,,978-80-7336-476-2,,,,,,,https://www.databazeknih.cz/knihy/mista-sily-355228
+40,Bürgin,Luc,Lexikon zakázané archeologie,DIALOG,540,Záhadné relikty od A do Z,,,,,,304,2011,,978-80-7424-025-6,,,,,,,https://www.databazeknih.cz/knihy/lexikon-zakazane-archeologie-zahadne-relikty-od-a-do-z-74914
+41,Exupéry,Antoine de Saint,Citadela,VYŠEHRAD,540,,,,,,,,,,978-80-7429-046-6,,,,,,,https://www.databazeknih.cz/dalsi-vydani/citadela-317767
+42,Cílek,Václav,Posvátná krajina,MALVERN,550,"Eseje o místech, silách a dracích",,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/posvatna-krajina-eseje-o-mistech-silach-a-dracich-192617
+43,Funk,Karel,Léčba duše a elementálové,MALVERN,550,,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/lecba-duse-a-elementalove-381613
+44,Rasmussen,Knud,Grónské mýty a pověsti,ARGO,540,,,,,,,,,,978-80-7203-876-3,,,,,,,https://www.databazeknih.cz/knihy/gronske-myty-a-povesti-57025
+45,Lancaster,Roy,Rostliny v interiéru,KNIŽNÍ KLUB,400,,,Biggs,Matthew,,,128,1998,,80-242-0098-8,,,,,,,https://www.databazeknih.cz/knihy/rostliny-v-interieru-109637
+46,Lasenic,Pierre de,Tarot: Klíč k iniciaci,TRIGON,550,,,,,,,,,,80-86159-58-2,,,,,,,https://www.databazeknih.cz/dalsi-vydani/tarot-klic-k-iniciaci-401678
+47,Johnson,George,Zkratka napříč časem,DOKOŘÁN,550,Cesta ke kvantovému počítači,Pergamen,,,,,235,2004,,"80-86569-83-7, 80-7203-609-2",,,,,,,https://www.databazeknih.cz/knihy/zkratka-napric-casem-25112
+48,Fejgin,Oleg,Nikola Tesla,EUGENIKA,700,Vládce blesků,,,,,,272,2012,,X,,,,,,,https://www.databazeknih.cz/knihy/nikola-tesla-vladce-blesku-169691
+49,Hancock,Jonathan,Skryté síly mozku,POZNÁNÍ,520,Průvodce sysémem využití mozku k zásadnímu zlepšení paměti,,,,,,254,2011,,978-80-87419-15-1,,,,,,,https://www.databazeknih.cz/dalsi-vydani/skryte-sily-mozku-117036
+50,Lasenic,Pierre de,Orientální láska,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,978-80-86226-06-4,,,2,,,,https://www.databazeknih.cz/knihy/orientalni-laska-165455
+51,Lasenic,Pierre de,Hermetická Iniciace martinismu,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,978-80-7439-019-7,,,5,,,,https://www.databazeknih.cz/knihy/hermeticka-iniciace-martinismu-165456
+52,Veselý,Josef,Příručka vysoké magie,VODNÁŘ,550,,,,,,,,,,978-80-86226-75-0,,,,,,,https://www.databazeknih.cz/knihy/prirucka-vysoke-magie-55639
+53,Veselý,Josef,Techniky magie na pozadí alchymie,VODNÁŘ,550,,,,,,,,,,978-80-7439-013-5,,,,,,,https://www.databazeknih.cz/knihy/techniky-magie-na-pozadi-alchymie-55641
+54,Nakonečný,Milan,"Magie v historii, teorii a praxi",VODNÁŘ,550,,,,,,,,,,80-85255-12-X,,,,,,,https://www.databazeknih.cz/knihy/magie-v-historii-teorii-a-praxi-59684
+55,Fulcanelli,,Tajemství katedrál,TRIGON,550,,,,,,,,,,978-80-86159-90-4,,,,,,,https://www.databazeknih.cz/knihy/tajemstvi-katedral-165491
+56,Fulcanelli,,Příbytky filosofů 1,TRIGON,550,,,,,,,,,,80-85320-80-0,,,,,,,https://www.databazeknih.cz/knihy/pribytky-filosofu-1-36356
+57,Fulcanelli,,Příbytky filosofů 2,TRIGON,550,,,,,,,,,,80-85320-80-0,,,,,,,https://www.databazeknih.cz/knihy/pribytky-filosofu-2-36357
+58,Kabelák,František,Magia Divina,TRIGON,550,,,,,,,,,,80-86159-88-4,,,,,,,https://www.databazeknih.cz/knihy/magie-i-magia-divina-339831
+59,Abba,Theofanus,Dopisy Paracelsovi,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,978-80-7439-022-7,,,7,,,,https://www.databazeknih.cz/knihy/z-odkazu-proroku-iii-dopisy-paracelsovi-dvaadvacet-arkan-tarotu-transmutace-divinalni-174602
+60,Purš,Ivo,Alchymistická mše,MALVERN,550,Sborník textů ke vztahům alchymie a křesťanství,,Hlaváček,Jakub,,,285,2008,,X,,,,,,,https://www.databazeknih.cz/knihy/alchymicka-mse-sbornik-textu-ke-vztahum-alchymie-a-krestanstvi-118989
+61,Alleau,René,Hermés a dějiny věd,MALVERN,550,,,,,,,250,2005,,80-86702-09-X,,,,,,,https://www.databazeknih.cz/knihy/hermes-a-dejiny-ved-4036
+62,Roger,Bernard,Objevování alchymie,ARGO,550,,,,,,,,,,80-86702-10-3,,,,,,,https://www.databazeknih.cz/knihy/objevovani-alchymie-115932
+63,Kabelák,František,Praktická spagyrie,HORUS,550,,,,,,,,,,80-901884-3-5,,,,,,,https://www.databazeknih.cz/knihy/prakticka-spagyrie-59156
+64,Crilly,Tony,Matematika,SLOVART,620,"50 myšlenek, které musíme znát",,,,,,208,2007,,978-80-242-3596-7,,,,,,,https://www.databazeknih.cz/knihy/velke-otazky-matematika-135686
+65,Wiesner,Ivo,Stezka draka,AOS PUBLISHING,550,Temné mocnosti proti stezce draka,,,,,,,,,80-86063-39-9,,,,,,,https://www.databazeknih.cz/knihy/stezka-draka-58068
+66,Wiesner,Ivo,Alchymie a theurgie svatého ohně,AOS PUBLISHING,550,,,,,,,,,,80-86063-74-7,,,,,,,https://www.databazeknih.cz/knihy/alchymie-a-theurgie-svateho-ohne-95272
+67,Wiesner,Ivo,Světlo z dávných věků,AOS PUBLISHING,550,,,,,,,,,,"80-86063-56-9, 80-900738-2-4",,,,,,,https://www.databazeknih.cz/knihy/svetlo-z-davnych-veku-37672
+68,Wiesner,Ivo,Poutníci do země andělů,AOS PUBLISHING,550,,,,,,,,,,978-80-86063-78-2,,,,,,,https://www.databazeknih.cz/knihy/poutnici-do-zeme-andelu-37673
+69,Wiesner,Ivo,Bohové a apokalypsy,AOS PUBLISHING,550,,,,,,,,,,80-901919-9-1,,,,,,,https://www.databazeknih.cz/knihy/bohove-a-apokalypsy-57950
+70,Eliade,Mircea,Kováři a alchymisté,ARGO,550,,CapriCorn,,,,,,,,80-7203-320-4,,,,,,,https://www.databazeknih.cz/knihy/kovari-a-alchymiste-35193
+71,Rosny,Eric de,Vládcové noci,ARGO,550,,CapriCorn,,,,,,,,80-7203-413-8,,,,,,,https://www.databazeknih.cz/knihy/vladcove-noci-99714
+72,Lévi,Eliphas,Dogma a rituál vysoké magie,TRIGON,550,,,,,,,,,,80-86159-43-4,,,,,,,https://www.databazeknih.cz/knihy/dogma-a-ritual-vysoke-magie-73706
+73,Lévi,Eliphas,Zasvěcovací dopisy do vysoké magie a mystiky čísel,TRIGON,550,,,,,,,,,,80-86159-62-0,,,,,,,https://www.databazeknih.cz/knihy/zasvecovaci-dopisy-do-vysoke-magie-a-mystiky-cisel-91527
+74,Griese,Otakar,Světlo Egypta,OLDM,550,Duševěda - Hvězdověda,,Tuček,Karel,,,,,,978-8087403-06-8,,,,,,,https://www.databazeknih.cz/knihy/svetlo-egypta-260414
+75,Váňa,Pavel,Průvodce bylináře Pavla celým rokem,EMINENT,400,,,,,,,,,,80-7281-011-1,,,,,,,https://www.databazeknih.cz/knihy/pruvodce-bylinare-pavla-celym-rokem-111827
+76,Mavéric,Jean,Hermetické lékařství rostlinné,OLDM,400,,,,,,,,,,978-80-87403-01-3,,,,,,,https://www.databazeknih.cz/knihy/hermeticke-lekarstvi-rostlinne-117907
+77,Rodale,Robert,Organická zahrada,PRAGMA,400,Nová encyklopedie,,,,,,654,2008,,978-80-7349-063-8,,,,,,,https://www.databazeknih.cz/knihy/organicka-zahrada-120971
+78,Svoboda,Jaroslav,Kompletní návod k vytvoření ekozahrady a rodového statku,SMART PRESS,400,,,,,,,,,,978-80-87049-28-0,,,,,,,https://www.databazeknih.cz/knihy/kompletni-navod-k-vytvoreni-ekozahrady-a-rodoveho-statku-110473
+79,Hradil,Radomil,Česká biozahrada,FONTÁNA,400,,,,,,,186,2000,,80-86179-46-X,,,,,,,https://www.databazeknih.cz/knihy/ceska-biozahrada-89669
+80,Juřík,Zdeněk,Astrologie především v obrazech,ZDENĚK JUŘÍK,650,,,,,,,228,2008,,978-80-254-3224-2,,,,,,,https://www.databazeknih.cz/knihy/astrologie-predevsim-v-obrazech-320482
+81,Kynes,Sandra,Šepoty lesa,PRAGMA,400,,,,,,,,,,978-80-7349-179-6,,,,,,,https://www.databazeknih.cz/knihy/sepoty-lesa-stromy-a-magie-44044
+82,Kabelák,František,I. A III. Kniha kabalistických schémat,HORUS,550,"Kniha tajemství velikého šému, Magické charaktery zvířetníku",,,,,,,,,X,,,,,,,
+83,Lévi,Eliphas,"Věda duchů, kniha moudrých",TRIGON,550,,,,,,,,,,978-80-86159-76-8,,,,,,,https://www.databazeknih.cz/knihy/veda-duchu-kniha-moudrych-340022
+84,Böhmig,Franz,2000 rad pro zahrádkáře,OTOVO NAKLADATELSTVÍ,400,,,Peleška,Stanislav,,,,,,978-80-7451-315-2,,,,,,,https://www.databazeknih.cz/dalsi-vydani/2000-rad-pro-zahradkare-271613
+85,*,,Rok v zahradě,Výběr Readers Digest,400,,,,,,,,,,80-86196-37-2,,,,,,,https://www.databazeknih.cz/knihy/rok-v-zahrade-149174
+86,Harner,Michael,Cesta šamana,DHARMAGAIA,550,,,,,,,200,2010,,978-80-86685-81-6,,,,,,,https://www.databazeknih.cz/knihy/cesta-samana-35065
+87,Semjonova,A.,Výroba bylinných tinktur,FONTÁNA,400,,,,,,,,,,978-80-7336-330-7,,,,,,,https://www.databazeknih.cz/knihy/prakticka-vyroba-bylinnych-tinktur-88210
+88,Wichmann,Jörg,Homeopatie,FONTÁNA,510,alchymie a šamanismus,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/homeopatie-62689
+89,Šindlářová,I.,Mýty a báje starých slovanů,FONTÁNA,540,,,,,,,,,,80-7336-132-9,,,,,,,https://www.databazeknih.cz/knihy/myty-a-baje-starych-slovanu-97466
+90,Miška,Jan,Magická prasíla,MLADÁ FRONTA,550,,,,,,,,,,80-204-1455-X,,,,,,,https://www.databazeknih.cz/knihy/magicka-prasila-50101
+91,Nakonečný,Milan,Smaragdová deska Herma Trismegista,VODNÁŘ,550,,,,,,,,,,80-85255-48-0,,,,,,,https://www.databazeknih.cz/knihy/smaragdova-deska-herma-trismegista-23690
+92,Pendell,Dale,Pharmako/Gnosis,DYBBUK,400,,,,,,,,,,978-80-86862-91-0,,,,,,,https://www.databazeknih.cz/knihy/pharmako-gnosis-fantastika-a-daimonika-85831
+93,Pendell,Dale,Pharmako/Dynamis,DYBBUK,400,,,,,,,,,,80 86862 06 2,,,,,,,https://www.databazeknih.cz/knihy/pharmako-dynamis-90105
+94,Stein,Sigfried,Množení rostlin pro dům a zahradu,PRÍRODA,400,,,,,,,104,2000,,80-07-01121-8,,,,,,,https://www.databazeknih.cz/knihy/mnozeni-rostlin-pro-dum-a-zahradu-482903
+95,Astr,C,Elixír mudrcův,OLDM,550,,,,,,,,2010,,978-80-87403-03-7,,,,,,,https://www.databazeknih.cz/knihy/elixir-mudrcuv-104466
+96,Jordan,H,Léčivá energie místa a krajiny,FONTÁNA,400,,,,,,,,,,978-80-7336-562-2,,,,,,,https://www.databazeknih.cz/knihy/leciva-energie-mista-a-krajiny-96172
+97,Cunningham,Scott,"The complete book of incense, oils and brews",Llewellyn Publications,400,,,,,,,,,,X,,,,,,,
+98,Haag,Stefan,O druidských nápojích a čarodějném bejlí,GRANIT,400,,,Daňková,Vladimíra,,,192,2003,,978-80-7296-027-X,,,,,,,https://www.databazeknih.cz/knihy/o-druidskych-napojich-a-carodejnem-bejli-128727
+99,,,Příběh o povstání hada,BIBLIOTHECA GNOSTICA,550,,,,,,,215,1996,,80-902072-0-0,,,,,,,https://www.databazeknih.cz/knihy/pribeh-o-povstani-hada-194447
+100,Stewart,Amy,Zlé rostliny,GRADA,400,a další botanická zvěrstva,,Roubal,Jan,,,256,2011,,978-80-247-3936-6,,,,,,,https://www.databazeknih.cz/knihy/zle-rostliny-a-dalsi-botanicka-zverstva-94159
+101,,,Hvězdy,IKAR,400,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/hvezdy-43735
+102,Johnson,Clive,Jak přežít v přírodě,SVOJTKA,520,,,,,,,320,2002,,80-7237-488-5,,,,,,,https://www.databazeknih.cz/knihy/jak-prezit-v-prirode-135745
+103,Oken,Alan,Astrologie,PRAGMA,550,,,,,,,,,,80-7205-673-5,,,,,,,https://www.databazeknih.cz/knihy/astrologie-48718
+104,Papus,,Základy praktické magie,VOLVOX GLOBATOR,550,,,,,,,,,,80-7207-587-X,,,,,,,https://www.databazeknih.cz/knihy/zaklady-prakticke-magie-96968
+105,Bergier,Jacques,Jitro kouzelníků,XYZ,550,,,Pauwels,Louis,,,316,,,80-903-3997-2,,,,,,,https://www.databazeknih.cz/knihy/jitro-kouzelniku-9781
+106,Frater,V. D.,Praktická sigilická magie,VODNÁŘ,550,,,,,,,,,,978-80-7439-014-2,,,,,,,https://www.databazeknih.cz/knihy/prakticka-sigilicka-magie-129651
+107,Kefer,Jan,Theurgie,TRIGON,550,,,,,,,,,,978-80-86159-75-1,,,,,,,https://www.databazeknih.cz/knihy/theurgie-296411
+108,Xenofontov,Gavrill,Sibiřští šamani a jejich ústní tradice,ARGO,550,,CapriCorn,,,,,,,,80-7203-334-4,,,,,,,https://www.databazeknih.cz/knihy/sibirsti-samani-a-jejich-ustni-tradice-32854
+109,Stejskal,Martin,Labyrintem míst klatých,EMINENT,550,,,,,,,1008,,,978-80-7281-415-2,,,,,,,https://www.databazeknih.cz/knihy/labyrintem-mist-klatych-77792
+110,Kabelák,František,Herbář hermetikův,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,9788074390098,,,4,,,,https://www.databazeknih.cz/knihy/herbar-hermetikuv-64522
+111,Einzinger,Johann M. M.,Démonologie,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,9788074390340,,,8,,,,https://www.databazeknih.cz/knihy/demonologie-174601
+112,Dluhoš,Marek,Kabalistická theurgie,VODNÁŘ,550,,,,,,,,,,978-80-7439-003-6,,,,,,,https://www.databazeknih.cz/knihy/kabalisticka-teurgie-66490
+113,Chedwick,David,Zen je právě tady,VOLVOX GLOBATOR,510,Poučné příběhy a anekdoty Shunrya Suzukiho,,,,,,,,,978-80-7207-838-7,,,,,,,https://www.databazeknih.cz/dalsi-vydani/zen-je-prave-tady-poucne-pribehy-a-anekdoty-shunryu-suzukiho-180375
+114,Rabelais,François,Pojednání o případném pití vína…,VOLVOX GLOBATOR,540,"totiž velikém & ustavičném, pro potěchu ducha & těla & proti všelijakým chorobám oudů zevnitřních i vnitřních, sepsaná ku poučení & užitku brachů mokrého cechu mistrem Alcofribasem, vrchním číšníkem velikého Pantagruela",,,,,,56,2012,,978-80-7207-836-3,9788072078363,,,,,,https://www.databazeknih.cz/knihy/pojednani-o-pripadnem-piti-vina-118301
+115,Brooks,Max,Zombie,VOLVOX GLOBATOR,520,Příručka pro přežití,,,,,,,,,978-80-7207-764-9,,,,,,,https://www.databazeknih.cz/knihy/zombie-prirucka-pro-preziti-35173
+116,Mucha,Alfons,Otčenáš,VOLVOX GLOBATOR,540,,,,,,,,,,978-80-7207-757-1,,,,,,,https://www.databazeknih.cz/knihy/otcenas-31446
+117,Sade,D.A.F. markýz de,Leonora a Klementina,VOLVOX GLOBATOR,520,,,,,,,,,,978-80-7207-686-4,,,,,,,https://www.databazeknih.cz/knihy/leonora-a-klementina-45857
+118,Pohl,Jan Václav,Není hrubě zdrávo v tomto povětří zůstati…,VOLVOX GLOBATOR,540,,,,,,,,,,978-80-7207-651-2,,,,,,,https://www.databazeknih.cz/knihy/neni-hrube-zdravo-v-tom-povetri-pozustati-56735
+119,Papus,,Kabala,VOLVOX GLOBATOR,550,,,,,,,,,,80-7207-586-1,,,,,,,https://www.databazeknih.cz/knihy/kabala-96969
+120,Shapiro,Rabi Rami,Chasidské povídky,VOLVOX GLOBATOR,530,,,,,,,,,,80-7207-614-0,,,,,,,https://www.databazeknih.cz/knihy/chasidske-povidky-90976
+121,Brouk,Bohuslav,O funkcích práce a osobitosti,VOLVOX GLOBATOR,530,,,,,,,,,,978-80-7207-708-3,,,,,,,https://www.databazeknih.cz/knihy/o-funkcich-prace-a-osobitosti-20647
+122,Brouk,Bohuslav,O pošetilosti života i smrti,VOLVOX GLOBATOR,530,,,,,,,,,,978-80-7207-707-6,,,,,,,https://www.databazeknih.cz/knihy/o-posetilosti-zivota-i-smrti-111244
+123,Utte,Karel,Kniha o čuráku,DYBBUK,520,,,Aston,Nela D.,,,,,,978-80-86862-90-3,,,,,,,https://www.databazeknih.cz/knihy/kniha-o-curaku-21323
+124,Utte,Karel,Kniha o kundě,DYBBUK,520,,,Aston,Nela D.,,,,,,978-80-86862-28-6,,,,,,,https://www.databazeknih.cz/knihy/kniha-o-kunde-21321
+125,Utte,Karel,Kniha o mrdání,DYBBUK,520,,,Aston,Nela D.,,,,,,978-80-7438-000-6,,,,,,,https://www.databazeknih.cz/knihy/kniha-o-mrdani-28430
+126,Astonová,Nela D.,Hovno?,DYBBUK,520,,,,,,,,,,978-80-7438-034-1,,,,,,,https://www.databazeknih.cz/knihy/hovno-66092
+127,Astonová,Nela D.,Prdel!,DYBBUK,520,,,,,,,,,,978-80-7438-060-0,,,,,,,https://www.databazeknih.cz/knihy/prdel-111885
+128,Griese,Otakar,Mumiální hermetická léčba a problém očarování,OLDM,550,,,,,,,,,,978-80-904245-6-2,,,,,,,https://www.databazeknih.cz/knihy/mumialni-hermeticka-lecba-a-problem-ocarovani-66488
+129,Lasenic,Pierre de,Sexuální magie,TRIGON,550,,,,,,,,,,978-80-87908-02-0,,,,,,,https://www.databazeknih.cz/knihy/sexualni-magie-211366
+130,Bardon,František,Praxe magické evokace,CHVOJKOVO,550,,,,,,,267,1998,,80-86183-03-3,,,,,,,https://www.databazeknih.cz/knihy/praxe-magicke-evokace-42752
+131,Veselý,Josef,Slavné grimoáry minulosti,VODNÁŘ,550,,,,,,,168,2000,,80-86226-11-5,,,,,,,https://www.databazeknih.cz/knihy/slavne-grimoary-minulosti-11146
+132,,,Goetie,VODNÁŘ,550,čili Menší klíčky Šalamounovy,Bibloteca Horev,,,,,,,,978-80-86226-95-8,,,1,,,,https://www.databazeknih.cz/knihy/goetie-cili-mensi-klicky-salamounovy-99073
+133,Klíma-Toušek,Petr,Světlo na západě,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,978-80-7439-007-4,,,3,,,,https://www.databazeknih.cz/knihy/svetlo-na-zapade-344170
+134,Blavatská,Helena Petrovna,Příběhy nočních děsů,VODNÁŘ,550,,Bibloteca Horev,,,,,,,,978-80-7439-020-3,,,6,,,,https://www.databazeknih.cz/knihy/pribehy-nocnich-desu-156052
+135,Karika,Josef,Kurz praktické magie,VODNÁŘ,550,,,Polák,Jaroslav,,,,,,978-80-7439-029-6,,,,,,,https://www.databazeknih.cz/knihy/kurz-prakticke-magie-253274
+136,Karika,Josef,Brány meonu,VODNÁŘ,550,,,,,,,359,2009,,"978-80-86226-97-2, 978-80-87146-97-2",,,,,,,https://www.databazeknih.cz/knihy/brany-meonu-magicka-legenda-o-20-stoleti-48219
+138,Bor,D.Ž.,Symbolika alchymie a kabaly,TRIGON,550,Alchymistická tvrz,,,,,,,,,80-85320-28-2,,,,,,,https://www.databazeknih.cz/knihy/alchymicka-tvrz-symbolika-alchymie-a-kabaly-142511
+139,Bor,D.Ž.,Napříč říší královského umění,TRIGON,550,,,,,,,,,,80-85320-51-7,,,,,,,https://www.databazeknih.cz/knihy/napric-risi-kralovskeho-umeni-58460
+140,Bor,D.Ž.,Obrazový atlas hermetismu,TRIGON,550,,,,,,,,,,80-900077-9-1,,,,,,,https://www.databazeknih.cz/knihy/obrazovy-atlas-hermetismu-200210
+141,Bor,D.Ž.,Otec filosofů,TRIGON,550,,knižnice logosu,,,,,,,,80-86159-33-7,,,0,,,,https://www.databazeknih.cz/knihy/otec-filosofu-hermes-trismegistos-75906
+142,*,,Otec filosofů Hermés Trismegistos,TRIGON,550,,knižnice logosu,,,,,,,,X,,,0,,,,https://www.databazeknih.cz/knihy/otec-filosofu-hermes-trismegistos-75906
+143,*,,Záhadný alchymista Abraham Eleazar Žid a jemu připisované texty a obrazy,TRIGON,550,,knižnice logosu,,,,,,,,X,,,1,,,,https://www.databazeknih.cz/knihy/zahadny-alchymista-abraham-eleazar-zid-a-jemu-pripisovane-texty-a-obrazy-75905
+144,*,,Černá Sulamit a studnice zdraví a bohatství,TRIGON,550,,knižnice logosu,,,,,,,,X,,,2,,,,https://www.databazeknih.cz/knihy/cerna-sulamit-a-studnice-zdravi-a-bohatstvi-75904
+145,*,,Zázračná studánka hraběte Bernharda z Marku a Tarvis,TRIGON,550,,knižnice logosu,,,,,,,,X,,,3,,,,https://www.databazeknih.cz/knihy/zazracna-studanka-hrabete-bernharda-z-marku-a-tarvis-75903
+146,*,,Alchymický bestiář Basilia Valentina a jeho následníků,TRIGON,550,,knižnice logosu,,,,,,,,X,,,4,,,,https://www.databazeknih.cz/knihy/alchymicky-bestiar-basilia-valentina-a-jeho-nasledniku-75902
+147,*,,O obtížnosti alchymie a konečné harmonické shodě,TRIGON,550,,knižnice logosu,,,,,,,,X,,,5,,,,https://www.databazeknih.cz/knihy/o-obtiznosti-alchymie-a-konecne-harmonicke-shode-75901
+148,*,,Michael Sendivogius a jeho následníci,TRIGON,550,,knižnice logosu,,,,,,,,X,,,6,,,,https://www.databazeknih.cz/knihy/michael-sendivogius-a-jeho-naslednici-75886
+149,*,,Philaletha - Starkey,TRIGON,550,,knižnice logosu,,,,,,,,X,,,7,,,,https://www.databazeknih.cz/knihy/philaletha-starkey-75884
+150,*,,Sněm filosofů,TRIGON,550,,knižnice logosu,,,,,,,,X,,,8,,,,https://www.databazeknih.cz/knihy/snem-filosofu-75880
+151,*,,Palladium Spagyricum,TRIGON,550,,knižnice logosu,,,,,,,,X,,,9,,,,https://www.databazeknih.cz/knihy/palladium-spagyricum-75876
+152,*,,Aurora Consurgens sv. Tomáše Akvinského,TRIGON,550,,knižnice logosu,,,,,,,,X,,,10,,,,https://www.databazeknih.cz/knihy/aurora-consurgens-sv-tomase-akvinskeho-75871
+153,*,,Drahocenná perla v růžové zahradě,TRIGON,550,,knižnice logosu,,,,,,,,X,,,11,,,,https://www.databazeknih.cz/knihy/drahocenna-perla-v-ruzove-zahrade-200265
+154,Junius,Manfred,Praktická příručka rostlinné alchymie,TRIGON,550,,knižnice logosu,,,,,,,,X,,,12,,,,https://www.databazeknih.cz/knihy/prakticka-prirucka-rostlinne-alchymie-379989
+155,Andreae,Johann Valentin,Christianopolis,TRIGON,550,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/christianopolis-359323
+156,Trithemius,Johannes,O sedmi druhotných působcích,TRIGON,550,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/de-septem-secundeis-o-sedmi-druhotnych-pusobcich-328284
+157,Jaroš,Griemiller,Rosarium philosophorum,TRIGON,550,Růžová zahrada filosofů,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/rosarium-philosophorum-ruzova-zahrada-filosofu-279817
+158,Lasenic,Pierre de,Hovory s Lasenicem,TRIGON,550,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/hovory-s-lasenicem-258943
+159,Váchal,Josef,Paměti pro Josefa Portmana,TRIGON,550,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/pameti-pro-josefa-portmana-235060
+160,Baudelaire,Charles,Báseň o hašiši,VOLVOX GLOBATOR,530,,malá řada,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/basen-o-hasisi-3633
+161,Meyrink,Gustav,Hašiš a jasnozřivost,VOLVOX GLOBATOR,530,,malá řada,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/hasis-a-jasnozrivost-29345
+162,Bach,Richard,Jonathan Livingston Racek,ARGO,540,Jonathan Livingston Seagull (bilinguální vydání),,,,,,,,,978-80-7203-872-5,,,,,,,https://www.databazeknih.cz/knihy/jonathan-livingston-racek-jonathan-livingston-seagull-30665
+163,Hongzhi,Li,Zhuan falun,VODNÁŘ,510,,,,,,,,2006,,80-86226-62-X,,,,,,,https://www.databazeknih.cz/knihy/zhuan-falun-179323
+164,Thoma,Erwin,… viděl jsem tě růst,PAPRSKY,400,,,,,,,,,,80-903553-4-X,,,,,,,https://www.databazeknih.cz/knihy/videl-jsem-te-rust-126090
+165,Dodt,Colleen K.,Éterické a esenciální léčivé oleje,PRAGMA,520,Návody a pokyny k výrobě vlastních směsí a olejíčků,,,,,,,,,978-80-7349-115-4,,,,,,,https://www.databazeknih.cz/knihy/etericke-a-esencialni-lecive-oleje-84413
+166,Klouda,Lubomír,Alternativní medicína,ROAD PRAHA,510,Léčení pro každého,,,,,,,,,80-900302-1-1,,,,,,,https://www.databazeknih.cz/knihy/alternativni-medicina-komplexni-prevence-a-lecba-prirodnimi-prostredky-47346
+167,Cunningham,Scott,"Kompletní kniha kadidel, olejů & lektvarů",FONTÁNA,520,,,,,,,,,,80-7336-060-8,,,,,,,https://www.databazeknih.cz/knihy/kompletni-kniha-kadidel-oleju-a-bylinnych-odvaru-78646
+168,Cunningham,Scott,Magická encyklopedie drahých kamenů a krystalů,FONTÁNA,400,"Magie kamenů, krystaů a kovů, kouzla s kameny a kamenový tarot",,,,,,,,,80-7336-151-5,,,,,,,https://www.databazeknih.cz/knihy/magicka-encyklopedie-drahych-kamenu-a-krystalu-124539
+169,Cunningham,Scott,Energie Země,VODNÁŘ,400,Techniky přírodní magie,,,,,,,,,80-86226-60-3,,,,,,,https://www.databazeknih.cz/knihy/energie-zeme-102041
+170,Cunningham,Scott,Techniky přírodní magie,GRADA,400,,,,,,,,,,978-80-7336-966-8,,,,,,,https://www.databazeknih.cz/knihy/techniky-prirodni-magie-zeme-vzduch-ohen-a-voda-431454
+171,Ignatěnko,Albert,Abeceda života,VODNÁŘ,510,,,,,,,386,2006,,978-80-86226-70-0,,,,,,,https://www.databazeknih.cz/knihy/abeceda-zivota-163738
+172,Wiesner,Ivo,Vimanika Shaastra,AOS PUBLISHING,550,Jak létali bohové,,Wiesnerová,Ludmila,,,,,,80-86063-66-6,,,,,,,https://www.databazeknih.cz/knihy/vimaanika-shaastra-aneb-jak-letali-bohove-147602
+173,Oerter,Wolf,Rukopisy z Nag Hammádí 1.,VYŠEHRAD,540,,,Pokorný,Petr,,,,,,978-80-7021-875-4,,,,,,,https://www.databazeknih.cz/knihy/rukopisy-z-nag-hammadi-rukopisy-z-nag-hammadi-1-44449
+174,Oerter,Wolf,Rukopisy z Nag Hammádí 2.,VYŠEHRAD,540,,,,,,,,,,978-80-7429-017-6,,,,,,,https://www.databazeknih.cz/knihy/rukopisy-z-nag-hammadi-rukopisy-z-nag-hammadi-2-105864
+175,Burckhardt,Titus,Alchymie,MALVERN,550,Tradiční věda o kosmu a duši,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/alchymie-tradicni-veda-o-kosmu-a-dusi-75849
+176,*,,Tibetské pohádky z oblasti Amdo,MALVERN,540,,,Ptáčková,Jarmila,,,,,,978-80-86702-94-0,,,,,,,https://www.databazeknih.cz/knihy/tibetske-pohadky-z-oblasti-amdo-205339
+177,Kushi,Michio,Kámen filosofů,CAD PRESS,550,"Úvod do alchymie, transmutace a Nové vědy",,Esko,Edward,,,,,,80-85349-72-8,,,,,,,https://www.databazeknih.cz/knihy/kamen-filosofu-119426
+178,Ball,Martin W.,Moudrost hub,DYBBUK,400,Šamanský rozvoj duchovního vědomí,,,,,,,,,978-80-86862-77-4,,,,,,,https://www.databazeknih.cz/knihy/moudrost-hub-samansky-rozvoj-duchovniho-vedomi-139158
+179,Arrien,Angelles,Velká kniha Crowleyho tarotu,SYNERGIE,550,Praktické využití starověkých vizuálních symbolů,,Homolová,Andrea,,,360,2000,,978-80-7370-235-9,,,,,,,https://www.databazeknih.cz/knihy/velka-kniha-crowleyho-tarotu-249710
+180,Underhill,Evelyn,Mystika,DYBBUK,550,Podstata a cesta duchovního vědomí,,Frei,Jan,,,592,2004,,80-86862-03-8,,,,,,,https://www.databazeknih.cz/knihy/mystika-podstata-a-cesta-duchovniho-vedomi-67125
+181,Buckland,Raymond,Velká učebnice čarodějnictví a magie,PRAGMA,550,,,,,,,261,1998,,80-7205-616-6,,,,,,,https://www.databazeknih.cz/knihy/velka-ucebnice-carodejnictvi-a-magie-31928
+182,Burroughs,William J.,Encyklopedie počasí,SVOJTKA,400,,,,,,,288,2004,,80-7237-747-7,,,,,,,https://www.databazeknih.cz/knihy/encyklopedie-pocasi-475385
+183,Zajíček,Samuel,Magie dnes,MALVERN,550,,,,,,,258,2008,,978-80-86702-36-0,,,,,,,https://www.databazeknih.cz/knihy/magie-dnes-66484
+184,Helmond,Johannes,Alchymie jako cesta zasvěcení,MALVERN,550,,,,,,,119,2007,,9788086702278,,,,,,,https://www.databazeknih.cz/knihy/alchymie-jako-cesta-zasveceni-211168
+185,Kefer,Jan,Praktická astrologie,VOTOBIA,550,Základní kniha české astrologie,,,,,,338,2000,,80-85320-79-7,,,,,,,https://www.databazeknih.cz/knihy/prakticka-astrologie-62233
+186,Melchizedek,Drunvalo,Prastaré tajemství květu života I.,PRAGMA,550,,,,,,,,2008,,978-80-906545-0-1,,,,,,,https://www.databazeknih.cz/knihy/prastare-tajemstvi-kvetu-zivota-svazek-1-352645
+187,Melchizedek,Drunvalo,Prastaré tajemství květu života II.,PRAGMA,550,,,,,,,541,2009,,978-80-906545-1-8,,,,,,,https://www.databazeknih.cz/knihy/prastare-tajemstvi-kvetu-zivota-svazek-1-352645
+188,,,Hliněný Tygr,ARGO,540,Nepálské legendy a mýty,,,,,,226,2007,,978-80-7203-857-2,,,,,,,https://www.databazeknih.cz/knihy/hlineny-tygr-nepalske-legendy-a-myty-203834
+189,,,"O obrovi, který neměl srdce v těle",ARGO,540,Norské pohádky,,,,,,,,,978-80-257-0740-1,,,,,,,https://www.databazeknih.cz/knihy/o-obrovi-ktery-nemel-srdce-v-tele-norske-pohadky-141832
+190,,,Duch dvou táří,ARGO,540,Mýty a legendy severoamerických indiánů,,,,,,150,2012,,978-80-257-0552-0,,,,,,,https://www.databazeknih.cz/knihy/duch-dvou-tvari-125813
+191,Wiesner,Ivo,Gambit mahátmů,AOS PUBLISHING,550,,,,,,,,,,80-86063-55-0,,,,,,,https://www.databazeknih.cz/knihy/gambit-mahatmu-37670
+192,Nietzche,Friedrich,Tak pravil Zarathustra,VOTOBIA,540,,,,,,,367,1995,,80-85885-79-4,,,,,,,https://www.databazeknih.cz/dalsi-vydani/tak-pravil-zarathustra-1743
+193,Váňa,Pavel,S bylinářem Pavlem v kuchyni,EMINENT,400,,,,,,,195,2002,,80-7281-096-0,,,,,,,https://www.databazeknih.cz/knihy/s-bylinarem-pavlem-v-kuchyni-117252
+194,Holzer,Sepp,Zahrada k nakousnutí,ALMAN,400,Permakultura podle Seppa Holzera,,,,,,213,2013,,"978-80-87426-08-1, 978-80-86766-89-8",,,,,,,https://www.databazeknih.cz/knihy/zahrada-k-nakousnuti-102174
+195,Bauer,Jaroslav,Minerály,AVENTINUM,400,,,Tvrz,František,,,206,1990,,80-7151-064-5,,,,,,,https://www.databazeknih.cz/knihy/mineraly-157112
+196,Bach,Richard,Jediný,SYNERGIE,540,,,,,,,,,,978-80-8150-222-4,,,,,,,https://www.databazeknih.cz/knihy/jediny-pribeh-391597
+197,Bach,Richard,Nikdo není daleko,SYNERGIE,540,,,,,,,,,,978-80-86099-22-4,,,,,,,https://www.databazeknih.cz/knihy/nikdo-neni-daleko-5150
+198,Bach,Richard,Most přes navždy,SYNERGIE,540,,,,,,,,,,"80-86099-13-X, 978-80-86099-13-2",,,,,,,https://www.databazeknih.cz/knihy/most-pres-navzdy-628
+199,Bach,Richard,Iluze,SYNERGIE,540,,,,,,,,,,978-80-86099-83-5,,,,,,,https://www.databazeknih.cz/knihy/iluze-5821
+200,Moine,Marie-Pierre,Bylinky v kuchyni,SLOVART,400,,,Coxx,Jeff,,,192,2012,,978-80-7391-599-5,,,,,,,https://www.databazeknih.cz/knihy/bylinky-v-kuchyni-120242
+201,Mallien,Lara,Geomancie a integrální kultura,DHARMAGAIA,400,O novém vztahu k naší domovské planetě,,Heimrath,Johannes,,,,2008,,978-80-86685-85-4,,,,,,,https://www.databazeknih.cz/knihy/geomancie-a-integralni-kultura-183439
+202,Dvořák,Karel,Nejstarší české pohádky,ARGO,540,,,,,,,,,,80-7203-368-9,,,,,,,https://www.databazeknih.cz/knihy/nejstarsi-ceske-pohadky-105195
+203,Aum,Maun Tchin,Krokodýl dešťový mrak,ARGO,540,Barmské legendy a mýty,,,,,,,,,80-7203-530-4,,,,,,,https://www.databazeknih.cz/knihy/krokodyl-destovy-mrak-barmske-legendy-a-myty-36140
+204,Meyrink,Gustav,"Nevědět nic, moci vše",TRIGON,540,,,,,,,,,,80-86159-44-2,,,,,,,https://www.databazeknih.cz/knihy/nevedet-nic-moci-vse-25053
+205,Meyrink,Gustav,Golem,M,540,,,,,,,,,,80-7203-601-7,,,,,,,https://www.databazeknih.cz/knihy/golem-15563
+206,Meyrink,Gustav,Ropuší kletba,ARGO,540,,,,,,,,,,978-80-257-0559-9,,,,,,,https://www.databazeknih.cz/knihy/ropusi-kletba-111971
+207,Meyrink,Gustav,Dům alchymistův,ARGO,540,,,,,,,,,,80-7203-031-0,,,,,,,https://www.databazeknih.cz/knihy/dum-alchymistuv-2722
+208,Rajsigl,Oldřich,Jak pomoci siderického kyvadla hledat,AVES,520,"pohřešovanou osobu, pachatele nebo odcizené vozidlo",,,,,,,,,80-238-5828-9,,,,,,,https://www.databazeknih.cz/knihy/jak-pomoci-siderickeho-kyvadla-hledat-pohresovane-osoby-pachatele-odcizena-vozidla-41383
+209,Vaněk,Václav,Výživa zahradních rostlin,ACADEMIA,400,,,,,,,584,2012,,978-80-200-2147-2,,,,,,,https://www.databazeknih.cz/knihy/vyziva-zahradnich-rostlin-139468
+210,Kindl,Roman,Netradiční bylinkář,KINDL ROMAN,400,,,,,,,208,2011,,978-80-904894-0-0,9788090489400,,,,,,https://www.databazeknih.cz/knihy/netradicni-bylinkar-84949
+211,Kindl,Roman,Netradiční kuchařka,KINDL ROMAN,510,,,,,,,112,2012,,978-80-904894-1-7,9788090489417,,,,,,https://www.databazeknih.cz/knihy/netradicni-kucharka-154081
+212,Harrison,Harry,"Bill, galaktický hrdina - na planetě lahvových mozků",AND CLASSIC,540,Nejbláznivější dobrodružství všech časů a vesmírů,,Bischoff,David,,,154,1996,,80-85782-57-X,,,,,,,https://www.databazeknih.cz/knihy/bill-galakticky-hrdina-na-planete-lahvovych-mozku-28242
+213,Harrison,Harry,"Bill, galaktický hrdina - na planetě otročích robotů",AND CLASSIC,540,Nejbláznivější dobrodružství všech časů a vesmírů,,,,,,160,1996,,80-85782-59-6,,,,,,,https://www.databazeknih.cz/knihy/bill-galakticky-hrdina-na-planete-otrocich-robotu-28309
+214,Harrison,Harry,"Bill, galaktický hrdina - na planetě nechutných rozkoší",AND CLASSIC,540,Nejbláznivější dobrodružství všech časů a vesmírů,,Bischoff,David,,,158,1996,,80-85782-62-6,,,,,,,https://www.databazeknih.cz/knihy/bill-galakticky-hrdina-bill-galakticky-hrdina-na-planete-nechutnych-rozkosi-28310
+215,Harrison,Harry,"Bill, galaktický hrdina - na planetě upířích zombií",AND CLASSIC,540,Nejbláznivější dobrodružství všech časů a vesmírů,,Haldeman II,Jack C.,,,157,1996,,80-85782-67-7,,,,,,,https://www.databazeknih.cz/
+216,Harrison,Harry,"Bill, galaktický hrdina - poslední neuvěřitelné dobrodružství",AND CLASSIC,540,Nejbláznivější dobrodružství všech časů a vesmírů,,Harris,David,,,160,1996,,80-85782-64-2,,,,,,,https://www.databazeknih.cz/knihy/bill-galakticky-hrdina-posledni-neuveritelne-dobrodruzstvi-28313
+217,Lévi-Strauss,Claude,Mythologica*,ARGO,540,Syrové a vařené,CapriCorn,,,,,,,,80-7203-644-0,,,,,,,https://www.databazeknih.cz/knihy/mythologica-i-syrove-a-varene-39179
+218,Lévi-Strauss,Claude,Mythologica**,ARGO,540,Od medu k popelu,CapriCorn,,,,,,,,80-7203-737-4,,,,,,,https://www.databazeknih.cz/knihy/mythologica-ii-od-medu-k-popelu-39180
+219,Lévi-Strauss,Claude,Mythologica***,ARGO,540,Původ stolničení,CapriCorn,,,,,510,2007,,978-80-7203-907-4,,,,,,,https://www.databazeknih.cz/knihy/mythologica-iii-puvod-stolniceni-39181
+220,Lévi-Strauss,Claude,Mythologica****,ARGO,540,Nahý člověk,CapriCorn,,,,,746,2008,,978-80-257-0059-4,,,,,,,https://www.databazeknih.cz/knihy/mythologica-iv-nahy-clovek-39182
+221,Livio,Mario,Zlatý řez,DOKOŘÁN,550,"Příběh fí, nejpodivuhodnějšího čísla na světě",,,,,,255,2006,,"80-7203-808-7, 80-7363-064-8",,,,,,,https://www.databazeknih.cz/knihy/zlaty-rez-41742
+222,Schwarz,Herbert T.,Příběhy z parní lázně,ARGO,540,Erotické příběhy kanadských indiánů,,,,,,119,2001,,80-7203-256-9,,,,,,,https://www.databazeknih.cz/knihy/pribehy-z-parni-lazne-16758
+223,Veselý,Vladimír,Včelařství,BRÁZDA,520,,,kolektiv,,,,,,,80-209-0320-8,,,,,,,https://www.databazeknih.cz/knihy/vcelarstvi-122272
+224,Janča,Jiří,Alternativní medicína,EMINENT,510,Komplexcní prevence a léčba přírodními prostředky,,,,,,268,1991,,80-900302-1-1,,,,,,,https://www.databazeknih.cz/knihy/alternativni-medicina-komplexni-prevence-a-lecba-prirodnimi-prostredky-47346
+225,Moody,Raymond A.,Život po životě/Úvahy o životě po životě/Světlo po životě,ODEON,510,,,,,,,321,1991,,80-207-0314-4,,,,,,,https://www.databazeknih.cz/knihy/zivot-po-zivote-uvahy-o-zivote-po-zivote-svetlo-po-zivote-8886
+226,Kreperát,Josef Pavel,Lexikon léčivých kamenů,GRANIT,400,,,,,,,100,2012,,978-80-7296-065-1,,,,,,,https://www.databazeknih.cz/knihy/lexikon-lecivych-kamenu-97218
+227,Andres,RNDr. Ing. Evžen,Jak odhalit tajemství geopatogenních zón,EMINENT,400,Účinky geologického podloží na zdraví lidí,,Vokolek,Václav,,,215,2002,,80-7281-112-6,,,,,,,https://www.databazeknih.cz/knihy/jak-odhalit-tajemstvi-geopatogennich-zon-10045
+228,Spychalski,Czeslaw,Radiestezie v domě a na zahradě,STANOVUM,400,Učebnice proutkařství,,,,,,150,1983,,X,,,,,,,
+229,Kersaint,J. P. de,Kurs radiestezie,STANOVUM,400,,,,,,,26,1988,,X,,,,,,,
+230,Thomas,Paul,A ráj už byl,DOBRA,540,O neoficiálních archeologických výzkumech,,,,,,206,2001,,80-86459-13-6,,,,,,,https://www.databazeknih.cz/knihy/a-raj-uz-byl-89312
+231,Pogančik,Marko,Škola geomantie,DOBRA,400,,,,,,,415,2000,,80-86018-02-4,,,,,,,https://www.databazeknih.cz/knihy/skola-geomantie-96182
+232,Krsnavalli,deví dasí,108 receptů od Góvindy,BHAKTIVEDANTA,510,"Praktická vegetariánská kuchařka aneb Jak žít zdravě, bohatě a moudře",,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/108-receptu-od-govindy-81391
+233,Reichová,Helena,Jak nás ovlivňuje energie míst,EUGENIKA,400,Učení živé etiky,,,,,,151,2012,,978-80-89115-8,,,,,,,https://www.databazeknih.cz/knihy/jak-nas-ovlivnuje-energie-mist-120908
+234,Dobrovolný,Bohumil,Abeceda elektrotechniky,PRÁCE,740,,,,,,,275,1955,,X,,,,,,,
+235,Bastian,Peter,Praktická elektrotechnika,SOBOTÁLES,740,,,kolektiv,,,,296,2012,,X,,,,,,,
+236,Voráčová,Šárka,Atlas geometrie,ACADEMIA,600,Geometrie krásná a užitečná,,kolektiv,,,,252,2013,,978-80-200-1575-4,,,,,,,https://www.databazeknih.cz/knihy/atlas-geometrie-geometrie-krasna-a-uzitecna-235830
+237,Šrot,Radoslav,1000 dobrých rad zahrádkářům,BRÁZDA,400,,,,,,,626,2006,,07-094-87,,,,,,,https://www.databazeknih.cz/knihy/1000-dobrych-rad-zahradkarum-65234
+238,Janča,Jiří,Herbář (1),EMINENT,400,A - D,,Zentrich,,,,,,,80-85876-02-7,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-1-dil-43986
+239,Janča,Jiří,Herbář (2),EMINENT,400,E - K,,Zentrich,,,,,,,80-85876-04-3,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-2-dil-43987
+240,Janča,Jiří,Herbář (3),EMINENT,400,L - P,,Zentrich,,,,,,,80-85876-14-0,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-3-dil-43984
+241,Janča,Jiří,Herbář (4),EMINENT,400,R - Š,,Zentrich,,,,,,,80-85876-20-5,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-4-dil-43990
+242,Janča,Jiří,Herbář (5),EMINENT,400,T - Ž,,Zentrich,,,,,,,80-85876-32-9,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-5-dil-43988
+243,Janča,Jiří,Herbář (6),EMINENT,400,Doplněk,,Zentrich,,,,,,,80-85876-45-0,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-6-dil-doplnek-43991
+244,Janča,Jiří,Herbář (7),EMINENT,400,Receptář,,Zentrich,,,,,,,80-7281-000-6,,,,,,,https://www.databazeknih.cz/knihy/herbar-herbar-lecivych-rostlin-7-dil-receptar-43992
+245,Kolář,Jan,Biologické hodiny rostlin,ACADEMIA,400,,,,,,,,,,80-200-1429-2,,,,,,,https://www.databazeknih.cz/knihy/biologicke-hodiny-rostlin-34315
+246,Wanek,Miroslav,Výlov šuplíka,MAŤA,530,,,,,,,,,,978-80-7287-167-4,,,,,,,https://www.databazeknih.cz/knihy/vylov-suplika-136100
+247,Hašek,Jaroslav,Humoresky,FRAGMENT,530,,,,,,,112,2009,,978-80-253-0929-2,,,,,,,https://www.databazeknih.cz/knihy/humoresky-52312
+248,Mello,Anthony de,Minutové nesmysly,CESTA,520,,,,,,,260,1995,,978-80-7295-168-0,,,,,,,https://www.databazeknih.cz/knihy/minutove-nesmysly-178246
+249,Mello,Anthony de,Minutová moudrost,CESTA,520,,,,,,,256,2011,,80-85319-37-3,,,,,,,https://www.databazeknih.cz/knihy/minutova-moudrost-26603
+250,David-Neelová,Alexandra,Mystikové a mágové Tibetu,ELFA,550,,,,,,,,1998,,80-900197-5-7,,,,,,,https://www.databazeknih.cz/dalsi-vydani/mystikove-a-magove-tibetu-146189
+251,Thoreau,Henry David,Walden,PASEKA,400,Život v lesích,,,,,,,,,978-80-89921-00-3,,,,,,,https://www.databazeknih.cz/knihy/walden-alebo-zivot-v-lese-365805
+252,Larsen,Anker,Kámen mudrců,AVATAR,550,,,,,,,,,,80-85862-28-X,,,,,,,https://www.databazeknih.cz/knihy/kamen-mudrcu-23259
+253,Kushi,Michio,Makrobiotická cesta,VOTOBIA,510,Komplexní příručka zdravé výživy,,,,,,260,1997,,80-7198-300-4,,,,,,,https://www.databazeknih.cz/knihy/makrobioticka-cesta-29949
+254,Berliner,Helen,Vytváření osvícení,PRAGMA,550,,,,,,,234,2006,,80-7349-007-2,,,,,,,https://www.databazeknih.cz/knihy/vytvareni-osviceni-67182
+255,Kratochvíl,Zdeněk,Pýthagorás ze Samu,TRIGON,600,,,Bor,D. Ž.,,,128,1999,,80-86159-14-0,,,,,,,https://www.databazeknih.cz/knihy/pythagoras-ze-samu-55453
+256,Tajboš,Jan,Posvátný jazyk stvoření,MAITREA,550,,,,,,,128,2010,,978-80-87249-14-7,,,,,,,https://www.databazeknih.cz/knihy/posvatny-jazyk-stvoreni-kosmogramy-121239
+257,Bennett,Allan,Poznámka ke Genesis,HORUS,550,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/poznamka-ke-genesis-482906
+258,Saint-Germain,Hrabě de,Nejsvětější trinosofie,TRIGON,550,,,,,,,,,,978-80-86159-91-1,,,,,,,https://www.databazeknih.cz/knihy/nejsvetejsi-trinosofie-179412
+259,Goeseová,Taťána,Astrologie a sebepoznání,ARGO,650,,,,,,,,,,80-7203-650-5,9788086018119,,,,,,https://www.databazeknih.cz/dalsi-vydani/astrologie-a-sebepoznani-kniha-pro-adepty-412353
+260,Schauberger,Viktor,Tajuplná a léčivá síla vody,FONTÁNA,400,,,,,,,462,2007,,978-80-7336-406-9,,,,,,,https://www.databazeknih.cz/knihy/tajuplna-a-leciva-sila-vody-174156
+261,Heinrich,Clark,Magické houby v náboženství a alchymii,TRITON,400,,,,,,,284,2006,,80-7254-835-2,,,,,,,https://www.databazeknih.cz/knihy/magicke-houby-v-nabozenstvi-a-alchymii-100931
+262,Tompkins,Peter,Tajný život rostlin,MALVERN,400,,,Bird,Christopher,,,279,2015,,978-80-7530-019-5,,,,,,,https://www.databazeknih.cz/knihy/tajny-zivot-rostlin-272568
+263,Sokolov,Dimitrij Jurevič,Psychogenní houby,SVĚTOZOR,400,,,,,,,100,2015,,978 80 972074 10,,,,,,,https://www.databazeknih.cz/knihy/psychogenni-houby-276868
+264,Webster,Richard,Magie květin a stromů,FONTÁNA,400,,,,,,,223,2015,,978-80-73368-06-7,,,,,,,https://www.databazeknih.cz/knihy/magie-kvetin-a-stromu-274802
+265,Steinová,Diane,Léčivé květy,VOLVOX GLOBATOR,400,,,,,,,193,2012,,978-80-7207-893-6,,,,,,,https://www.databazeknih.cz/knihy/lecive-kvety-183885
+266,Reich,Lee,Netradiční ovoce pro každou zahradu,VOLVOX GLOBATOR,400,,,,,,,332,2015,,978-80-7511-196-8,,,,,,,https://www.databazeknih.cz/knihy/netradicni-ovoce-pro-kazdou-zahradu-271247
+267,Beranová,Magdalena,Jídlo a pití v pravěku a středověku,ACADEMIA,510,,,,,,,553,2015,,978-80-200-1991-2,,,,,,,https://www.databazeknih.cz/dalsi-vydani/jidlo-a-piti-v-praveku-a-ve-stredoveku-93313
+268,Katz,Sandor Ellix,Síla přírodní fermentace,GRADA,400,,,,,,,255,2015,,978-80-271-3029-0,,,,,,,https://www.databazeknih.cz/knihy/sila-prirodni-fermentace-455006
+269,Jonáš,Josef,Tvoje strava je tvůj osud,EMINENT,510,"Příčiny, souvislosti, důsledky a možnosti řešení nemocí a problémů spojených s jídlem",,Kuchař,Jiři,,,439,2015,,978-80-7281-501-2,,,,,,,https://www.databazeknih.cz/knihy/tvoje-strava-je-tvuj-osud-266971
+270,Schrötter,Josef,Ozdravení těla i ducha,EMINENT,510,Rady a recepty,,,,,,242,2015,,978-80-7281-496-1,,,,,,,https://www.databazeknih.cz/knihy/ozdraveni-tela-i-ducha-272783
+271,Chia,Mantak,Tao a léčivá energie,PRAGMA,510,Základní kniha taoistické esoterické jógy,,,,,,206,1983,,80-7205-004-4,,,,,,,https://www.databazeknih.cz/knihy/tao-a-leciva-energie-113366
+272,Tajboš,Jan,Posvátná místa přírody,FONTÁNA,400,Kosmos Pražské krajiny,,,,,,128,2007,,978-80-7339-391-8,,,,,,,https://www.databazeknih.cz/knihy/posvatna-mista-prirody-121238
+273,Kaisen,Mistr,Trilogie mistů zenu,FONTÁNA,520,Zen pro 21. století,,,,,,98,1999,,80-7336-165-5,,,,,,,https://www.databazeknih.cz/knihy/trilogie-mistru-zenu-120783
+274,Harrison,Harry,"Bill, galaktický hrdina - Na planetě tisíce barů",AND CLASSIC,540,,,Bischoff,David,,,154,1996,,80-85782-56-1,,,,,,,https://www.databazeknih.cz/knihy/bill-galakticky-hrdina-na-planete-tisice-baru-28312
+275,Donnelly,Ignatius,Atlantis,Jaroslav Lukavský,550,Svět předpotopní,,,,,,,1924,,X,,,,,,,
+276,Sitchin,Zecharia,Dvanáctá planeta,DOBRA,400,Radikální teorie o původu Země a nebeských předcích člověka,,,,,,447,2006,,80-86459-50-0,,,,,,,https://www.databazeknih.cz/knihy/kronika-zeme-dvanacta-planeta-23948
+277,Lethbridge,T. C.,Síla kyvadla,Emitos - Tomáš Janeček,550,,,,,,,,1995,,80-85880-07-5,,,,,,,https://www.databazeknih.cz/knihy/sila-kyvadla-332766
+278,*,,Voda v pohybu - úžas v nás,MALVERN,400,Pozorování a pokusy,,,,,,,,,978-80-7530-069-0,,,,,,,https://www.databazeknih.cz/knihy/voda-v-pohybu-uzas-v-nas-pozorovani-a-pokusy-338542
+279,Žert,Vlastimil,Geomantie včera a dnes,POZNÁNÍ,400,aneb začátečníkův průvodce po mítech svatých a klatých,,,,,,109,2003,,80-86606-14-7,,,,,,,https://www.databazeknih.cz/knihy/geomantie-vcera-a-dnes-aneb-zacatecnikuv-pruvodce-po-mistech-svatych-a-klatych-117856
+280,Veselý,Josef,Zrnka moudrosti,VODNÁŘ,550,Příběhy ze života Mistra,,,,,,88,2002,,80-86226-36-0,9788086226361,,,,,,https://www.databazeknih.cz/knihy/zrnka-moudrosti-pribehy-ze-zivota-mistra-100962
+281,Sade,D.A.F. markýz de,Povídky,DYBBUK,540,,,,,,,108,2009,,978-80-86862-80-4,9788086862804,,,,,,https://www.databazeknih.cz/knihy/povidky-57338
+282,Bahbouh,Charif,"Turecká, perská a arabská přísloví a mudrosloví",DAR IBN RUSHD,530,,,Kopecký,René,,,128,2013,,9768086149820,9788086149820,,,,,,https://www.databazeknih.cz/knihy/turecka-perska-a-arabska-prislovi-a-mudroslovi-252496
+283,Lípa,Jan,Učení Fráni Drtikola,SVĚT,510,Od čakramů k nemyšlení,,,,,,112,2014,,80-85905-07-8,9788087201084,,,,,,https://www.databazeknih.cz/knihy/sila-moudrosti-interpretace-uceni-frani-drtikola-156725
+284,Ford,Sarah,50 ways to kill a slug,HAMLYN,520,,,,,,,96,2006,,80-7359-004-2,,,,,,,https://www.databazeknih.cz/knihy/jak-zatocit-se-slimaky-106220
+285,Lexa,František,Náboženská literatura staroegyptská,HERMANN,540,,,,,,,242,1997,,X,,,,,,,https://www.databazeknih.cz/knihy/nabozenska-literatura-staroegyptska-304160
+286,Bennet,John,Jak děláme věci,MALVERN,550,Přednášky o kreativitě a vědomém využívání lidské energie,,Janicki,Marko,,,80,2013,,978-80-87580-57-8,9788087580578,,,,,,https://www.databazeknih.cz/knihy/jak-delame-veci-179589
+287,Navrátil,Jiří,Aštávakragíta,AVATAR,530,Staroindická filosofická báseň,,,,,,91,1994,,X,9788085862539,,,,,,https://www.databazeknih.cz/dalsi-vydani/astavakragita-265934
+288,Compton,Margaret,American Indian Fairy Tales / Pohádky amerických indiánů,GARAMOND,540,,,,,,,208,2015,,9788074072529,9788074072529,,,,,,https://www.databazeknih.cz/knihy/pohadky-americkych-indianu-314642
+289,Whitefield,Patrick,Permakultura v kostce,SYNERGIE,520,,,,,,,115,1996,,80-901797-4-6,9788090179745,,,,,,https://www.databazeknih.cz/knihy/permakultura-v-kostce-92180
+290,Mikuláš,Radek,Blijící lišky a jiná zvěrstva,DOKOŘÁN,540,,,,,,,112,2010,,978-80-7363-319-6,9788073633196,,,,,,https://www.databazeknih.cz/knihy/blijici-lisky-a-jina-zverstva-46547
+291,Hillel-Erlangerová,Irene,Cestování kaleidoskopem,MALVERN,550,,,,,,,148,2011,,X,9788086702926,,,,,,
+292,Martineau,,Malá kniha velkých náhod,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-096-6,,,,,,,https://www.databazeknih.cz/knihy/mala-kniha-velkych-nahod-246411
+293,Tetlow,,Keltské vzory,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-693-7,,,,,,,https://www.databazeknih.cz/knihy/keltske-vzory-284382
+294,Watkins,,Nepostradatelné matematické a fyzikální vzorce,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-738-5,,,,,,,https://www.databazeknih.cz/knihy/nepostradatelne-matematicke-a-fyzikalni-vzorce-283880
+295,Polster,Bukard,Q. E. D.,DOKOŘÁN,550,Krása matematického důkazu,Pergamen,,,,,,,,978-80-7363-672-2,,,,,,,https://www.databazeknih.cz/knihy/q-e-d-233507
+296,Ashton,,Harmonograf,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-668-5,,,16,,,,https://www.databazeknih.cz/knihy/harmonograf-236741
+297,Lundyová,,Posvátná geometrie,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-565-7,,,,,,,https://www.databazeknih.cz/knihy/posvatna-geometrie-168491
+298,Wade,David,Symetrie,DOKOŘÁN,550,Základní princip uspořádanosti,Pergamen,,,,,,,,978-80-7363-410-0,,,,,,,https://www.databazeknih.cz/knihy/symetrie-zakladni-princip-usporadani-190308
+299,Sutton,,Islámský design,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-674-6,,,,,,,https://www.databazeknih.cz/knihy/islamsky-design-233504
+300,Betts,,Liské tělo,DOKOŘÁN,550,Zázrak přírody,Pergamen,,,,,,,,978-80-7363-614-2,,,15,,,,https://www.databazeknih.cz/knihy/lidske-telo-zazrak-prirody-261796
+301,,,"Slunce, Měsíc a Země",DOKOŘÁN,550,,Pergamen,,,,,64,2015,,978-80-7363-690-6,,,18,,,,https://www.databazeknih.cz/knihy/slunce-mesic-a-zeme-262793
+302,,,Záhadný zlatý řez,DOKOŘÁN,550,,Pergamen,,,,,68,2013,,978-80-7363-566-4,,,,,,,https://www.databazeknih.cz/dalsi-vydani/zahadny-zlaty-rez-261566
+303,,,Vnitřní bdělost,PRAGMA,510,,,,,,,271,2009,,978-80-7205-051-2,,,,,,,https://www.databazeknih.cz/knihy/vnitrni-bdelost-51450
+304,,,Sfinga,PRAGMA,530,,,,,,,188,2012,,978-80-7349-302-8,,,,,,,https://www.databazeknih.cz/knihy/sfinga-the-sphinx-478983
+305,Kalpur,Daryai Lal,Rozhovory s velkým mistrem,VOTOBIA,510,,,,,,,192,,,80-7198-503-1,,,,,,,https://www.databazeknih.cz/knihy/rozhovory-s-velkym-mistrem-432438
+306,Teresi,Dick,Ztracené objevy,ALBATROS,550,,,,,,,402,2004,,80-00-01447-5,,,,,,,https://www.databazeknih.cz/knihy/ztracene-objevy-58336
+307,Sitchin,Zecharia,Výpravy do mýtické minulosti,FONTÁNA,540,,,,,,,286,2004,,80-7336-238-4,,,,,,,https://www.databazeknih.cz/knihy/vypravy-do-myticke-minulosti-54521
+308,Liška,Vladimír,Magická místa České republiky,ALPRESS,550,,,,,,,192,2011,,978-80-7362-943-4,,,,,,,https://www.databazeknih.cz/knihy/magicka-mista-ceske-republiky-96580
+309,Vašíček,Arnošt,Záhady Číny a Tibetu,MYSTERY FILM,550,,,,,,,168,2007,,80-254-0235-5,,,,,,,https://www.databazeknih.cz/knihy/zahady-ciny-a-tibetu-9670
+310,Česal,Aleš,Záhady staré Prahy,LEVNÉ KNIHY,550,,,,,,,208,2002,,978-80-7309-775-2,,,,,,,https://www.databazeknih.cz/knihy/zahady-stare-prahy-73889
+311,Česal,Aleš,Toulky tajemnými místy Čech,XYZ,550,,,,,,,356,2008,,978-80-87021-41-5,,,,,,,https://www.databazeknih.cz/knihy/toulky-tajemnymi-misty-cech-21330
+312,Sládek,Milan,Největší české záhady,XYZ,550,,,,,,,250,2009,,978-80-7388-152-8,,,,,,,https://www.databazeknih.cz/knihy/nejvetsi-ceske-zahady-vladci-demonu-32765
+313,Rovner,Arkadij B.,Nebeské příbytky,MALVERN,550,,,,,,,239,2013,,978-80-87580-36-3,,,,,,,https://www.databazeknih.cz/knihy/nebeske-pribytky-277929
+314,Kefer,Jan,Syntetická magie,TRIGON,550,,,,,,,,,,80-85320-18-5,,,,,,,https://www.databazeknih.cz/knihy/synteticka-magie-72499
+315,Gore,Al,Země na misce vah,ARGO,400,Ekologie a lidský duch,,,,,,374,2000,,80-7203-310-7,,,,,,,https://www.databazeknih.cz/knihy/zeme-na-misce-vah-31283
+316,Wiesner,Ivo,Do ráje projdeš peklem I.,AOS PUBLISHING,550,,,,,,,,,,978-80-87624-16-6,,,,,,,https://www.databazeknih.cz/knihy/do-raje-projdes-peklem-1-181690
+317,Wiesner,Ivo,Do ráje projdeš peklem II.,AOS PUBLISHING,550,,,,,,,,,,978-80-87624-17-3,,,,,,,https://www.databazeknih.cz/knihy/do-raje-projdes-peklem-2-181723
+318,Newman,,Pozemské sítě,DOKOŘÁN,550,,Pergamen,,,,,,,,978-80-7363-786-6,,,,,,,https://www.databazeknih.cz/knihy/pozemske-site-306129
+319,Creightmore,,Feng-Šuej,DOKOŘÁN,550,,,,,,,,,,978-80-7363-673-9,,,,,,,https://www.databazeknih.cz/knihy/feng-suej-233508
+320,Eliade,Mircea,Šamanismus a archaické techniky extáze,ARGO,540,,CapriCorn,,,,,,,,978-80-257-2082-0,,,,,,,https://www.databazeknih.cz/knihy/samanismus-a-archaicke-techniky-extaze-348586
+321,Lévy-Bruhl,Lucien,Myšlení člověka primitivního,ARGO,540,,CapriCorn,,,,,,,,80-7203-243-7,,,,,,,https://www.databazeknih.cz/knihy/mysleni-cloveka-primitivniho-99711
+322,Perrin,Michel,Cesta mrtvých indiánů,ARGO,540,,CapriCorn,,,,,,,,80-7203-298-4,,,,,,,https://www.databazeknih.cz/knihy/cesta-mrtvych-indianu-46032
+323,De Martino,Ernesto,Magický svět,ARGO,540,,CapriCorn,,,,,,,,80-7203-480-4,,,,,,,https://www.databazeknih.cz/knihy/magicky-svet-85947
+324,Soustelle,Jacques,Čtvero sluncí,ARGO,540,Mexické vzpomínky a úvahy jednoho etnologa,CapriCorn,,,,,,,,80-7203-283-6,,,,,,,https://www.databazeknih.cz/knihy/ctvero-slunci-57415
+325,Jaulin,Robert,Smrt u lidu Sara,ARGO,540,,CapriCorn,,,,,,,,80-7203-495-2,,,,,,,https://www.databazeknih.cz/knihy/smrt-u-lidu-sara-78400
+326,Clastres,Pierre,Kronika indiánů Guayakí,ARGO,540,,CapriCorn,,,,,,,,80-7203-430-8,,,,,,,https://www.databazeknih.cz/knihy/kronika-indianu-guayaki-76203
+327,Bastide,Roger,Bahijské kandomble,ARGO,540,,CapriCorn,,,,,,,,80-7203-494-4,,,,,,,https://www.databazeknih.cz/knihy/bahijske-kandomble-99710
+328,Zbavitel,Dušan,Mahabharáta,ARGO,540,,,,,,,,,,978-80-257-0364-9,,,,,,,https://www.databazeknih.cz/dalsi-vydani/mahabharata-aneb-velky-boj-188004
+329,Miltner,Vladimír,Ramajána,ARGO,540,aneb Velký boj,,,,,,,,,978-80-257-1410-2,,,,,,,https://www.databazeknih.cz/dalsi-vydani/ramajana-254729
+330,Klíma,Vladimír,Dobrří duchové a démoni,ARGO,540,Západoafrické mýty a bajky,,,,,,,,,80-7203-549-5,,,,,,,https://www.databazeknih.cz/knihy/dobri-duchove-a-demoni-zapadoafricke-myty-a-bajky-13596
+331,Martínková,Jana,"O zlatém vejci, Brahmovi a vesmírných světech",ARGO,540,Mýty starých indů,,,,,,,,,978-80-257-0301-4,,,,,,,https://www.databazeknih.cz/knihy/o-zlatem-vejci-brahmovi-a-vesmirnych-svetech-myty-starych-indu-41228
+332,Janda,Petr,Pomsta hadů,ARGO,540,Mýty tchajwanských domorodců,,,,,,,,,978-80-257-0328-1,,,,,,,https://www.databazeknih.cz/knihy/pomsta-hadu-myty-tchajwanskych-domorodcu-120520
+333,Eliade,Mircea,Jóga,ARGO,510,nesmrtelnost a svoboda,,,,,,,,,80-7203-092-2,,,,,,,https://www.databazeknih.cz/knihy/joga-nesmrtelnost-a-svoboda-323386
+334,Wiesner,Ivo,Do ráje projdeš peklem 1.,AOS PUBLISHING,550,,,,,,,,,,978-80-87624-16-6,,,,,,,https://www.databazeknih.cz/knihy/do-raje-projdes-peklem-1-181690
+335,Wiesner,Ivo,Do ráje projdeš peklem 2.,AOS PUBLISHING,550,,,,,,,,,,978-80-87624-17-3,,,,,,,https://www.databazeknih.cz/knihy/do-raje-projdes-peklem-2-181723
+336,Bardon,František,Brána k opravdovému zasvědcení,CHVOJKOVO,550,,,,,,,,,,80-86183-01-7,,,,,,,https://www.databazeknih.cz/dalsi-vydani/brana-k-opravdovemu-zasveceni-58381
+337,Bardon,František,Frabato,CHVOJKOVO,550,,,,,,,,,,80-86183-07-6,,,,,,,https://www.databazeknih.cz/knihy/frabato-55638
+338,Bardon,František,Otázky na mistra Ariona,CHVOJKOVO,550,,,,,,,,,,80-86183-14-5,,,,,,,https://www.databazeknih.cz/knihy/otazky-na-mistra-ariona-288690
+339,Lumír,František,Vzpomínky na Františka Bardona,CHVOJKOVO,550,,,,,,,,,,80-901939-0-0,,,,,,,https://www.databazeknih.cz/knihy/vzpominky-na-frantiska-bardona-310558
+340,Bardon,František,Klíč k opravdové kabale,CHVOJKOVO,550,,,,,,,,,,80-900887-9-1,,,,,,,https://www.databazeknih.cz/knihy/klic-k-opravdove-kabale-36367
+341,Kirchhoff,Jochen,Vykoupení přírody a přirozenosti,MALVERN,400,Podněty pro kosmický obraz človška a základy duchovní ekologie,,,,,,,,,978-80-87580-25-7,,,,,,,https://www.databazeknih.cz/knihy/vykoupeni-prirody-a-prirozenosti-podnety-pro-kosmicky-obraz-cloveka-a-zaklady-duchovni-ekologie-138729
+342,Bodanella,David,Wilhelm Reich: průkopník nového myšlení,MALVERN,550,,,,,,,,,,978-80-87580-51-6,,,,,,,https://www.databazeknih.cz/knihy/wilhelm-reich-prukopnik-noveho-mysleni-202317
+343,Nakonečný,Milan,Neznámý filozof Louis-Claude de Saint-Martin,MALVERN,550,Martinismus kdysi a nyní,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/neznamy-filosof-louis-claude-de-saint-martin-23686
+344,Blake,William,Pohlavím: Brány ráje,MALVERN,530,,,,,,,,,,978-80-87580-78-3,,,,,,,https://www.databazeknih.cz/knihy/pohlavim-brany-raje-215718
+345,Warhol,Andy,Od A k B a zase zpátky,ARGO,530,aneb filozofie Warhola,,,,,,,,,978-80-257-1423-2,,,,,,,https://www.databazeknih.cz/knihy/od-a-k-b-a-zase-zpatky-filosofie-andyho-warhola-261731
+346,*,,Velká kniha výtvarné inspirace,CPRESS,520,,,,,,,,,,978-80-251-2071-2,,,,,,,https://www.databazeknih.cz/knihy/velka-kniha-vytvarne-inspirace-149822
+347,Kroenke,David M.,Databáze,CPRESS,740,,,Auer,David J.,,,,,,978-80-251-4352-0,,,,,,,https://www.databazeknih.cz/knihy/databaze-238465
+348,Lidwell,William,Univerzální principy designu,CPRESS,720,,,Holden,Kritina,Butler,Jill,,,,978-80-251-3540-2,,,,,,,https://www.databazeknih.cz/knihy/univerzalni-principy-designu-219519
+349,Lacko,Luboslav,SQL,CPRESS,740,Sbírka nejlepších programátorských postupů a řešení,,,,,,,,,978-80-251-3010-0,,,,,,,https://www.databazeknih.cz/knihy/1001-tipu-a-triku-pro-sql-124814
+350,Kameník,Pavel,Příkazový řádek v Linuxu,CPRESS,740,,,,,,,,,,978-80-251-2819-0,,,,,,,https://www.databazeknih.cz/knihy/prikazovy-radek-v-linuxu-148576
+351,Predko,Myke,Digitální elektronika bez předchozích znalostí,CPRESS,740,,,,,,,,,,978-80-251-2124-5,,,,,,,https://www.databazeknih.cz/knihy/digitalni-elektronika-bez-predchozich-znalosti-pruvodce-pro-samouky-186230
+352,Anderson,George W.,Naučte se SAP za 24 hodin,CPRESS,740,,,,,,,,,,978-80-251-3685-0,,,,,,,https://www.databazeknih.cz/knihy/naucte-se-sap-za-24-hodin-130868
+353,Wróblewski,Piotr,Algoritmy,CPRESS,740,,,,,,,,,,978-80-251-4126-7,,,,,,,https://www.databazeknih.cz/knihy/algoritmy-362018
+354,Pelánek,Radek,Programátorská cvičebnice,CPRESS,740,,,,,,,,,,978-80-251-3751-2,,,,,,,https://www.databazeknih.cz/knihy/programatorska-cvicebnice-231430
+355,Henney,Kevlin,97 klíčových zanlostí programátora,CPRESS,740,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/97-klicovych-znalosti-programatora-124978
+356,Monson-Haefel,Richard,97 klíčových zanlostí softwarového architekta,CPRESS,740,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/97-klicovych-znalosti-softwaroveho-architekta-124979
+357,Petiška,Eduard,Staré řecké báje a pověsti,ARGO,540,,,,,,,,,,9788025720912,,,,,,,https://www.databazeknih.cz/dalsi-vydani/stare-recke-baje-a-povesti-423403
+358,Kosek,Jiří,Big data a NoSQL databáze,GRADA,740,,,Holubová,Irena,,,,,,978-80-247-5466-6,,,,,,,https://www.databazeknih.cz/knihy/big-data-a-nosql-databaze-271283
+359,Levy,Joel,Chemie bez (m)učení,GRADA,600,Od molekul k prvkům: chemie v každodenním životě,,,,,,,,,978-80-247-4126-0,,,,,,,https://www.databazeknih.cz/knihy/chemie-bez-m-uceni-143413
+360,Aveni,Anthony,Schody ke hvězdám,DOKOŘÁN,530,,Aliter,,,,,,,,"80-7203-568-1, 80-86569-48-9",,,,,,,https://www.databazeknih.cz/knihy/schody-ke-hvezdam-34880
+361,Johnson,George,Zkratka napříč časem,DOKOŘÁN,530,,Aliter,,,,,,,,"80-86569-83-7, 80-7203-609-2",,,,,,,https://www.databazeknih.cz/knihy/zkratka-napric-casem-25112
+362,Stewart,Ian,Odsud až do nekonečna,DOKOŘÁN,530,,Aliter,,,,,,,,"80-7203-775-7, 80-7363-017-6",,,,,,,https://www.databazeknih.cz/knihy/odsud-az-do-nekonecna-25117
+363,Strassman,Rick,Vnitřní cesty do vnějšího vesmíru,DYBBUK,550,Cesty do jiných světů prostřednictvím psychydelik a dalších spirituálních technik,,Wojtowicz,Slawek,Luna,Luis Eduardo,,,,978-80-7438-030-3,,,,,,,https://www.databazeknih.cz/knihy/vnitrni-cesty-do-vnejsiho-vesmiru-86118
+364,,,Malá encyklopedie chémie,OBZOR,600,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/mala-encyklopedie-chemie-330425
+365,,,česko-anglický chemický slovník,SNTL,600,,,,,,,515,1989,,X,,,,,,,https://www.databazeknih.cz/knihy/cesko-anglicky-chemicky-slovnik-303682
+366,Pánek,A.,Průvodce chemickými výrobky nejširší spotřeby,SNTL,600,,,Topinka,,Němec,,,,,04-620-78,,,,,,,https://www.databazeknih.cz/knihy/pruvodce-chemickymi-vyrobky-nejsirsi-spotreby-247429
+367,Grosser,Meyer,Populární encyklopedie matematiky,SPN,600,,,,,,,,,,X,,,,,,,https://www.databazeknih.cz/knihy/popularni-encyklopedie-matematiky-193147
+368,,,Sbírka řešených příkladů z vyšší matematiky,SNTL,600,,,,,,,688,1965,,16-064-65,,,,,,,https://www.databazeknih.cz/knihy/sbirka-resenych-prikladu-z-vyssi-matematiky-121827
+369,,,Malá encyklopédia fyziky,OBZOR,600,,,,,,,509,1970,,X,,,,,,,https://www.databazeknih.cz/knihy/mala-encyklopedia-fyziky-352816
+370,Nakonečný,Milan,Novodobý český hermetismus,EMINENT,550,,,,,,,,,,978-80-7281-327-8,,,,,,,https://www.databazeknih.cz/knihy/novodoby-cesky-hermetismus-23685
+371,Maier,Michael,Atlanta Fugensis (prchající Atlanta),TRIGON,550,neboli nové chymické emblémy vyjadřující tajemství přírody,,,,,,,,,80-86159-60-4,,,,,,,https://www.databazeknih.cz/knihy/atalanta-fugiens-prchajici-atalanta-neboli-nove-chymicke-emblemy-vyjadrujici-tajemstvi-prirody-200197
+372,Bárta,Miroslav,Civilizace a dějiny,ACADEMIA,530,Historie světa pohledem dvaceti českých vědců,,,,,,,,,978-80-200-2301-8,,,,,,,https://www.databazeknih.cz/knihy/civilizace-a-dejiny-181285
+373,Giegner,Michael,Krystalová voda,EMINENT,400,,,Fliege,Jürgen,,,,,,978-80-7281-382-7,,,,,,,https://www.databazeknih.cz/knihy/krystalova-voda-54435
+374,Emoto,Masaru,Léčivá síla vody,EMINENT,400,,,Goebel,Joachim,,,,,,80-7281-223-8,,,,,,,https://www.databazeknih.cz/knihy/leciva-sila-vody-66812
+375,Emoto,Masaru,Zázračná moc vody,PRAGMA,400,,,,,,,,,,978-80-7349-152-9,,,,,,,https://www.databazeknih.cz/knihy/zazracna-moc-vody-66815
+376,Herzán,Miroslav,Hledáme zdroje podzemní vody,FONTÁNA,400,,,,,,,,,,978-80-86179-69-9,,,,,,,https://www.databazeknih.cz/knihy/hledame-zdroje-podzemni-vody-120341
+377,Cincibus,Josef,Toulky světem bájí,RADIOSERVIS,530,aneb s rozhlasem po stezkách mytologie,,Hromádko,Jiří,,,,,,978-80-86212-02-9,,,,,,,https://www.databazeknih.cz/knihy/toulky-svetem-baji-aneb-s-rozhlasem-po-stezkach-mytologie-47691
+378,Emoto,Masaru,Tajuplný život vody,PRAGMA,400,,,,,,,,,,978-80-7349-235-9,,,,,,,https://www.databazeknih.cz/knihy/tajuplny-zivot-vody-332866
+379,Emoto,Masaru,Zázračná voda,PRAGMA,400,,,,,,,,,,9788073492014,,,,,,,https://www.databazeknih.cz/knihy/zazracna-voda-66813
+380,Bragg,Paul C.,Šokující pravda o vodě,FONTÁNA,400,,,Braggová,Particia,,,,,,80-86179-06-0,,,,,,,https://www.databazeknih.cz/knihy/sokujici-pravda-o-vode-29962
+381,Kafka,Břetislav,Kultura rozumu a vůle,POZNÁNÍ,510,,,,,,,,,,978-80-87419-11-3,,,,,,,https://www.databazeknih.cz/knihy/kultura-rozumu-a-vule-88543
+382,Kafka,Břetislav,Parapsycholgie,POZNÁNÍ,510,,,,,,,,,,978-80-87419-12-0,,,,,,,https://www.databazeknih.cz/knihy/parapsychologie-87226
+383,Cílek,Václav,Poutník časem chaosu,ZEĎ,550,,,,,,,,,,978-80-906-5935-3,,,,,,,https://www.databazeknih.cz/knihy/poutnik-casem-chaosu-362373
+384,Readová,Jane Thurnell,Geopatogenní zóny kolem nás,PRÁH,550,,,,,,,,,,X,,,,,,,
+385,Stejskal,Martin,Cesty za hvězdou,PASEKA,550,,,,,,,,,,80-7185-374-7,,,,,,,https://www.databazeknih.cz/knihy/cesty-za-hvezdou-147660
+386,Markoš,Anton,Tajemství hladiny,DOKOŘÁN,550,,,,,,,,,,80-86569-47-5,,,,,,,https://www.databazeknih.cz/knihy/tajemstvi-hladiny-34178
+387,Rohrbach,Christof,Radiestezie,POZNÁNÍ,550,,,,,,,,,,80-86606-54-6,,,,,,,https://www.databazeknih.cz/knihy/radiestezie-200191
+388,Bienik,Ján,Geopatogenní zóny,EKO-KONZULT,550,,,,,,,,,,80-888809-57-6,,,,,,,https://www.databazeknih.cz/knihy/geopatogenni-zony-119620
+389,Telch,Petr,Tajemství dračích žil,EKO-KONZULT,550,,,,,,,,,,80-967157-4-7,,,,,,,https://www.databazeknih.cz/knihy/tajemstvi-dracich-zil-300761
+390,Kefer,Jan,Theurgie magické evokace,TRIGON,550,,,,,,,,,,80-85320-15-0,,,,,,,https://www.databazeknih.cz/knihy/theurgie-magicke-evokace-245432
+391,Benedictová,Ruth,Kulturní vzorce,ARGO,550,,CapriCorn,,,,,,,,80-7203-212-7,,,,,,,https://www.databazeknih.cz/knihy/kulturni-vzorce-35197
+392,Fagerstrom,Darek,Jak na to!,SVOJTKA,520,Rady do života,,Smith,Lauren,,,,,,978-80-256-0039-9,,,,,,,https://www.databazeknih.cz/knihy/jak-na-to-341965
+393,,,Svět mýtů,VOLVOX GLOBATOR,530,,Historie,,,,,556,2002,,80-7207-461-X,,,,,,,https://www.databazeknih.cz/knihy/svet-mytu-136615
+394,,,Tibetské mýty a legendy,VOLVOX GLOBATOR,530,,Historie,,,,,200,2001,,80-7207-380-X,,,,,,,https://www.databazeknih.cz/knihy/tibetske-myty-a-legendy-98836
+395,,,"Bohové, démoni a symboly starověké mezopotámie",VOLVOX GLOBATOR,530,,Historie,,,,,232,1999,,80-7207-266-8,,,,,,,https://www.databazeknih.cz/knihy/bohove-demoni-a-symboly-staroveke-mezopotamie-36990
+396,,,Egyptské hieroglyfy,VOLVOX GLOBATOR,530,Čtení v minulosti,Litera,,,,,87,2002,,80-7207-431-8,,,1,,,,https://www.databazeknih.cz/knihy/egyptske-hieroglyfy-cteni-v-minulosti-28756
+397,,,Jak číst egyptské hieroglyfy,VOLVOX GLOBATOR,530,,Litera,,,,,240,2007,,80-7207-629-9,,,4,,,,https://www.databazeknih.cz/knihy/jak-cist-egyptske-hieroglyfy-28757
+398,,,S Theodorem o hieroglyfech,VOLVOX GLOBATOR,530,,Litera,,,,,336,2011,,978-80-7207-833-2,,,5,,,,https://www.databazeknih.cz/knihy/s-theodorem-o-hieroglyfech-98504
+399,,,S Theodorem nejen o hieroglyfech,VOLVOX GLOBATOR,530,,Litera,,,,,160,2012,,978-80-7207-845-5,,,6,,,,https://www.databazeknih.cz/knihy/s-theodorem-nejen-o-hieroglyfech-141228
+400,,,Encyklopedie jazyků evropy,VOLVOX GLOBATOR,530,,Litera,,,,,510,2002,,80-7207-450-4,,,2,,,,https://www.databazeknih.cz/knihy/encyklopedie-jazyku-evropy-37381
+401,Donnelly,,O parazitech a lidech,TRITON,400,,,,,,,,,,978-80-7553-350-0,,,,,,,https://www.databazeknih.cz/knihy/o-parazitech-a-lidech-355696
+402,,,Cesty do posvátné hory,VOLVOX GLOBATOR,530,,Mythos,,,,,290,2010,, 978-80-7207-756-4,,,,,,,https://www.databazeknih.cz/knihy/cesty-do-posvatne-hory-47683
+403,,,Mýty a legendy Yakiů,VOLVOX GLOBATOR,530,,Mythos,,,,,112,2011,,978-80-7207-803-5,,,,,,,https://www.databazeknih.cz/knihy/myty-a-legendy-yakiu-79472
+404,Bor,D. Ž.,Abeceda stvoření,TRIGON,550,,,,,,,240,1993,,80-85320-37-1,,,,,,,https://www.databazeknih.cz/knihy/abeceda-stvoreni-62587
+405,Karpenko,Vladimír,Divadlo věčné Moudrosti,TRIGON,550,teosofická alchymie Heinricha Khunratha,,Purš,Ivo,Žemla,Martin,,,,,,,,,,,https://www.databazeknih.cz/knihy/divadlo-vecne-moudrosti-a-teosoficka-alchymie-heinricha-khunratha-352583
+406,,,Mutus Liber,MALVERN,550,Němá kniha alchymie,,,,,,152,2018,,,,,,,,,https://www.databazeknih.cz/knihy/mutus-liber-nema-kniha-alchymie-397446
+407,Davis,Joan S.,Je voda víc než H2O?,MALVERN,400,,,,,,,68,2019,,,,,,,,,https://www.databazeknih.cz/knihy/je-voda-vic-nez-h2o-407534
+408,Yeats,Wulliam Butler,Vize,MALVERN,550,,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/vize-353627
+409,Manusco,Stafano,Vnímavá zeleň,MALVERN,400,,,Viola,Alessandra,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/vnimava-zelen-379729
+410,Bischof,Marco,Naše duše může létat,MALVERN,550,,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/nase-duse-muze-letat-479263
+411,Neubauer,Zdeněk,Golem,MALVERN,550,"a další příběhy o kabale, symbolech a podivuhodných setkáních",,,,,,,,,,,,,,,,https://www.databazeknih.cz/dalsi-vydani/golem-a-dalsi-pribehy-o-kabale-symbolech-a-podivuhodnych-setkanich-152050
+412,Neubauer,Zdeněk,Hledání společného světa,MALVERN,550,,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/hledani-spolecneho-sveta-uvahy-o-filosofii-a-promenach-vedomi-341692
+413,Neubauer,Zdeněk,"O počátku, cestě a znamení časů",MALVERN,550,,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/o-pocatku-ceste-a-znameni-casu-27724
+414,*,,Příroda České republiky,ACADEMIA,400,průvodce faunou,,,,,,,,,,,,,,,,https://www.databazeknih.cz/dalsi-vydani/priroda-ceske-republiky-pruvodce-faunou-412297
+415,Schneider,J.,Náš život,MALVERN,550,Náš osud,,,,,,,,,,,,,,,,https://www.databazeknih.cz/knihy/nas-zivot-nas-osud-97173

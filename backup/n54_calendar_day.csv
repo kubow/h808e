@@ -1,0 +1,669 @@
+ID,calendar,day_name,n_day,n_month,day_memo
+1,cz_jmena,Adam,24,12,
+2,cz_jmena,Adéla,2,9,
+3,cz_jmena,Adolf,17,6,
+4,cz_jmena,Adriana,26,6,
+5,cz_jmena,Agáta,14,10,
+6,cz_jmena,Alan,14,8,
+7,cz_jmena,Albert,21,11,
+8,cz_jmena,Albína,16,12,
+9,cz_jmena,Alena,13,8,
+10,cz_jmena,Aleš,13,4,
+11,cz_jmena,Alexandr,27,2,
+12,cz_jmena,Alexandra,21,4,
+13,cz_jmena,Alexej,3,5,
+14,cz_jmena,Alice,15,1,
+15,cz_jmena,Alois,21,6,
+16,cz_jmena,Alžběta,19,11,
+17,cz_jmena,Amálie,10,7,
+18,cz_jmena,Ambrož,7,12,
+19,cz_jmena,Anastázie,15,4,
+20,cz_jmena,Anděla,11,3,
+21,cz_jmena,Andrea,26,9,
+22,cz_jmena,Andrej,11,10,
+23,cz_jmena,Aneta,17,5,
+24,cz_jmena,Anna,26,7,
+25,cz_jmena,Antonie,12,6,
+26,cz_jmena,Antonín,13,6,
+27,cz_jmena,Apolena,9,2,
+28,cz_jmena,Arnošt,30,3,
+29,cz_jmena,Artur,26,11,
+30,cz_jmena,Augustýn,28,8,
+31,cz_jmena,Barbora,4,12,
+32,cz_jmena,Bartoloměj,24,8,
+33,cz_jmena,Beáta,25,10,
+34,cz_jmena,Bedřich,1,3,
+35,cz_jmena,Běla,21,1,
+36,cz_jmena,Benedikt,12,11,
+37,cz_jmena,Benjamín,7,12,
+38,cz_jmena,Bernard,20,8,
+39,cz_jmena,Berta,23,9,
+40,cz_jmena,Blahoslav,30,4,
+41,cz_jmena,Blanka,2,12,
+42,cz_jmena,Blažej,3,2,
+43,cz_jmena,Blažena,10,5,
+44,cz_jmena,Bohdan,9,11,
+45,cz_jmena,Bohdana,11,1,
+46,cz_jmena,Bohumil,3,10,
+47,cz_jmena,Bohumila,28,12,
+48,cz_jmena,Bohumír,8,11,
+49,cz_jmena,Bohuslav,22,8,
+50,cz_jmena,Bohuslava,7,7,
+51,cz_jmena,Boleslav,6,9,
+52,cz_jmena,Bonifác,14,5,
+53,cz_jmena,Boris,5,9,
+54,cz_jmena,Bořek,12,7,
+55,cz_jmena,Bořivoj,30,7,
+56,cz_jmena,Božena,11,2,
+57,cz_jmena,Brigita,21,10,
+58,cz_jmena,Bronislav,3,9,
+59,cz_jmena,Bruno,11,6,
+60,cz_jmena,Břetislav,10,1,
+61,cz_jmena,Cecílie,22,11,
+62,cz_jmena,Ctibor,9,5,
+63,cz_jmena,Ctirad,16,1,
+64,cz_jmena,Čeněk,19,7,
+65,cz_jmena,Čestmír,8,1,
+66,cz_jmena,Dagmar,20,12,
+67,cz_jmena,Dalibor,4,6,
+68,cz_jmena,Dalimil,5,1,
+69,cz_jmena,Dana,11,12,
+70,cz_jmena,Daniel,17,12,
+71,cz_jmena,Daniela,9,9,
+72,cz_jmena,Darina,22,9,
+73,cz_jmena,Darja,10,4,
+74,cz_jmena,David,30,12,
+75,cz_jmena,Denisa,11,9,
+76,cz_jmena,Diana,4,1,
+77,cz_jmena,Dita,27,3,
+78,cz_jmena,Dobromila,5,2,
+79,cz_jmena,Dobroslav,5,6,
+80,cz_jmena,Dominik,4,8,
+81,cz_jmena,Dorota,26,2,
+82,cz_jmena,Doubravka,19,1,
+83,cz_jmena,Drahomíra,18,7,
+84,cz_jmena,Drahoslav,17,1,
+85,cz_jmena,Drahoslava,9,7,
+86,cz_jmena,Dušan,9,4,
+87,cz_jmena,Edita,13,1,
+88,cz_jmena,Eduard,18,3,
+89,cz_jmena,Elena,16,3,
+90,cz_jmena,Eliška,5,10,
+91,cz_jmena,Ema,8,4,
+92,cz_jmena,Emanuel,26,3,
+93,cz_jmena,Emil,22,5,
+94,cz_jmena,Emílie,24,11,
+95,cz_jmena,Erik,26,10,
+96,cz_jmena,Erika,2,4,
+97,cz_jmena,Ester,19,12,
+98,cz_jmena,Eva,24,12,
+99,cz_jmena,Evelína,29,8,
+100,cz_jmena,Evžen,10,11,
+101,cz_jmena,Evženie,22,4,
+102,cz_jmena,Felix,1,11,
+103,cz_jmena,Ferdinand,30,5,
+104,cz_jmena,Filip,26,5,
+105,cz_jmena,František,4,10,
+106,cz_jmena,Františka,9,3,
+107,cz_jmena,Gabriel,24,3,
+108,cz_jmena,Gabriela,8,3,
+109,cz_jmena,Galina,2,10,
+110,cz_jmena,Gita,10,6,
+111,cz_jmena,Gizela,18,2,
+112,cz_jmena,Gustav,2,8,
+113,cz_jmena,Hana,15,8,
+114,cz_jmena,Hanuš,6,10,
+115,cz_jmena,Havel,16,10,
+116,cz_jmena,Hedvika,17,10,
+117,cz_jmena,Helena,18,8,
+118,cz_jmena,Herbert,16,3,
+119,cz_jmena,Hermína,7,4,
+120,cz_jmena,Heřman,7,4,
+121,cz_jmena,Horymír,29,2,
+122,cz_jmena,Hubert,3,11,
+123,cz_jmena,Hugo,1,4,
+124,cz_jmena,Hynek,1,2,
+125,cz_jmena,Ida,15,3,
+126,cz_jmena,Ignác,31,7,
+127,cz_jmena,Igor,1,10,
+128,cz_jmena,Ilja,20,7,
+129,cz_jmena,Ilona,20,1,
+130,cz_jmena,Ingrid,27,1,
+131,cz_jmena,Irena,16,4,
+132,cz_jmena,Irma,10,9,
+133,cz_jmena,Iva,1,12,
+134,cz_jmena,Ivan,25,6,
+135,cz_jmena,Ivana,4,4,
+136,cz_jmena,Iveta,7,6,
+137,cz_jmena,Ivo,19,5,
+138,cz_jmena,Ivona,23,3,
+139,cz_jmena,Izabela,11,4,
+140,cz_jmena,Jáchym,16,8,
+141,cz_jmena,Jakub,25,7,
+142,cz_jmena,Jan,24,6,
+143,cz_jmena,Jana,24,5,
+144,cz_jmena,Jarmil,2,6,
+145,cz_jmena,Jarmila,4,2,
+146,cz_jmena,Jaromír,24,9,
+147,cz_jmena,Jaroslav,27,4,
+148,cz_jmena,Jaroslava,1,7,
+149,cz_jmena,Jeroným,30,9,
+150,cz_jmena,Jindřich,15,7,
+151,cz_jmena,Jindřiška,4,9,
+152,cz_jmena,Jiří,24,4,
+153,cz_jmena,Jiřina,15,2,
+154,cz_jmena,Jitka,5,12,
+155,cz_jmena,Johana,21,8,
+156,cz_jmena,Jolana,15,9,
+157,cz_jmena,Jonáš,27,9,
+158,cz_jmena,Josef,19,3,
+159,cz_jmena,Judita,29,12,
+160,cz_jmena,Julie,10,12,
+161,cz_jmena,Julius,12,4,
+162,cz_jmena,Justýna,7,10,
+163,cz_jmena,Kamil,3,3,
+164,cz_jmena,Kamila,31,5,
+165,cz_jmena,Karel,4,11,
+166,cz_jmena,Karina,2,1,
+167,cz_jmena,Karolína,14,7,
+168,cz_jmena,Kateřina,25,11,
+169,cz_jmena,Kazimír,5,3,
+170,cz_jmena,Klára,12,8,
+171,cz_jmena,Klaudie,5,5,
+172,cz_jmena,Klement,23,11,
+173,cz_jmena,Kristián,5,8,
+174,cz_jmena,Kristýna,24,7,
+175,cz_jmena,Kryštof,18,9,
+176,cz_jmena,Květa,20,6,
+177,cz_jmena,Květoslav,4,5,
+178,cz_jmena,Květoslava,8,12,
+179,cz_jmena,Kvído,31,3,
+180,cz_jmena,Lada,7,8,
+181,cz_jmena,Ladislav,27,6,
+182,cz_jmena,Laura,1,6,
+183,cz_jmena,Lenka,21,2,
+184,cz_jmena,Leona,22,3,
+185,cz_jmena,Leopold,15,11,
+186,cz_jmena,Leoš,19,6,
+187,cz_jmena,Liběna,6,11,
+188,cz_jmena,Libor,23,7,
+189,cz_jmena,Libuše,10,7,
+190,cz_jmena,Liliana,25,2,
+191,cz_jmena,Linda,1,9,
+192,cz_jmena,Ljuba,16,2,
+193,cz_jmena,Lubomír,28,6,
+194,cz_jmena,Lubor,13,9,
+195,cz_jmena,Luboš,16,7,
+196,cz_jmena,Lucie,13,12,
+197,cz_jmena,Luděk,26,8,
+198,cz_jmena,Ludmila,16,9,
+199,cz_jmena,Ludvík,19,8,
+200,cz_jmena,Lukáš,18,10,
+201,cz_jmena,Lumír,28,2,
+202,cz_jmena,Lýdie,14,12,
+203,cz_jmena,Magdaléna,22,7,
+204,cz_jmena,Mahulena,17,11,
+205,cz_jmena,Marcel,12,10,
+206,cz_jmena,Marcela,20,4,
+207,cz_jmena,Marek,25,4,
+208,cz_jmena,Marián,25,3,
+209,cz_jmena,Mariana,8,9,
+210,cz_jmena,Marie,12,9,
+211,cz_jmena,Marika,31,1,
+212,cz_jmena,Marina,10,10,
+213,cz_jmena,Markéta,13,7,
+214,cz_jmena,Marta,29,7,
+215,cz_jmena,Martin,11,11,
+216,cz_jmena,Martina,17,7,
+217,cz_jmena,Matěj,24,2,
+218,cz_jmena,Matouš,21,9,
+219,cz_jmena,Matylda,14,3,
+220,cz_jmena,Maxim,29,5,
+221,cz_jmena,Maxmilián,29,5,
+222,cz_jmena,Medard,8,6,
+223,cz_jmena,Michal,29,9,
+224,cz_jmena,Michaela,19,10,
+225,cz_jmena,Mikuláš,6,12,
+226,cz_jmena,Milada,8,2,
+227,cz_jmena,Milan,18,6,
+228,cz_jmena,Milena,24,1,
+229,cz_jmena,Miloslav,18,12,
+230,cz_jmena,Miloslava,17,2,
+231,cz_jmena,Miloš,25,1,
+232,cz_jmena,Miluše,3,8,
+233,cz_jmena,Miriam,5,11,
+234,cz_jmena,Miroslav,6,3,
+235,cz_jmena,Miroslava,5,4,
+236,cz_jmena,Mojmír,10,2,
+237,cz_jmena,Monika,21,5,
+238,cz_jmena,Naděžda,17,9,
+239,cz_jmena,Natálie,21,12,
+240,cz_jmena,Nataša,18,5,
+241,cz_jmena,Nela,2,2,
+242,cz_jmena,Nikola,20,11,
+243,cz_jmena,Nina,24,10,
+244,cz_jmena,Norbert,6,6,
+245,cz_jmena,Oldřich,20,2,
+246,cz_jmena,Oldřiška,6,8,
+247,cz_jmena,Oleg,20,9,
+248,cz_jmena,Olga,11,7,
+249,cz_jmena,Oliver,2,10,
+250,cz_jmena,Olívie,2,10,
+251,cz_jmena,Ondřej,30,11,
+252,cz_jmena,Oskar,1,8,
+253,cz_jmena,Otakar,27,8,
+254,cz_jmena,Otmar,16,11,
+255,cz_jmena,Oto,26,4,
+256,cz_jmena,Otýlie,28,1,
+257,cz_jmena,Pankrác,12,5,
+258,cz_jmena,Patricie,2,7,
+259,cz_jmena,Patrik,19,2,
+260,cz_jmena,Pavel,29,6,
+261,cz_jmena,Pavla,22,6,
+262,cz_jmena,Pavlína,31,8,
+263,cz_jmena,Petr,22,2,
+264,cz_jmena,Petra,17,8,
+265,cz_jmena,Pravoslav,12,1,
+266,cz_jmena,Prokop,4,7,
+267,cz_jmena,Přemysl,16,5,
+268,cz_jmena,Radan,15,12,
+269,cz_jmena,Radana,15,12,
+270,cz_jmena,Radek,21,3,
+271,cz_jmena,Radim,25,8,
+272,cz_jmena,Radka,14,9,
+273,cz_jmena,Radmila,3,1,
+274,cz_jmena,Radomír,3,7,
+275,cz_jmena,Radoslav,6,5,
+276,cz_jmena,Radovan,14,1,
+277,cz_jmena,Regína,7,9,
+278,cz_jmena,Renáta,13,10,
+279,cz_jmena,René,28,11,
+280,cz_jmena,Richard,3,4,
+281,cz_jmena,Robert,29,4,
+282,cz_jmena,Robin,30,1,
+283,cz_jmena,Roland,14,6,
+284,cz_jmena,Roman,9,8,
+285,cz_jmena,Romana,18,11,
+286,cz_jmena,Rostislav,19,4,
+287,cz_jmena,Rudolf,17,4,
+288,cz_jmena,Rút,14,3,
+289,cz_jmena,Růžena,13,3,
+290,cz_jmena,Řehoř,12,3,
+291,cz_jmena,Sabina,22,10,
+292,cz_jmena,Samuel,1,9,
+293,cz_jmena,Sandra,23,8,
+294,cz_jmena,Sára,9,10,
+295,cz_jmena,Saskie,7,11,
+296,cz_jmena,Sáva,14,11,
+297,cz_jmena,Servác,13,5,
+298,cz_jmena,Silvestr,31,12,
+299,cz_jmena,Silvie,29,10,
+300,cz_jmena,Simona,12,12,
+301,cz_jmena,Slavěna,12,2,
+302,cz_jmena,Slavoj,7,6,
+303,cz_jmena,Slavomír,22,1,
+304,cz_jmena,Soběslav,8,8,
+305,cz_jmena,Soňa,28,3,
+306,cz_jmena,Stanislav,7,5,
+307,cz_jmena,Stanislava,9,6,
+308,cz_jmena,Stela,4,3,
+309,cz_jmena,Svatava,11,5,
+310,cz_jmena,Svatopluk,23,2,
+311,cz_jmena,Svatoslav,3,12,
+312,cz_jmena,Světlana,20,3,
+313,cz_jmena,Šárka,30,6,
+314,cz_jmena,Šarlota,27,10,
+315,cz_jmena,Šimon,22,12,
+316,cz_jmena,Štefan,9,10,
+317,cz_jmena,Štěpán,26,12,
+318,cz_jmena,Štěpánka,31,10,
+319,cz_jmena,Tadeáš,30,10,
+320,cz_jmena,Tamara,3,6,
+321,cz_jmena,Taťána,29,3,
+322,cz_jmena,Teodor,23,10,
+323,cz_jmena,Tereza,15,10,
+324,cz_jmena,Tibor,13,11,
+325,cz_jmena,Tomáš,7,3,
+326,cz_jmena,Václav,28,9,
+327,cz_jmena,Valdemar,27,5,
+328,cz_jmena,Valentýn,14,2,
+329,cz_jmena,Velérie,18,4,
+330,cz_jmena,Vanda,6,2,
+331,cz_jmena,Vavřinec,10,8,
+332,cz_jmena,Věnceslav,13,2,
+333,cz_jmena,Vendelín,20,10,
+334,cz_jmena,Vendula,6,4,
+335,cz_jmena,Veronika,7,2,
+336,cz_jmena,Věra,8,10,
+337,cz_jmena,Věroslav,27,7,
+338,cz_jmena,Viktor,28,7,
+339,cz_jmena,Viktorie,10,3,
+340,cz_jmena,Vilém,28,5,
+341,cz_jmena,Vilma,7,1,
+342,cz_jmena,Vincenc,14,4,
+343,cz_jmena,Viola,25,5,
+344,cz_jmena,Vít,15,6,
+345,cz_jmena,Vítězslav,21,7,
+346,cz_jmena,Vladan,9,1,
+347,cz_jmena,Vladěna,30,8,
+348,cz_jmena,Vladimír,23,5,
+349,cz_jmena,Vladislav,18,1,
+350,cz_jmena,Vlasta,23,12,
+351,cz_jmena,Vlastimil,17,3,
+352,cz_jmena,Vlastislav,28,4,
+353,cz_jmena,Vojtěch,23,4,
+354,cz_jmena,Vratislav,9,12,
+355,cz_jmena,Xenie,27,11,
+356,cz_jmena,Zbyněk,16,6,
+357,cz_jmena,Zbyšek,20,5,
+358,cz_jmena,Zdeněk,23,1,
+359,cz_jmena,Zdeňka,23,6,
+360,cz_jmena,Zdislava,29,1,
+361,cz_jmena,Zikmund,2,5,
+362,cz_jmena,Zina,29,11,
+363,cz_jmena,Zita,19,9,
+364,cz_jmena,Zlata,25,9,
+365,cz_jmena,Zoe,27,10,
+366,cz_jmena,Zoja,27,10,
+367,cz_jmena,Zora,26,1,
+368,cz_jmena,Zuzana,11,8,
+369,cz_jmena,Žaneta,27,12,
+370,cz_jmena,Žofie,15,5,
+371,cz_important,Nový rok,1,1,
+372,cz_important,Světový den míru,1,1,1967 z iniciativy papeže Pavla VI.
+373,cz_important,Mezinárodní den objímání,21,1,
+374,cz_important,Mezinárodní den celníků,26,1,1953 Světová celní organizace
+375,cz_important,Mezinárodní den památky obětí holocaustu,27,1,2005 OSN
+376,cz_important,Den ochrany osobních údajů,28,1,2007 EU (Rada Evropy)
+377,cz_important,Den dětí ulice,31,1,2009 Jugend Eine Welt
+378,cz_important,Světový den Braillova písma,4,1,
+379,cz_important,Mezinárodní den seniorů,1,10,1991 OSN
+380,cz_important,Mezinárodní den kávy,1,10,1984 Mezinárodního hnutí lékařů za odvrácení jaderné války
+381,cz_important,Mezinárodní den lékařů,1,10,Mezinárodní federace cyklistiky
+382,cz_important,Světový den cyklistiky,1,10,1978 Mezinárodní vegetariánská unie
+383,cz_important,Světový den vegetariánství,1,10,1974 Mezinárodní hudební rada
+384,cz_important,Mezinárodní den hudby,1,10,
+385,cz_important,Světový den duševního zdraví,10,10,Světová federace duševního zdraví
+386,cz_important,Světový den proti trestu smrti,10,10,
+387,cz_important,Mezinárodní den dívek,11,10,2012 OSN (kampaň za odstranění genderové nerovnosti)
+388,cz_important,Světový den boje proti artritidě,12,10,2000 záštita OSN a WHO
+389,cz_important,Mezinárodní den za omezení přírodních katastrof,12,10,OSN
+390,cz_important,Světový týden kostí a kloubů,12,10,2000 záštita OSN a WHO
+391,cz_important,Mezinárodní den za omezení přírodních katastrof,13,10,1989 OSN
+392,cz_important,Světový den standardů,14,10,1946 ISO
+393,cz_important,Mezinárodní den bílé hole,15,10,
+394,cz_important,Světový den žen žijících na venkově,15,10,
+395,cz_important,Světový den výživy,16,10,"1981 OSN, FAO"
+396,cz_important,Světový den páteře,16,10,
+397,cz_important,Mezinárodní den proti McDonald's,16,10,
+398,cz_important,Mezinárodní den za odstranění chudoby,17,10,1992 OSN
+399,cz_important,Světový den úrazů,17,10,
+400,cz_important,Světový den nenásilí,2,10,2007 OSN
+401,cz_important,Světový den hospodářských zvířat,2,10,1983 Reformní hnutí za hospodářská zvířata
+402,cz_important,Mezinárodní den kuchařů,20,10,2005
+403,cz_important,Světový den statistiky,20,10,OSN
+404,cz_important,Světový den proti osteoporóze,20,10,1988 IOF
+405,cz_important,Den stromů,20,10,USA 1872 v ČR 1906 obnoven 2000 od 1951 OSN
+406,cz_important,Den původních odrůd jablek,21,10,
+407,cz_important,Mezinárodní den balbutiků,22,10,
+408,cz_important,Den Spojených národů,24,10,1945 OSN
+409,cz_important,Světový den pro rozvoj informací,24,10,1972 OSN
+410,cz_important,Týden za odzbrojení,24,10,OSN
+411,cz_important,Světový den audiovizuálního dědictví,27,10,UNESCO
+412,cz_important,Den UNICEF,31,10,1924 Kongres spořitelů
+413,cz_important,Světový den spoření,31,10,
+414,cz_important,Mezinárodní den zvířat,4,10,1931 v ČR 1994 shromáždění ekologů
+415,cz_important,Světový den lidských sídel,4,10,1985 OSN
+416,cz_important,Světový den učitelů,5,10,1994 UNESCO
+417,cz_important,Mezinárodní den boje proti popáleninám,8,10,Mezinárodní společnost pro popáleninové úrazy
+418,cz_important,Světový den pošty,9,10,"1874 OSN, UPU"
+419,cz_important,Mezinárodní den veganství,1,11,1994 Vegan Society
+420,cz_important,Světový den vědy pro mír a rozvoj,10,11,"2001 OSN, UNESCO"
+421,cz_important,Mezinárodní den válečných veteránů,11,11,"(1918 – konec první světové války), od roku 2000"
+422,cz_important,Mezinárodní den nevidomých,13,11,1946
+423,cz_important,Světový den diabetiků,14,11,Mezinárodní federace diabetu a WHO
+424,cz_important,Den bez aut,14,11,1991
+425,cz_important,Den vězněných spisovatelů,15,11,1993 PEN klub
+426,cz_important,Mezinárodní den tolerance,16,11,"1996 OSN, UNESCO"
+427,cz_important,Mezinárodní den studentstva,17,11,1941 Mezinárodní studentský sněm
+428,cz_important,Světový den prevence týrání a zneužívání dětí,19,11,v ČR od 2001 Nadace ženského světového summitu
+429,cz_important,Světový den toalet,19,11,2001 WTO ([[World Toilet Organization]])
+430,cz_important,Mezinárodní den mužů,19,11,
+431,cz_important,Den industrializace Afriky,20,11,
+432,cz_important,Světový den dětí,20,11,"1959 OSN, UNICEF"
+433,cz_important,Světový den chronické obstrukční plicní nemoci,20,11,"2001 WHO a Americký národní ústav pro srdce, plíce a krev (NHLBI)"
+434,cz_important,Světový den televize,21,11,1996 OSN
+435,cz_important,Světový den pozdravů,21,11,1973
+436,cz_important,Mezinárodní den za odstranění násilí páchaného na ženách,25,11,1981 OSN
+437,cz_important,Mezinárodní den bez nákupů,25,11,
+438,cz_important,Mezinárodní den solidarity s lidem Palestiny,29,11,1947 OSN
+439,cz_important,Den bez pesticidů,3,11,po 1984 organizace PAN (Pesticide International Network)
+440,cz_important,Mezinárodní den prevence ničení životního prostředí v průběhu válek a ozbrojených konfliktů,6,11,2001 OSN
+441,cz_important,Světový den boje proti AIDS,1,12,"OSN, WHO"
+442,cz_important,Den lidských práv,10,12,1950 OSN
+443,cz_important,Světový den dětství,11,12,1992 OSN
+444,cz_important,Mezinárodní den hor,11,12,OSN
+445,cz_important,Mezinárodní den migrantů,18,12,OSN
+446,cz_important,Světový den počítačové gramotnosti,2,12,2001 OSN
+447,cz_important,Mezinárodní den boje za vymýcení otroctví,2,12,OSN
+448,cz_important,Mezinárodní den lidské solidarity,20,12,
+449,cz_important,Mezinárodní den datlí a datlů,21,12,1996 Ornitologický svaz
+450,cz_important,Mezinárodní den biologické rozmanitosti,29,12,
+451,cz_important,Mezinárodní den lidí s postižením,3,12,OSN
+452,cz_important,Mezinárodní den dobrovolníků,5,12,1986 OSN
+453,cz_important,Mezinárodní den civilního letectví,7,12,OSN
+454,cz_important,Mezinárodní den proti korupci,9,12,2003 OSN
+455,cz_important,Světový den nemocných,11,2,1993 papež Jan Pavel II.
+456,cz_important,Mezinárodní den žen a dívek ve vědě,11,2,2016 OSN
+457,cz_important,Den červené ruky,12,2,2002 International Coalition to Stop the Use of Child Soldiers
+458,cz_important,Darwinův den,12,2,1997 International Humanist and Ethical Union
+459,cz_important,Světový den rádia,13,2,"2011 OSN, UNESCO"
+460,cz_important,Mezinárodní Visegrádský Den,15,2,2016 Visegrádská skupina
+461,cz_important,Světový den mokřadů,2,2,1971 Ramsarská úmluva
+462,cz_important,Světový den sociální spravedlnosti,20,2,2007 OSN
+463,cz_important,Mezinárodní den mateřského jazyka,21,2,1999 UNESCO
+464,cz_important,Mezinárodní den průvodců cestovního ruchu,21,2,1989 WFTGA
+465,cz_important,Mezinárodní den boje proti kolonialismu,21,2,1948 konference mládeže zemí jihovýchodní Asie
+466,cz_important,Evropský den obětí zločinu,22,2,1989 European Forum for Victim Services
+467,cz_important,Den sesterství,22,2,1926 Skautská organizace
+468,cz_important,Mezinárodní den boje proti vzácným chorobám,29,2,2008 Eurordis
+469,cz_important,Světový den boje proti rakovině,4,2,2008 OSN
+470,cz_important,Mezinárodní den nulové tolerance ženské obřízce,6,2,2003 WHO
+471,cz_important,Mezinárodního dne civilní ochrany,1,3,1972 International Civil Defence Organisation
+472,cz_important,Den nulové diskriminace,1,3,2014 UNAIDS
+473,cz_important,Evropský den mozku,11,3,1998 Evropská aliance DANA
+474,cz_important,Evropský den památky obětem terorismu,11,3,2005 EU (Evropský parlament)
+475,cz_important,Den pí,14,3,1988 International Meeting of People Affected by Dams
+476,cz_important,Mezinárodní den akcí pro řeky a proti přehradám,14,3,1997
+477,cz_important,Mezinárodní den proti policejní brutalitě,15,3,1997 Collective Opposed to Police Brutality (C.O.B.P.)
+478,cz_important,Světový den spotřebitelských práv,15,3,1962 J. F. Kennedy
+479,cz_important,Mezinárodní den zásnub,2,3,2015 Filemon de Este
+480,cz_important,Světový den štěstí,20,3,2012 Valné shromáždění OSN
+481,cz_important,Světový den frankofonie,20,3,1970 Mezinárodní organizace Frankofonie
+482,cz_important,Světový den divadla pro děti a mládež,20,3,2000 Mezinárodní asociace divadel pro děti a mládež
+483,cz_important,Světový den vrabců,20,3,2010 Nature Forever Society
+484,cz_important,Světový den Downova syndromu,21,3,2006 Downsyndrome International
+485,cz_important,Světový den poezie,21,3,1999 UNESCO
+486,cz_important,Mezinárodní den za odstranění rasové diskriminace,21,3,1966 OSN
+487,cz_important,Mezinárodní den loutkového divadla,21,3,2002 UNIMA
+488,cz_important,Mezinárodní den lesů,21,3,70. léta 20. století FAO
+489,cz_important,Nourúz,21,3,OSN
+490,cz_important,Světový den vody,22,3,1993 OSN
+491,cz_important,Světový den mimů,22,3,2011 World Mime Organisation
+492,cz_important,Světový den meteorologie,23,3,"1950 OSN, WMO"
+493,cz_important,Světový den boje proti tuberkulóze,24,3,1882 WHO
+494,cz_important,Mezinárodní den za právo na pravdu o hrubém porušování lidských práv a na důstojnost obětí,24,3,2010 OSN
+495,cz_important,Mezinárodní den nenarozeného dítěte,25,3,2008 OSN
+496,cz_important,Mezinárodní den památky obětí otroctví a transatlantického obchodu s otroky,25,3,2009 OSN
+497,cz_important,Mezinárodní den solidarity se zadržovanými a nezvěstnými členy mírových misí,25,3,
+498,cz_important,Světový den boje proti epilepsii (Purple Day),26,3,2008
+499,cz_important,Světový den divadla,27,3,1961 ITI
+500,cz_important,Světový den divoké přírody,3,3,1999 Washingtonská úmluva
+501,cz_important,Mezinárodní den žen,8,3,1909 OSN
+502,cz_important,Mezinárodní den ptactva,1,4,1906 Konvence o ochraně užitečného ptactva
+503,cz_important,Mezinárodní den solidarity osvobození politických vězňů,11,4,v ČR 1997
+504,cz_important,Světový den Parkinsonovy choroby,11,4,1996
+505,cz_important,Mezinárodní den kosmonautiky,12,4,2011 OSN
+506,cz_important,Světový den monitoringu diabetiků,14,4,1950 Mezinárodní federace diabetu
+507,cz_important,Světový den hlasu,16,4,2006 WHO
+508,cz_important,Světový den hemofilie,17,4,1998 World Federation of Hemophilia
+509,cz_important,Mezinárodní den památek a sídel,18,4,1983 UNESCO
+510,cz_important,Mezinárodní den radioamatérů,18,4,1925 IARU
+511,cz_important,Světový den investičních fondů,19,4,2014 VÖIG
+512,cz_important,Mezinárodní den dětské knihy,2,4,1967 Mezinárodní výbor pro dětskou knihu (IBBY)
+513,cz_important,Světový den zvýšení povědomí o autismu,2,4,2007 OSN
+514,cz_important,Světový den marihuany,20,4,
+515,cz_important,Mezinárodní den Země,22,4,1971 v ČR od 1990 spontánně v USA
+516,cz_important,Světový den knihy a autorského práva,23,4,1995 UNESCO
+517,cz_important,Den anglického jazyka,23,4,2010 OSN
+518,cz_important,Mezinárodní den skautů a skautek,24,4,1979
+519,cz_important,Světový den laboratorních zvířat,24,4,
+520,cz_important,Světový den boje proti malárii,25,4,OSN
+521,cz_important,Světový den duševního vlastnictví,26,4,2001 Světová organizace duševního vlastnictví (WIPO)
+522,cz_important,Světový den grafiky,27,4,1963 Mezinárodní rada organizace grafického designu
+523,cz_important,Světový den bezpečnosti a ochrany zdraví při práci,28,4,Mezinárodní organizace práce (ILO)
+524,cz_important,Mezinárodní den tance,29,4,1982 Mezinárodní divadelní ústav
+525,cz_important,Mezinárodní den obětí chemických válek,29,4,2005 OSN
+526,cz_important,Mezinárodní den imunologie,29,4,2005 IUIS
+527,cz_important,Mezinárodní den prádla,3,4,
+528,cz_important,Mezinárodní den jazzu,30,4,2011 UNESCO
+529,cz_important,Mezinárodní den proti nášlapným minám,4,4,2005 OSN
+530,cz_important,Mezinárodní den sportu za rozvoj a mír,6,4,2013 OSN
+531,cz_important,Světový den zdraví,7,4,1950 WHO
+532,cz_important,Vzpomínka na genocidu ve Rwandě,7,4,OSN
+533,cz_important,Mezinárodní den Romů,8,4,1971 v ČR 2001 Mezinárodní romská unie (RU)
+534,cz_important,Svátek práce,1,5,1888 (v USA)
+535,cz_important,Mezinárodní den ošetřovatelek a zároveň,12,5,1965 Mezinárodní rada sester
+536,cz_important,Mezinárodní den podpory nemocných s chronickým únavovým syndromem,12,5,1993
+537,cz_important,Mezinárodní den informovanosti o fibromyalgii,12,5,1992
+538,cz_important,Mezinárodní den Falun Dafa,13,5,1999 (v síti hotelů Radisson po celém světě)
+539,cz_important,Světový den koktejlů,13,5,
+540,cz_important,Mezinárodní den rodiny,15,5,1994 OSN
+541,cz_important,Světový den proti mozkové mrtvici,15,5,1999 European initiative
+542,cz_important,Mezinárodní den odpůrců vojenské služby,15,5,1998
+543,cz_important,Světový den informační společnosti,17,5,2006 OSN
+544,cz_important,Mezinárodní den proti homofobii,17,5,2005 EU (Evropský parlament)
+545,cz_important,Světový den hypertenze,17,5,2006 WHL
+546,cz_important,Mezinárodní den muzeí,18,5,1977 ICOM(2)
+547,cz_important,Mezinárodní den kachliček,21,5,2015
+548,cz_important,Světový den kulturní rozmanitosti (Světový den kulturního rozvoje),21,5,"2001 OSN, UNESCO"
+549,cz_important,Mezinárodní den biologické rozmanitosti,22,5,OSN
+550,cz_important,Světový den želv,23,5,2000 American Tortoise Rescue
+551,cz_important,Evropský den parků,24,5,1999
+552,cz_important,Geek Pride Day,25,5,
+553,cz_important,Den Afriky,25,5,"1963 OSN, Organizace za sjednocení Afriky (OUA)"
+554,cz_important,Mezinárodní den ztracených dětí,25,5,"v USA 1983 v Evropě 1986 prezident USA, Evropská federace pro pohřešované a sexuálně zneužívané děti"
+555,cz_important,Ručníkový den,25,5,2001
+556,cz_important,Světový den her,28,5,1999 ITLA
+557,cz_important,Mezinárodní den příslušníků mírových operací OSN,29,5,OSN
+558,cz_important,Mezinárodní den svobody tisku,3,5,"1991 Reportéři bez hranic, UNESCO"
+559,cz_important,Světový den bez tabáku,31,5,1987 WHO
+560,cz_important,Mezinárodní den hasičů,4,5,1999
+561,cz_important,Den Star Wars,4,5,2011
+562,cz_important,Mezinárodní den porodních asistentek,5,5,1972/73 ICM a FIGO
+563,cz_important,Mezinárodní den hygieny rukou,5,5,2005 WHO
+564,cz_important,Evropský den pro rovnoprávnost osob se zdravotním postižením,5,5,1992 DPI
+565,cz_important,Mezinárodní den proti dietám,6,5,1992 Mary Evans Young
+566,cz_important,"Vzpomínkový den na ty, kdo ztratili svůj život během druhé světové války",8,5,1994 MVČK
+567,cz_important,Světový den Červeného kříže,8,5,
+568,cz_important,Den Evropy,9,5,1950 EU
+569,cz_important,Mezinárodní den dětí,1,6,1950
+570,cz_important,Světový den rodičů,1,6,2012 OSN
+571,cz_important,Světový den mléka,1,6,1958 FAO
+572,cz_important,Světový den proti dětské práci,12,6,"OSN, Mezinárodní organizace práce (ILO)"
+573,cz_important,Světový den dárců krve,14,6,2004 WHO
+574,cz_important,Světový den proti násilí na seniorech,15,6,2006 WHO
+575,cz_important,Světový den větru,15,6,2009 GWEC
+576,cz_important,Den afrického dítěte,16,6,"1991 Organizace africké jednoty (Organization of African Unity, OAU)"
+577,cz_important,Mezinárodní den proti rozšiřování pouští a sucha,17,6,OSN
+578,cz_important,Autistický den hrdosti,18,6,"2005 Organizace africké jednoty (Organization of African Unity, OAU)"
+579,cz_important,Mezinárodní den prostitutek,2,6,1975
+580,cz_important,Světový den uprchlíků,20,6,OSN
+581,cz_important,Světový den hudby,21,6,Mezinárodní skateboardová asociace (International Association of Skateboard Companies)
+582,cz_important,Mezinárodní den triček,21,6,2008
+583,cz_important,Mezinárodní den trpaslíků,21,6,
+584,cz_important,Mezinárodní den skateboardingu,21,6,
+585,cz_important,Mezinárodní den bez kalhotek,22,6,
+586,cz_important,OSN pro den veřejné služby,23,6,2011 OSN
+587,cz_important,Mezinárodní den vdov,23,6,
+588,cz_important,Den námořníků,25,6,2010 IMO
+589,cz_important,Mezinárodní den boje proti zneužívání drog a nezákonnému obchodování s nimi,26,6,1987 OSN
+590,cz_important,Mezinárodní den podpory obětem násilí (mučení),26,6,OSN
+591,cz_important,Světový den rybářství,27,6,2001 OSN
+592,cz_important,Evropský den jízdních kol,3,6,1998 Attac
+593,cz_important,"Mezinárodní den dětí, které se staly obětí agrese",4,6,1982 OSN
+594,cz_important,Světový den životního prostředí,5,6,UNEP
+595,cz_important,Světový den oceánů,8,6,1992 OSN
+596,cz_important,Světový den boje proti nádorům mozku,8,6,2000 German Brain Tumor Association
+597,cz_important,Mezinárodní den archivů,9,6,2007 Mezinárodní archivní rada
+598,cz_important,Světový den populace,11,7,UNFPA (Fond OSN pro populační činnost)
+599,cz_important,Mezinárodní den Nelsona Mandely,18,7,2009 OSN
+600,cz_important,Světový den UFO,2,7,2001 ufologické organizace
+601,cz_important,Mezinárodní den proti zapomínání,2,7,2016
+602,cz_important,Mezinárodní den šachu,20,7,1966
+603,cz_important,Světový den boje proti žloutence,28,7,2010 WHO
+604,cz_important,Mezinárodní den tygrů,29,7,2010
+605,cz_important,Mezinárodní den přátelství,30,7,2011 OSN
+606,cz_important,Světový den polibku,6,7,
+607,cz_important,Mezinárodní den mládeže,12,8,OSN
+608,cz_important,Den leváků,13,8,1992 The Left-Hander's Club v Británii
+609,cz_important,Mezinárodní den energy drinků,15,8,2011 Komunita sběratelů energy drinků
+610,cz_important,Světový den humanitárních pracovníků,19,8,2008 OSN
+611,cz_important,Den suchého zipu,2,8,
+612,cz_important,Mezinárodní den památky obětí obchodu s otroky,23,8,"2009 OSN, UNESCO"
+613,cz_important,Evropský den památky obětí stalinismu a nacismu,23,8,EP
+614,cz_important,Evropská noc pro netopýry,28,8,1997 (Eurobats) Dohoda o ochraně netopýrů v Evropě
+615,cz_important,Mezinárodní den proti jaderným zkouškám,29,8,2009 OSN
+616,cz_important,Mezinárodní den obětí násilného zmizení,30,8,WHO
+617,cz_important,Světový den boje za zákaz jaderných zbraní,6,8,Mezinárodní hnutí lékařů
+618,cz_important,Mezinárodní den boje lékařů za mír,6,8,
+619,cz_important,Mezinárodní den původního obyvatelstva,9,8,1994 OSN
+620,cz_important,Světový den prevence sebevražd[3],10,9,WHO
+621,cz_important,Mezinárodní den OSN spolupráce jih-jih,12,9,2003 OSN
+622,cz_important,Evropský den židovské kultury,14,9,1999 UNESCO
+623,cz_important,Mezinárodní den demokracie,15,9,OSN
+624,cz_important,Mezinárodní den ochrany ozónové vrstvy,16,9,1987 OSN
+625,cz_important,Den církevního školství,16,9,1999
+626,cz_important,Evropský týden mobility,16,9,2002 EU (Evropská komise)
+627,cz_important,Den malování mandal,20,9,2016 Centrum Mandala z. s.
+628,cz_important,Mezinárodní den míru,21,9,2001 OSN
+629,cz_important,Mezinárodní den Alzheimerovy choroby,21,9,v ČR 1998 Mezinárodní alzheimerova organizace (ADI)
+630,cz_important,Evropský den bez aut,21,9,2000 EU (Evropská komise)
+631,cz_important,Mezinárodní den bez aut,22,9,2000
+632,cz_important,Mezinárodní den antikoncepce,26,9,
+633,cz_important,Evropský den jazyků,26,9,2001 Rada Evropy
+634,cz_important,Světový den cestovního ruchu (Světový den turismu),27,9,1980 Světová organizace cestovního ruchu (WTO)
+635,cz_important,Světový den boje proti vzteklině,28,9,"2007 WHO, FAO"
+636,cz_important,Světový den srdce,29,9,"2000 WHF, WHO"
+637,cz_important,Mezinárodní den překladatelů,30,9,
+638,cz_important,Mezinárodní den charity[62],5,9,2013 OSN
+639,cz_important,Mezinárodní den gramotnosti,8,9,1966 UNESCO
+640,cz_important,Evropský den recyklace baterií,9,9,2015 evropská asociace Eucobat
+641,cz_holiday,Den obnovy samostatného státu,1,1,1993
+642,cz_holiday,Den vítězství - osvobození od fašismu,8,5,1945
+643,cz_holiday,Den slovanských věrozvěstů Cyrila a Metoděje,5,7,
+644,cz_holiday,Den upálení mistra Jana Husa,6,7,1415
+645,cz_holiday,Den České státnosti,28,9,
+646,cz_holiday,Den vzniku samostatného Československého státu,28,10,1918
+647,cz_holiday,Den boje za svobodu a demokracii,17,11,1989
+648,cz_holiday,Velký pátek,,,
+649,cz_holiday,Velikonoční pondělí,,,
+650,cz_holiday,Svátek práce,1,5,
+651,cz_holiday,Štědrý den,24,12,
+652,cz_holiday,1. svátek vánoční,25,12,
+653,cz_holiday,2. svátek vánoční,26,12,
+654,cz_other,Den přístupu České Republiky s Severoatlantické smouvě ,12,3,"1999, NATO"
+655,cz_other,Květnové povstání českého lidu,5,5,1945
+656,cz_other,Den památky obětí komunistického režimu,27,6,"(1950 – poprava Milady Horákové), od roku 2004"
+657,cz_other,Tři králové,6,1,
+658,cz_other,Apríl,1,4,
+659,cz_other,Filipojakubská noc (pálení čarodějnic),30,4,
+660,cz_other,Den matek,13,5,
+661,cz_other,Den otců,17,6,
+662,cz_other,Halloween,31,10,
+663,cz_other,Den památky Jan Palacha,16,1,"výročí Palachova upálení, od roku 2013"
+664,cz_other,Památka zesnulých (dušičky),2,11,
+665,cz_other,Den narození Jana Ámose Komenského (1592),28,3,
+666,cz_other,Den přístupu České republiky k Severoatlantické smlouvě (NATO),12,3,2000
+667,cz_other,Den vzdělanosti,7,4,"(1348 – založení Univerzity Karlovy), od roku 2006"
+668,cz_other,Vyhlazení obce Lidice (1942),10,6,od roku 2006

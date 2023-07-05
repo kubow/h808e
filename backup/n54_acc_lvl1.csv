@@ -1,0 +1,52 @@
+id,cname,lvl
+1,Dlouhodobý nehmotný majetek,0
+2,Dlouhodobý hmotný majetek odpisovaný,0
+3,Dlouhodobý hmotný majetek neodpisovaný,0
+4,Nedokončený dlouhodobý nehmotný a hmotný majetek,0
+5,Poskytnuté zálohy na dlouhodobý majetek,0
+6,Dlouhodobý finanční majetek,0
+7,Oprávky k dlouhodobému nehmotnému majetku,0
+8,Oprávky k dlouhodobému hmotnému majetku,0
+9,Opravné položky k dlouhodobému majetku,0
+11,Materiál,1
+12,Zásoby vlastní činnosti,1
+13,Zboží,1
+15,Poskytnuté zálohy na zásoby,1
+19,Opravné položky k zásobám,1
+21,Peněžní prostředky v pokladně,2
+22,Peněžní prostředky na účtech,2
+23,Krátkodobé úvěry,2
+24,Krátkodobé finanční výpomoci,2
+25,Krátkodobý finanční majetek,2
+26,Převody mezi finančními účty,2
+29,Opravné položky ke krátkodobému finančnímu majetku,2
+31,Pohledávky (krátkodobé a dlouhodobé),3
+32,Závazky (krátkodobé),3
+33,Zúčtování se zaměstnanci a institucemi,3
+34,Zúčtování daní a dotací,3
+35,Pohledávky za společníky,3
+36,Závazky ke společníkům,3
+37,Jiné pohledávky a závazky ,3
+38,Přechodné účty aktiv a pasiv,3
+39,Opravná položka k zúčtovacím vztahům a vnitřní zúčtování,3
+41,Základní kapitál a kapitálové fondy,4
+42,Fondy ze zisku a převedené výsledky hospodaření,4
+43,Výsledek hospodaření,4
+45,Rezervy,4
+50,Spotřebované nákupy,5
+51,Služby,5
+52,Osobní náklady,5
+53,Daně a poplatky,5
+54,Jiné provozní náklady,5
+55,"Odpisy, rezervy, komplexní náklady příštích období a opravné položky v provozní oblasti",5
+56,Finanční náklady,5
+57,Rezervy a opravné položky ve finanční oblasti,5
+58,Změna stavu zásob vlastní činnosti a aktivace,5
+59,"Daně z příjmů, převodové účty a rezerva na daň z příjmů",5
+60,Tržby za vlastní výkony a zboží,6
+64,Jiné provozní výnosy,6
+66,Finanční výnosy,6
+69,Převodové účty,6
+70,Účty rozvažné,7
+71,Účet zisků a ztrát,7
+79,Podrozvahové účty,7

@@ -1,0 +1,23 @@
+ID,Znak,Prepis,Cislo,Hodnota,Hieroglyf,Vyznam,Tarot,Astrologie,Cas,Telo,Mravni_hodnoty,Atribut_boha,Sefira,Theurgie
+1,alef,A,1,Matka,Člověk,Otec,Kejklíř,Vzduch,"Jaro, Podzim",Prsa,Rovnováha,Nekonečný,Koruna,Nejvyšší moc
+2,béth,B,2,Dvojné,Ústa,Matka,Velekněžna,Saturn,Sobota,Ústa,Život a smrt,Moudrý,Moudrost,Prozřetelnost
+3,ghimel,G,3,Dvojné,Ruka chápající se,Příroda,Císařovna,Jupiter,Čtvrtek,Pravé oko,Mír a neštěstí,Odplatitel,Inteligence,Smysl
+4,daleth,D,4,Dvojné,"Klín, Pokání",Zákon,Císař,Mars,Úterý,Levé oko,Moudrost a hlupství,Brána světla,Mírnost,Dobro
+5,he,H,5,Dvojné,Dech,Náboženství,Papež,Skopec,Březen,Játra,Zrak a slepota,Bůh boha,Síla,Spravedlnost
+6,vau,V,6,Jednoduché,"Oko, Ucho",Svoboda,Láska,Býk,Duben,Žluč,Sluch a hluchota,Zakladatel,Krása,Krása
+7,zain,Z,7,Jednoduché,Šíp,Vlastnictví,Vítezství,Blíženci,Květen,Slezina,Čich a necitelnost,Bůh blesku,Vítězství,Vítězství
+8,chet,Ch,8,Jednoduché,Pole,Rozdělení,Spravedlnost,Rak,Červen,Žaludek,Slova a němota,Milosrdenství,Věčnost,Věčnost
+9,thet,T,9,Jednoduché,Střecha,Chytrost,Poustevník,Lev,Červenec,Pravá ledvina,Polykání a hlad,Dobrota,Základ,Plodnost
+10,jod,I,10,Jednoduché původní,Ukazovák,Řád,Kolo osudu,Panna,Srpen,Levá ledvina,Soulož a vykleštění,Prapříčina,Říše,Skutečnost
+11,kaf,K,20,Dvojné,Ruka držící,Síla,Síla,Slunce,Neděle,Pravý nosní otvor,Bohatství a chudoba,Neměnitelný,,
+12,lamed,L,30,Jednoduché,Ruka zozpjatá,Oběť,Viselec,Váhy,Září,Střevo,Plodnost a neplodnost,Bůh 30 cest moudrosti,,
+13,mem,M,40,Matka,Žena,Smrt,Smrt,Země,Zima,Břicho,Pláň viny,Nezanedbatelný,,
+14,num,N,50,Jednoduché,Bázeň,Působení,Mírnost,Štír,Říjen,Slepé střevo,Chůze a chromost,Bůh 50 bran světa,,
+15,samech,S,60,Jednoduché,Had,Bytí,Ďábel,Střelec,Listopad,Pravá ruka,Hněv,Bůh ohnivého meče,,
+16,ain,A,70,Jednoduché,Svazek,Rovnováha,Zřícení chrámu,Kozoroh,Prosinec,Levá ruka,Smích,Bůh přísahy,,
+17,phe,F,80,Dvojné,Ústa a jazyk,Nesmrtelnost,Hvězdy,Venuše,Pátek,Levý nosní otvor,Role a poušť,Bůh řeči,,
+18,tsade,Ts,90,Jednoduché,Střecha,Stín,Luna,Vodnář,Leden,Pravá noha,Myšlenka,Spravedlivý,,
+19,kof,K,100,Jednoduché,Zbraň,Světlo,Slunce,Ryby,Únor,Levá noha,Spánek,Právo,,
+20,reš,R,200,Dvojné,Hlava,Věčnost,Soud,Merkur,Středa,Pravé ucho,Krása a ošklivost,Vládce,,
+21,šin,Š,300,Matka,Luk,Jednotnost,Blázen,Oheň,Léto,Hlava,Pláň zásluh,Spasitel,,
+22,thau,Th,400,Dvojné,Klín,Synthésa,Svět,Luna,Pondělí,Levé ucho,Vláda a otroctví,Konečný cíl,,

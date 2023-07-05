@@ -1,0 +1,104 @@
+node_id,code,area_cz,area_en,query,folder,header,kw_en,kw_cz
+1,720,Nástroje,Tools,tools,TOOLS,,,
+2,740,Data,Data,,SODAW,,,
+3,710,Materiály,Materials,,MATRL,,,
+4,730,Energie,Energy,,ENERG,,,
+5,741,OS,Operating System,,OSC,,,
+6,743,Software,Software,,SFW,,"software,program,utilit","software,program,utilit"
+7,744,Programming,Programming,,PRG,,programming,programovací
+8,745,Networking,Networking,,NET,,"network,lan,wifi,security","síť,lan,wifi,bezpečnost"
+9,752,Domy,Houses,,LIV,,"house,build,renovat","dům,stav,renova"
+10,754,Infrastruktura,Infrastructure,,INF,,"road,railway,corridor","cesta,železnice,koridor"
+11,554,Astrologie,Atrology,,ASG,,astrolog,astrolog
+12,423,Protista - Jednobuněční,,,PRO,,,"prvok, prvoci"
+13,424,Fungi - Houby,Mushrooms,funga,FUN,,fung,houb
+14,425,Plantae - Rostliny,Plants,flora,ROS,,"root,leaf,bloom","kořen,list,květ"
+15,426,Animalia -Živočichové,Animals,anima,ANI,,"animal,bird,fish,snake,reptile","zvíře,pták,ptač,ryb,had,plaz"
+24,711,Přírodní,Natural,,MNA,,,
+29,712,Umělé,Artificial,,MAR,,,
+30,625,Kvatová teorie,Quantum Theory,,KVA,,quant,kvant
+31,555,Filozofie,Philosophy,,FIL,,philosoph,filozof
+32,435,Sluneční soustava,Solar System,,SUN,,"sun,star","slun,hvězd"
+33,420,Život a Biologie,Living,,BIOLG,,,
+34,523,Chov a Pěstování,Farming,,FAR,,"soil,ground,farm,plant,breed","půda,zemi,farma,rost,šlecht"
+37,433,Ekologie,Ecology,,EKO,,"eco,environment","eko,prostředí"
+38,713,Toxikologie,Toxicology,,TOX,,,
+39,432,Geologie,Geology,,GEL,,geo,geo
+40,511,Zdravotni,Health,,HTH,,"infect,disease","nákaz,nemoc"
+41,510,Základní potřeby,Basic needs,,MHEAL,,,
+42,522,Venku,Outdoor,,OUT,,"trip,outdoor","výlet,venku"
+43,520,Pohyb,Movement,,MOVEM,,,
+44,513,Recepty Přípravy,Recipes,recipe,REC,,"bak,cook,make,maki","peč,vař,tvoř"
+45,530,Kultura,Culture,,CULTR,,,
+46,540,Zákony,Laws,,FUNDS,,,
+47,550,Magie,Magic,,MAGIE,,,
+48,610,Matematika,Matematics,units,MATEM,,,
+49,620,Fyzika,Physics,const,PHYSX,,,
+50,630,Chemie,Chemistry,,CHEMY,,,
+51,633,Organická chemie,Organic Chemistry,,OCH,,,
+52,634,Biochemie,Biochemistry,,BCH,,,
+53,422,Procaryotae - Bacterium,Bacteria,bacteria,BCT,,"bacter, bacil","bakter, bacil"
+115,521,Hry,Games,games,GAM,,"game,sport","hra,sport"
+120,724,Optika,Optics,,OPT,,"diod,opt,lens","diod,opti,čoč"
+136,400,Příroda,Nature,,-----,,,
+137,500,Člověk,Humanity,,-----,,,
+138,600,Vědy,Science,,-----,,,
+139,700,Technologie,Technology,,-----,,,
+141,729,Umělecké,Arts,,ART,,,
+160,430,Složení,Clima,,CLIMA,,,
+161,535,Filmy,Movies,,MOV,,"film,show,movie,serial,tv","film,show,seriál,televiz"
+165,534,Hudba,Music,,HDB,,"music,sound,song,podcast","muzika,hudba,zvuk,podcast"
+166,542,Práce,Work,,WRK,,"work,employ","práce,prac,zaměst"
+168,532,Knihy,Books,books,BOK,,"book,magazine,comics,newspaper","kniha,magazín,komiks,noviny"
+169,533,Instalace,Statics,,INS,,"picture,icon,painting","obraz,ikona"
+171,742,Database,Database,,DBS,,"database,storage,warehouse","databáze,úložiště,sklad"
+173,411,Prvky,Elements,periodic,PRV,,"perio,element","perio,prvek,prvk"
+174,412,Sloučeniny,Substances,latky,LAT,,solut,"slouč,látk"
+175,750,Stavby,Buildings,,BUILD,,city,město
+178,436,Planety,Planets,planet,PLA,,"planet,mercur,venus,earth,mars,jupyter,uran,neptun,pluto","planet,merkur,venuš,země,mars,jupyter,uran,neptun,pluto"
+179,626,Elementární částice,Elementar particles,element,ELM,,"element, patricl","element, částico"
+180,611,Čísla,Numbers,number,NUM,,number,čísl
+181,612,Číslicové soustavy,Numerical sets,soustavy,ALN,,,
+182,531,Jazyk,Speak,lang,JAZ,,"lang,translat","jazyk,překlad"
+184,536,Historie,History,histor,HIS,,historic,histori
+186,525,Doprava,Traffic,,TRF,,"transport,flight,trip","doprava,let,výlet"
+187,733,Akumulace,Acumulation,,ACU,,"battery,power",solár
+188,732,Paliva,Fuels,,FUL,,"fuel,coal",
+189,731,Obnovitelné,Renewable,,OZE,,"solar,wind,fotovolt",
+190,614,Goniometrie,Goniometry,,GON,,,
+191,631,Obecná chemie,General Chemistry,,CHE,,,
+192,632,Anorganická chemie,Inorganic Chemistry,,ICH,,,
+193,734,Jaderná,Nuclear,,NUC,,nuclear,jader
+195,622,Vlnění,Vibration,,SIN,,osc,osc
+198,623,Elektřina,Electricity,,ELK,,electric,elektri
+199,624,Magnetismus,Magnetism,,MAG,,magnet,magnet
+201,512,Suroviny,Goods,suroviny,MEA,,"meal,food,drink,eat","jíd,pokrm,nápoj,jíst"
+202,613,Algebra,Algebra,,ALR,,,
+203,615,Geometrie,Geometry,,GEM,,geometr,geometri
+204,621,Mechanika těles,Mechanics,,MCH,,mechanic,mechani
+217,543,Socioekonomie,Economy,,SCE,,,
+220,544,Zpravodajství,Intelligence,,INT,,,
+236,723,Mechanika,Mechanics,,MEC,,,
+246,753,Celky,Aglomerations,,AGL,,,
+249,725,Laboratorní,Laboratory,,LAB,,,
+250,726,Elektro,Electronics,,ELE,,,
+253,722,Zahrada,Garden,,GRD,,,
+255,725,Transport,Transport,,TRN,,"car,motor,bike,cycle,ship,plane","auto,motor,motorka,kolo,loď,letadlo"
+256,545,Státní zřízení,Politics,,POL,,,
+257,635,Fyzikální chemie,Physical Chemistry,,FCH,,,
+258,553,Alchymie,Alchemy,,ALC,,,
+265,721,Domácí,Home tools,,HOM,,,
+267,552,Symbolika,Symbolics,symbol,SMB,,symbol,symbol
+268,421,Archaea - Archbacterium,,,ABC,,,
+272,524,Domácí cvičení,Home,,ERO,,"relation,sex,ero","vztah,sex,ero"
+276,410,Mineraly,Non-living,,MINRL,,,
+301,546,Finančnitví,Finance,,FIN,,"finance,stock,funding",
+309,549,Psychologie,Psychology,,PSY,,,
+316,636,Analytická chemie,Analytical Chenistry,,ACH,,,
+317,637,Syntéza,Syntesis,,SNT,,,
+327,413,Nerosty,Minerals,mineral,MIN,,mineral,"minerál, hornin"
+328,431,Fyzicko-geografická sféra,Sphere,,FGS,,"atmos,litos,hydros","atmos,litos,hydros"
+330,541,Identita,Identity,,IDE,,,
+331,551,Místa,Places,place,PLC,,place,míst
+333,434,Astronomie,Astronomy,,AST,,astro,astro
+334,526,Konzum,Consum,,CNS,,"resta,eat","resta,jíd,jíst"

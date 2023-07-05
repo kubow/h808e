@@ -1,0 +1,255 @@
+id,lvl,cname,A1,A2
+12,1,Nehmotné výsledky výzkumu a vývoje,R,A
+13,1,Software,R,A
+14,1,Ostatní ocenitelná práva,R,A
+15,1,Goodwill,R,A
+16,1,Povolenky na emise,R,A
+17,1,Preferenční limity,R,A
+19,1,Ostatní dlouhodobý nehmotný majetek,R,A
+21,2,Stavby,R,A
+22,2,Hmotné movité věci a jejich soubory,R,A
+25,2,Pěstitelské celky trvalých porostů,R,A
+26,2,Dospělá zvířata a jejich skupiny,R,A
+29,2,Jiný dlouhodobý hmotný majetek,R,A
+31,3,Pozemky,R,A
+32,3,Umělecká díla a sbírky,R,A
+41,4,Pořízení dlouhodobého nehmotného majetku,R,A
+42,4,Pořízení dlouhodobého hmotného majetku,R,A
+51,5,Poskytnuté zálohy na dlouhodobý nehmotný majetek,R,A
+52,5,Poskytnuté zálohy na dlouhodobý hmotný majetek,R,A
+53,5,Poskytnuté zálohy na dlouhodobý finanční majetek,R,A
+61,6,Podíly – ovládaná nebo ovládající osoba,R,A
+62,6,Podíly – podstatný vliv,R,A
+63,6,Ostatní dlouhodobé cenné papíry a podíly,R,A
+65,6,Dluhové cenné papíry držené do splatnosti,R,A
+66,6,Zápůjčky a úvěry - ovládaná nebo ovládající osoba,R,A
+67,6,Ostatní zápůjčky a úvěry,R,A
+68,6,Zápůjčky a úvěry – podstatný vliv,R,A
+69,6,Jiný dlouhodobý finanční majetek,R,A
+72,7,Oprávky k nehmotným výsledkům výzkumu a vývoje,R,A
+73,7,Oprávky k softwaru,R,A
+74,7,Oprávky k ostatním ocenitelným právům,R,A
+75,7,Oprávky ke goodwillu,R,A
+79,7,Oprávky k ostatnímu dlouhodobému nehmotnému majetku,R,A
+81,8,Oprávky ke stavbám,R,A
+82,8,Oprávky k hmotným movitým věcem a jejich souborům,R,A
+85,8,Oprávky k pěstitelským celkům trvalých porostů,R,A
+86,8,Oprávky k dospělým zvířatům a jejich skupinám,R,A
+89,8,Oprávky k jinému dlouhodobému hmotnému majetku,R,A
+91,9,Opravná položka k dlouhodobému nehmotnému majetku,R,A
+92,9,Opravná položka k dlouhodobému hmotnému majetku,R,A
+93,9,Opravná položka k dlouhodobému nedokončenému nehmotnému majetku,R,A
+94,9,Opravná položka k dlouhodobému nedokončenému hmotnému majetku,R,A
+95,9,Opravná položka k poskytnutým zálohám na dlouhodobý majetek,R,A
+96,9,Opravná položka k dlouhodobému finančnímu majetku,R,A
+97,9,Oceňovací rozdíl k nabytému majetku,R,A
+98,9,Oprávky k oceňovacímu rozdílu k nabytému majetku,R,A
+111,11,Pořízení materiálu,R,A
+112,11,Materiál na skladě,R,A
+119,11,Materiál na cestě,R,A
+121,12,Nedokončená výroba,R,A
+122,12,Polotovary vlastní výroby,R,A
+123,12,Výrobky,R,A
+124,12,Mladá a ostatní zvířata a jejich skupiny,R,A
+131,13,Pořízení zboží,R,A
+132,13,Zboží na skladě a v prodejnách,R,A
+139,13,Zboží na cestě,R,A
+151,15,Poskytnuté zálohy na materiál,R,A
+152,15,Poskytnuté zálohy na mladá zvířata,R,A
+153,15,Poskytnuté zálohy na zboží,R,A
+191,19,Opravná položka k materiálu,R,A
+192,19,Opravná položka k nedokončené výrobě,R,A
+193,19,Opravná položka k polotovarům vlastní výroby,R,A
+194,19,Opravná položka k výrobkům,R,A
+195,19,Opravná položka k mladým zvířatům,R,A
+196,19,Opravná položka ke zboží,R,A
+197,19,Opravná položka k zálohám na materiál,R,A
+198,19,Opravná položka k zálohám na zboží,R,A
+199,19,Opravná položka k zálohám na mladá zvířata,R,A
+211,21,Peněžní prostředky v pokladně,R,A
+213,21,Ceniny,R,A
+221,22,Peněžní prostředky na účtech,R,A
+231,23,Krátkodobé úvěry,R,P
+232,23,Eskontní úvěry,R,P
+241,24,Vydané krátkodobé dluhopisy,R,P
+249,24,Ostatní krátkodobé finanční výpomoci,R,P
+251,25,Registrované majetkové cenné papíry k obchodování,R,A
+252,25,Vlastní podíly,R,P
+253,25,Registrované dluhové cenné papíry k obchodování,R,A
+254,25,Směnky k inkasu,R,A
+255,25,Vlastní dluhopisy,R,P
+256,25,Dluhové cenné papíry se splat. do 1 roku držené do splatnosti,R,A
+257,25,Ostatní cenné papíry k obchodování,R,A
+258,25,Podíly – ovládaná nebo ovládající osoba,R,A
+261,26,Peníze na cestě,R,A
+291,29,Opravná položka ke krátkodobému finančnímu majetku,R,A
+311,31,Pohledávky z obchodních vztahů,R,A
+312,31,Směnky k inkasu,R,A
+313,31,Pohledávky za eskontované cenné papíry,R,A
+314,31,Poskytnuté zálohy – dlouhodobé a krátkodobé,R,A
+315,31,Ostatní pohledávky,R,A
+321,32,Závazky z obchodních vztahů,R,P
+322,32,Směnky k úhradě,R,P
+324,32,Přijaté zálohy,R,P
+325,32,Ostatní závazky,R,P
+331,33,Zaměstnanci,R,P
+333,33,Ostatní závazky vůči zaměstnancům,R,P
+335,33,Pohledávky za zaměstnanci,R,A
+336,33,Zúčtování s institucemi sociál. zabezpečení a zdravot. pojištění,R,P
+341,34,Daň z příjmů,R,P
+342,34,Ostatní přímé daně,R,P
+343,34,Daň z přidané hodnoty,R,P
+345,34,Ostatní daně a poplatky,R,P
+346,34,Dotace ze státního rozpočtu,R,P
+347,34,Ostatní dotace,R,P
+349,34,Vyrovnávací účet pro DPH,R,A
+351,35,Pohledávky – ovládaná nebo ovládající osoba,R,A
+352,35,Pohledávky – podstatný vliv,R,A
+353,35,Pohledávky za upsaný základní kapitál,R,A
+354,35,Pohledávky za společníky při úhradě ztráty,R,A
+355,35,Ostatní pohledávky za společníky obchodní korporace,R,A
+358,35,Pohledávky za společníky sdruženými ve společnostech,R,A
+361,36,Závazky – ovládaná nebo ovládající osoba,R,P
+362,36,Závazky – podstatný vliv,R,P
+364,36,Závazky ke společníkům při rozdělování zisku,R,P
+365,36,Ostatní závazky ke společníkům obchodní korporace,R,P
+366,36,Závazky ke společníkům ze závislé činnosti,R,P
+367,36,Závazky z upsaných nesplacených cenných papírů a vkladů,R,P
+368,36,Závazky ke společníkům sdruženým ve společnosti,R,P
+371,37,Pohledávky z prodeje obchodního závodu,R,A
+372,37,Závazky z koupě obchodního závodu,R,A
+373,37,Pohledávky a závazky z pevných termínových operací,R,A
+374,37,Pohledávky z nájmu a pachtu,R,A
+375,37,Pohledávky z vydaných dluhopisů,R,A
+376,37,Nakoupené opce,R,A
+377,37,Prodané opce,R,P
+378,37,Jiné pohledávky,R,A
+379,37,Jiné závazky,R,P
+381,38,Náklady příštích období,R,A
+382,38,Komplexní náklady příštích období,R,A
+383,38,Výdaje příštích období,R,P
+384,38,Výnosy příštích období,R,P
+385,38,Příjmy příštích období,R,A
+388,38,Dohadné účty aktivní,R,A
+389,38,Dohadné účty pasivní,R,P
+391,39,Opravná položka k pohledávkám,R,A
+395,39,Vnitřní zúčtování,R,A
+398,39,Spojovací účet při společnosti,R,A
+411,41,Základní kapitál,R,P
+412,41,Ážio,R,P
+413,41,Ostatní kapitálové fondy,R,P
+414,41,Oceňovací rozdíly z přecenění majetku a závazků,R,P
+416,41,Rozdíly z ocenění při přeměnách obchodních korporací,R,P
+417,41,Rozdíly z přeměn obchodních korporací,R,P
+418,41,Oceňovací rozdíly z přecenění při přeměnách obchodních korporací,R,P
+419,41,Změny základního kapitálu,R,P
+421,42,Ostatní rezervní fondy,R,P
+422,42,Nedělitelný fond,R,P
+423,42,Statutární fondy,R,P
+426,42,Jiný výsledek hospodaření minulých let,R,P
+427,42,Ostatní fondy,R,P
+428,42,Nerozdělený zisk minulých let,R,P
+429,42,Neuhrazená ztráta minulých let,R,P
+431,43,Výsledek hospodaření ve schvalovacím řízení,R,P
+432,43,Rozhodnuto o zálohové výplatě podílu na zisku,R,P
+451,45,Rezervy podle zvláštních právních předpisů,R,P
+453,45,Rezerva na daň z příjmů,R,P
+459,45,Ostatní rezervy,R,P
+461,46,Závazky k úvěrovým institucím,R,P
+471,47,Dlouhodobé závazky – ovládaná nebo ovládající osoba,R,P
+472,47,Dlouhodobé závazky – podstatný vliv,R,P
+473,47,Vydané dluhopisy,R,P
+474,47,Závazky z nájmu a pachtu,R,P
+475,47,Dlouhodobé přijaté zálohy,R,P
+478,47,Dlouhodobé směnky k úhradě,R,P
+479,47,Jiné dlouhodobé závazky,R,P
+481,48,Odložený daňový závazek a pohledávka,R,P
+491,49,Účet individuálního podnikatele,R,P
+501,50,Spotřeba materiálu,V,D
+502,50,Spotřeba energie,V,D
+503,50,Spotřeba ostatních neskladovatelných dodávek,V,D
+504,50,Prodané zboží,V,D
+511,51,Opravy a udržování,V,D
+512,51,Cestovné,V,D
+513,51,Náklady na reprezentaci,V,N
+518,51,Ostatní služby,V,D
+521,52,Mzdové náklady,V,D
+522,52,Příjmy společníků obchodní korporace ze závislé činnosti,V,D
+523,52,Odměny členům orgánů obchodních korporací,V,N
+524,52,Zákonné sociální a zdravotní pojištění,V,D
+525,52,Ostatní sociální a zdravotní pojištění,V,N
+526,52,Sociální náklady individuálního podnikatele,V,N
+527,52,Zákonné sociální náklady,V,D
+528,52,Ostatní sociální náklady,V,N
+531,53,Daň silniční,V,D
+532,53,Daň z nemovitých věcí,V,D
+538,53,Ostatní daně a poplatky,V,D
+541,54,Zůstatková cena prodaného dlouhodobého nehmotného a hmotného majetku,V,D
+542,54,Prodaný materiál,V,D
+543,54,Poskytnuté dary,V,N
+544,54,Smluvní pokuty a úroky z prodlení,V,D
+545,54,Ostatní pokuty a penále,V,N
+546,54,Odpis pohledávky,V,N
+547,54,Mimořádné provozní náklady ,V,D
+548,54,Ostatní provozní náklady,V,D
+549,54,Manka a škody,V,D
+551,55,Odpisy dlouhodobého nehmotného a hmotného majetku,V,D
+552,55,Tvorba a zúčtování rezerv podle zvláštních právních předpisů,V,D
+554,55,Tvorba a zúčtování ostatních rezerv,V,N
+555,55,Tvorba a zúčtování komplexních nákladů příštích období,V,D
+557,55,Zúčtování oprávky k oceňovacímu rozdílu k nabytému majetku,V,N
+558,55,Tvorba a zúčtování zákonných opravných položek,V,D
+559,55,Tvorba a zúčtování opravných položek,V,N
+561,56,Prodané cenné papíry a podíly,V,D
+562,56,Úroky,V,D
+563,56,Kurzové ztráty,V,D
+564,56,Náklady z přecenění majetkových cenných papírů k obchodování,V,D
+565,56,Poskytnuté dary (peněžní),V,N
+566,56,Náklady z finančního majetku,V,D
+567,56,Náklady z derivátových operací,V,D
+568,56,Ostatní a mimořádné finanční náklady,V,D
+569,56,Manka a škody na finančním majetku,V,D
+574,57,Tvorba a zúčtování finančních rezerv,V,N
+579,57,Tvorba a zúčtování opravných položek ve finanční činnosti,V,N
+581,58,Změna stavu nedokončené výroby,V,D
+582,58,Změna stavu polotovarů,V,D
+583,58,Změna stavu výrobků,V,D
+584,58,Změna stavu mladých a ostatních zvířat,V,D
+585,58,Aktivace materiálu a zboží,V,D
+586,58,Aktivace vnitropodnikových služeb,V,D
+587,58,Aktivace dlouhodobého nehmotného majetku,V,D
+588,58,Aktivace dlouhodobého hmotného majetku,V,D
+591,59,Daň z příjmů – splatná,V,N
+592,59,Daň z příjmů – odložená,V,N
+595,59,Dodatečné odvody daně z příjmů,V,N
+596,59,Převod podílu na výsledku hospodaření společníkům,V,N
+597,59,Převod provozních nákladů,V,D
+598,59,Převod finančních nákladů,V,D
+599,59,Změna stavu rezervy na daň z příjmů,V,N
+601,60,Tržby za vlastní výrobky,V,D
+602,60,Tržby z prodeje služeb,V,D
+604,60,Tržby za zboží,V,D
+641,64,Tržby z prodeje dlouhodobého nehmotného a hmotného majetku,V,D
+642,64,Tržby z prodeje materiálu,V,D
+643,64,Přijaté dary (nepeněžní),V,D
+644,64,Smluvní pokuty a úroky z prodlení,V,D
+645,64,Výnosy z postoupených pohledávek,V,D
+646,64,Výnosy z odepsaných pohledávek,V,D
+647,64,Mimořádné provozní výnosy,V,D
+648,64,Ostatní provozní výnosy,V,D
+649,64,Ostatní provozní výnosy,V,D
+661,66,Tržby z prodeje cenných papírů a podílů,V,D
+662,66,Úroky,V,D
+663,66,Kurzové zisky,V,D
+664,66,Výnosy z přecenění majetkových cenných papírů k obchodování,V,D
+665,66,Výnosy z dlouhodobého finančního majetku,V,D
+666,66,ýnosy z krátkodobého finančního majetku,V,D
+667,66,Výnosy z derivátových operací,V,D
+668,66,Ostatní finanční a mimořádné výnosy,V,D
+669,66,Přijaté dary (peněžní),V,D
+697,69,Převod provozních výnosů,V,D
+698,69,Převod finančních výnosů,V,D
+701,70,Počáteční účet rozvažný,Z,
+702,71,Konečný účet rozvažný,Z,
+710,71,Účet zisků a ztrát,Z,
+799,79,Evidenční účet,P*,P

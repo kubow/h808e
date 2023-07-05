@@ -1,0 +1,807 @@
+node_id,name,txt,syntax,tags,is_ro,is_richtxt,has_codebox,has_table,has_image,level,ts_creation,ts_lastsave
+136,Příroda,"<?xml version=""1.0"" ?><node><rich_text scale=""h1"">Oheň - Život - Prvky</rich_text><rich_text>
+Přidružené vědy: Matematika, Biologie, Biochemie
+
+</rich_text><rich_text scale=""h1"">Voda - Pohyb - Látky</rich_text><rich_text>
+Přidružené vědy: Fyzika, Hydrologie, Hydrochemie
+
+</rich_text><rich_text scale=""h1"">Vzduch - Okolí - Prostředí</rich_text><rich_text>
+Přidružené vědy: Chemie, Ekologie, Toxikologie
+
+</rich_text><rich_text scale=""h1"">Země - Planeta</rich_text><rich_text>
+Přidružené vědy: Geologie, Astronomie
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+276,Mineraly,"<?xml version=""1.0"" ?><node><rich_text>Prvky
+Sloučeniny
+Nerosty
+
+Voda </rich_text><rich_text link=""webs http://www.osel.cz/9448-voda-existuje-jako-dve-ruzne-kapaliny.html"">http://www.osel.cz/9448-voda-existuje-jako-dve-ruzne-kapaliny.html</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+173,Prvky,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+174,Sloučeniny,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+327,Nerosty,"<?xml version=""1.0"" ?><node><rich_text>select * from </rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1514705791.71475
+33,Život a Biologie,"<?xml version=""1.0"" ?><node><rich_text>
+</rich_text><rich_text scale=""h2"">Buněčná taxonomie</rich_text><rich_text>
+Taxonomická Kategorie - </rich_text><rich_text link=""webs https://cs.wikipedia.org/wiki/Kategorie_(biologie)"">https://cs.wikipedia.org/wiki/Kategorie_(biologie)</rich_text><rich_text>
+</rich_text><rich_text scale=""h2"">Fylogenetický strom</rich_text><rich_text>
+
+Archaea
+Procaryotae
+Eukaryotae
+
+
+Mesmerizing Time Lapse Of Wood Cross Sections Being Cut Slice By Slice </rich_text><rich_text link=""webs http://geekologie.com/2017/06/mesmerizing-time-lapse-of-wood-cross-sec.php"">http://geekologie.com/2017/06/mesmerizing-time-lapse-of-wood-cross-sec.php</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1526677929.202924
+268,Archaea - Archbacterium,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+53,Procaryotae - Bacterium,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+12,Protista - Jednobuněční,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,1526677880.555236,1526677880.555236
+13,Fungi - Houby,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,1526677895.428046,1526677895.428046
+14,Plantae - Rostliny,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,1526677914.7125883,1526677914.7125883
+15,Animalia -Živočichové,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,1526677929.2123227,1526677929.2123227
+160,Složení,"<?xml version=""1.0"" ?><node><rich_text>Atmosféra
+Geologie
+Ekologie
+Cykly Planet</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+37,Ekologie,"<?xml version=""1.0"" ?><node><rich_text>Hydrologie
+Toxikologie
+Metrologie
+
+Bioaccumulation chemicals </rich_text><rich_text link=""webs http://www.nature.com/articles/s41559-016-0051"">http://www.nature.com/articles/s41559-016-0051</rich_text><rich_text>
+Removing heavy metals with coffee infused foam 
+</rich_text><rich_text link=""webs https://www.acs.org/content/acs/en/pressroom/presspacs/2016/acs-presspac-september-21-2016/coffee-infused-foam-removes-lead-from-contaminated-water.html"">https://www.acs.org/content/acs/en/pressroom/presspacs/2016/acs-presspac-september-21-2016/coffee-infused-foam-removes-lead-from-contaminated-water.html</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+137,Člověk,"<?xml version=""1.0"" ?><node><rich_text scale=""h1"">Entita - Ether - Akáša</rich_text><rich_text>
+Oblasti: Aura, Zdravení, Jídlo (Suroviny a Konzum)
+Navázáno: Psychologie
+
+</rich_text><rich_text scale=""h1"">Pohyb - Oheň</rich_text><rich_text>
+Oblasti: Fyzický pohyb, kondice, pěstování a chov, domácí cvičení
+
+</rich_text><rich_text scale=""h1"">Zákony - Voda</rich_text><rich_text>
+Oblasti: Kultura (Knihy, Obrazy, Hudba, Filmy, Jazyk)
+
+</rich_text><rich_text scale=""h1"">Kultura - Vítr - Okolí</rich_text><rich_text>
+Oblasti: Kultura (Knihy, Obrazy, Hudba, Filmy, Jazyk)
+
+</rich_text><rich_text scale=""h1"">Magie - Země</rich_text><rich_text>
+Oblsati: Bílá, Černá, Záhady</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+41,Jídlo a Zdravení,"<?xml version=""1.0"" ?><node><rich_text>Aura
+Zdravení 
+Jídlo - Suroviny
+Jídlo - Recepty a přípravy
+
+veganský kulturista - </rich_text><rich_text link=""webs http://www.jetonavas.cz"">www.jetonavas.cz</rich_text><rich_text>
+
+(non)vegan ingredients - </rich_text><rich_text link=""webs https://www.americastestkitchen.com/articles/539-vegan-beware-3-common-ingredients-you-think-are-vegan-that-might-not-be"">https://www.americastestkitchen.com/articles/539-vegan-beware-3-common-ingredients-you-think-are-vegan-that-might-not-be</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+40,Aura,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+201,Suroviny,"<?xml version=""1.0"" ?><node><rich_text>Pokrmy 
+Nápoje
+Afrodiziaka
+Ozdravovací
+Hygiena</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+44,Recepty Přípravy,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+43,Pohyb,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>Chov a pěstání
+Venkovní zábava
+Hry
+Doprava
+Domácí cvičení
+
+Rule of 3 </rich_text><rich_text link=""webs http://www.artofmanliness.com/2017/01/09/work-deliberately-instead-reactively-rule-3/"">http://www.artofmanliness.com/2017/01/09/work-deliberately-instead-reactively-rule-3/</rich_text><rich_text>
+Strange Facts </rich_text><rich_text link=""webs http://www.unbelievable-facts.com/2017/02/facts-that-sound-fake.html"">http://www.unbelievable-facts.com/2017/02/facts-that-sound-fake.html</rich_text><rich_text>
+Farting </rich_text><rich_text link=""webs https://dailyplug.com/apparently-people-who-fart-in-front-of-their-partner-are-more-likely-to-have-a-lasting-relationship/"">https://dailyplug.com/apparently-people-who-fart-in-front-of-their-partner-are-more-likely-to-have-a-lasting-relationship/</rich_text><rich_text>
+Sliders Workout </rich_text><rich_text link=""webs https://greatist.com/move/sliders-workout"">https://greatist.com/move/sliders-workout</rich_text><rich_text>
+
+Welness
+Welness Branná </rich_text><rich_text link=""webs http://www.relaxkolstejn.cz/"">http://www.relaxkolstejn.cz/</rich_text><rich_text>
+Welness Energetic Rožnov </rich_text><rich_text link=""webs http://www.hotel-energetic.cz/"">http://www.hotel-energetic.cz/</rich_text><rich_text>
+
+</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1661961254
+34,Chov a Pěstování,"<?xml version=""1.0"" ?><node><rich_text>Přehled postřiků proti škůdcům </rich_text><rich_text link=""webs http://www.cactusforum.eu/viewtopic.php?t=16&amp;start=45"">http://www.cactusforum.eu/viewtopic.php?t=16&amp;start=45</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+42,Venku,"<?xml version=""1.0"" ?><node><rich_text>Oblečení
+Outdoor
+čundr vybavení</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+115,Hry,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+186,Doprava,"<?xml version=""1.0"" ?><node><rich_text>Udělat program, který se bude umět adaptovat na všechny možné timetables, tohle se ještě musí vymyslet...
+Ale určitě existuje svobodný formát dat...</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+272,Domácí cvičení,"<?xml version=""1.0"" ?><node><rich_text>Afrodiziaka
+Devices
+ERituals</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+45,Kultura,"<?xml version=""1.0"" ?><node><rich_text>Knihy
+Obrazy
+Hudba
+Filmy
+Jazyk
+Historie</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+168,Knihy,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+169,Obrazy,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+165,Hudba,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+161,Filmy,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text link=""webs http://www.csfd.cz/zebricky/nejoblibenejsi-filmy/?show=complete"">http://www.csfd.cz/zebricky/nejoblibenejsi-filmy/?show=complete</rich_text><rich_text>
+</rich_text><rich_text link=""webs http://www.csfd.cz/zebricky/nejlepsi-filmy/?show=complete"">http://www.csfd.cz/zebricky/nejlepsi-filmy/?show=complete</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.pronaladu.cz/12-zahadnych-filmu-nad-jejichz-obsahem-si-budete-lamat-hlavu/"">http://www.pronaladu.cz/12-zahadnych-filmu-nad-jejichz-obsahem-si-budete-lamat-hlavu/</rich_text><rich_text>
+</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1662017150
+182,Jazyk,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>Abeceda
+Citáty
+
+Diskuze
+Badoo </rich_text><rich_text link=""webs https://badoo.com/"">https://badoo.com/</rich_text><rich_text>
+CyberSpace </rich_text><rich_text link=""webs https://www.cyberspace.cz/"">https://www.cyberspace.cz/</rich_text><rich_text>
+Okoun </rich_text><rich_text link=""webs https://www.okoun.cz/"">https://www.okoun.cz/</rich_text><rich_text>
+Lopuch </rich_text><rich_text link=""webs http://www.lopuch.cz/"">http://www.lopuch.cz/</rich_text><rich_text>
+Pískoviště </rich_text><rich_text link=""webs http://bbs.sandbox.cz/"">http://bbs.sandbox.cz/</rich_text><rich_text>
+Nyx </rich_text><rich_text link=""webs https://www.nyx.cz/index.php?l=gate;dw=1"">https://www.nyx.cz/index.php?l=gate;dw=1</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1661961258
+184,Historie,"<?xml version=""1.0"" ?><node><rich_text>Kalendář
+Svátky a výročí
+
+Důležité otázky:
+• jak zapisovat
+   ◇ datum a čas
+   ◇ pozice planet - to je v 440 - zde jen odkaz
+   ◇ absolutní datum (bude asi pomocí pozice planet)
+   ◇ juliánský kalendář
+   ◇ časové pásma (pozici)
+   ◇ časové posuny
+   ◇ rozmezí - období (1 den, 1 měsíc, ...)</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+46,Zákony,"<?xml version=""1.0"" ?><node><rich_text>
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+330,Identita,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+166,Práce,"<?xml version=""1.0"" ?><node><rich_text link=""webs http://www.fastcompany.com/3055035/the-future-of-work/you-should-plan-on-switching-jobs-every-three-years-for-the-rest-of-your-"">http://www.fastcompany.com/3055035/the-future-of-work/you-should-plan-on-switching-jobs-every-three-years-for-the-rest-of-your-</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+217,Socioekonomie,"<?xml version=""1.0"" ?><node><rich_text>Socio-Ekonomická sféra
+
+• Počet obyvatelstva
+   ◇ porodnost (natalita)
+   ◇ úmrtnost (mortalita)
+   ◇ přistěhovalectví (imigrace)
+   ◇ odstěhovalectví (emigrace)
+• Složení obyvatelstva
+   ◇ Pohlaví
+      ▪ muži
+      ▪ ženy (více)
+   ◇ Věk
+      ▪ předprodukční (0-15)
+      ▪ produkční (15-60)
+      ▪ poprodukční (60 a více)
+   ◇ Rasy
+   ◇ Národ
+   ◇ Jazyk
+   ◇ Náboženství
+      ▪ Ateisté
+      ▪ Křesťanství
+      ▪ Islám
+      ▪ Budhismus
+      ▪ Hinduismus
+      ▪ Judaismus
+      ▪ Konfucionismus
+• Rozmístění obyvatelstva
+   ◇ Přírodní podmínky
+      ▪ Vzdálenost od oceánu
+      ▪ Nadmořská výška
+      ▪ Klimatické podmínky (teplota a dostatek srážek)
+      ▪ Podél řek
+   ◇ Ekonomické podmínky
+      ▪ Zemědělství
+      ▪ Nerostné suroviny
+      ▪ Průmysl
+      ▪ Dopravní tepny</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+220,Co-Workers,"<?xml version=""1.0"" ?><node><rich_text>Disagree with coworkers - </rich_text><rich_text link=""webs http://lifehacker.com/how-to-disagree-with-your-coworkers-without-getting-int-1787758294"">http://lifehacker.com/how-to-disagree-with-your-coworkers-without-getting-int-1787758294</rich_text><rich_text>
+Deal with manipulative coworker - </rich_text><rich_text link=""webs http://twocents.lifehacker.com/how-to-deal-with-a-manipulative-coworker-1787682219?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29"">http://twocents.lifehacker.com/how-to-deal-with-a-manipulative-coworker-1787682219?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29</rich_text><rich_text>
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+256,Státní zřízení,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+301,Finančnitví,"<?xml version=""1.0"" ?><node><rich_text>Czech export insurance </rich_text><rich_text link=""webs http://www.egap.cz/index-en.php"">http://www.egap.cz/index-en.php</rich_text><rich_text>
+
+OVB Dokument </rich_text><rich_text link=""webs https://www.youtube.com/watch?v=f-xixAjhL10"">https://www.youtube.com/watch?v=f-xixAjhL10</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+309,Psychologie,"<?xml version=""1.0"" ?><node><rich_text link=""webs https://www.americastestkitchen.com/articles/539-vegan-beware-3-common-ingredients-you-think-are-vegan-that-might-not-be"">https://www.americastestkitchen.com/articles/539-vegan-beware-3-common-ingredients-you-think-are-vegan-that-might-not-be</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://lifehacker.com/this-video-shows-how-youre-not-really-in-the-majority-i-1792699609"">http://lifehacker.com/this-video-shows-how-youre-not-really-in-the-majority-i-1792699609</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+47,Magie,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+258,Alchymie,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+267,Symbolika,"<?xml version=""1.0"" ?><node><rich_text link=""webs http://dailyoccupation.com/2017/01/14/10-spiritual-symbols-meaning-must-know-photo/"">http://dailyoccupation.com/2017/01/14/10-spiritual-symbols-meaning-must-know-photo/</rich_text><rich_text>
+
+Hamsa
+
+Tree of Life
+
+Ankh
+
+Eye of Horus
+
+Lotus Flower
+
+Yin Yang
+
+Pentacle
+
+Caduceus
+
+Dharma Wheel
+
+Flower of Life
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+331,Místa,"<?xml version=""1.0"" ?><node><rich_text>http://</rich_text><rich_text link=""webs http://www.taniassecret.cz/zlata-koruna-klaster/tajemna-mista/"">www.taniassecret.cz/zlata-koruna-klaster/tajemna-mista/</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.novinky.cz/cestovani/tipy-na-vylety/205028-po-zahadnych-a-tajemnych-mistech-cech-moravy-i-slezska.html"">http://www.novinky.cz/cestovani/tipy-na-vylety/205028-po-zahadnych-a-tajemnych-mistech-cech-moravy-i-slezska.html</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.gpz.cz/schumann.htm"">http://www.gpz.cz/schumann.htm</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://zahadnamista.cz/category/lokalita/cr/"">http://zahadnamista.cz/category/lokalita/cr/</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.kudyznudy.cz/Aktuality/Tajemna-mista-Ceska-%E2%80%93-poodhrnte-rousku-zahad-a-taj.aspx"">http://www.kudyznudy.cz/Aktuality/Tajemna-mista-Ceska-%E2%80%93-poodhrnte-rousku-zahad-a-taj.aspx</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://cestovani.idnes.cz/vylet-luzicke-hory-ortel-0hq-/tipy-na-vylet.aspx?c=A120329_104705_igcechy_tom"">http://cestovani.idnes.cz/vylet-luzicke-hory-ortel-0hq-/tipy-na-vylet.aspx?c=A120329_104705_igcechy_tom</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.tuning-forum.org/viewtopic.php?f=20&amp;t=107174"">http://www.tuning-forum.org/viewtopic.php?f=20&amp;t=107174</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://zbynkuv.blog.cz/rubrika/tajemna-mista-v-cr"">http://zbynkuv.blog.cz/rubrika/tajemna-mista-v-cr</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.mystika.cz/"">http://www.mystika.cz/</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+11,Astrologie,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">1. ZNAMENÍ</rich_text><rich_text>
+Astronomické (efemeridové) polohy astrologických prvků (planet, Slunce, Měsíce, měsíčních uzlů atd.) zapisujeme do tzv. „kolečka“ . To je kruh rozdělený na 360 stupňů, který dále dělíme na úseky po 30 stupních, které nazýváme znamení. Počáteční bod kruhu je v jarním bodě, což je průsečík ekliptiky a nebeského rovníku. Když do tohoto bodu vstoupí Slunce, je první jarní den. Od tohoto bodu po 30 stupních jsou úseky jednotlivých znamení ve známém pořadí: Beran, Býk, Blíženci, Rak, Lev, Panna, Váhy, Štír, Střelec, Kozoroh, Vodnář a Ryby. Je třeba mít na paměti, že zde není žádná fyzická souvislost ze souhvězdími stejných jmen. V případě znamení jde o pojmenování 30 stupňových úseků, počínajících v jarním bodě! Těmto 12. znamením jsou přiřazovány kvality, které „zabarvují“ ostatní prvky horoskopu, které se v nich nacházejí. Ve skutečnosti je ovšem horoskop pouze dvojrozměrným zobrazením skutečnosti, která má pochopitelně rozměry tři. Jde tedy ve skutečnosti ne o kruh, ale o kouli a jednotlivá znamení tvoří tzv. sférické trojúhelníky o stejné velikosti. Výklady postavenými pouze na umístění Slunce v těchto znameních vznikla astrologie bulvární, která je hlavním původcem špatné pověsti astrologie.
+ 
+</rich_text><rich_text scale=""h2"">2. PLANETY</rich_text><rich_text>
+Pod pojmem planety se tradičně v astrologii myslí nejen všechny planety Sluneční soustavy, ale také Slunce a Luna. Je to nepřesná, ale dosti zaužívaná terminologie. Přesnější by bylo říci, že astrologie pracuje hlavně s jednou hvězdou (Sluncem), ale i některými hvězdami dalšími (vyšší hvězdné velikosti), planetami Sluneční soustavy a měsícem země. Polohy (délkové hodnoty na ekliptice) těchto „planet“ se zapíší do „kolečka“. Každá planeta má svůj obecně používaný symbol.
+Každé planetě je přiřazen určitý komplex psychologických a osudových charakteristik. Např. Slunce je spojováno – ve shodě s jeho úlohou ve Sluneční soustavě – s egem, kolem kterého se to všechno točí, s osobností člověka. Dále s denním vědomím, sebevědomím, autoritou apod. V osudové oblasti je to symbol otce, vládce, možnosti vyniknout – zazářit.
+
+</rich_text><rich_text scale=""h2"">3. ASPEKTY</rich_text><rich_text>
+Aspekty nazýváme úhly, které mezi sebou v horoskopu zakreslené prvky zaujímají. Některé jsou pokládány za zvláště účinné. Jsou to úhel 0° – konjunkce, 60° – sextil, 90° – kvadratura, 120° – trigon, 180° – opozice. Účinnost každého aspektu je omezena jeho přesností – rozpětí účinnosti se nazývá orbis a pohybuje se cca kolem 8°. Konjunkce dané prvky spojuje, jejich kvality splývají, někdy až do nepřehledné jednoty. Sextil je ukazatelem talentu, možností, které je třeba rozvíjet. Kvadratura je tenzní spojení, je spojena s překážkami, disharmoniemi, psychologickými i osudovými tlaky. Dobře využitá snahami o harmonii může mít ovšem i dynamizující efekt na člověka. Trigon je aspektem „osudových darů“, ať ve smyslu vnitřním či zevním. Pro ty, co akceptují reinkarnační pojetí života, to jsou karmické zásluhy z minulosti. Negativní stránkou může být nedostatečná motivace osudovými tlaky, lenivé spaní na vavřínech a postupné „vyjídání zásob“, bez vytváření perspektiv. Opozice je symbolem Saturna, planety osudu (karmy) a bývá spojena s osudovými nesnázemi, zásadními rozpory a neslučitelnými protiklady. Jejich zvládnutí vyžaduje vnitřní zralost, ale může vyústit v pochopení jednoty protikladů, odvrácení od světa k duchovním cílům, rozvinutí opravdové moudrosti.
+
+</rich_text><rich_text scale=""h2"">4. DOMY</rich_text><rich_text>
+Při výpočtu horoskopu potřebujeme i přesný čas a místo narození, abychom mohli určit další systém dvanácti sférických trojúhelníků, který nazýváme domy. Jejich počáteční bod je místo ekliptiky, které v okamžiku narození v daném místě vychází nad obzor. To je tzv. ascendent. Protilehlý k němu, a tedy právě zapadající, je descendent (D. C), v nadhlavníku je Medium coeli (MC) a v podnožníku Immum coeli (I.C.). Tyto body určují hlavní osy horoskopu, které jsou základem 1, 7, 10 a 4 domu. Čtyři kvadranty, které nám zbudou, dále dělíme na tři díly, a tak vzniká celkem dvanáct domů. Systém jejich výpočtu není ustálen, resp. používají různí astrologové různé metody. Těchto dvanáct domů slouží k určení oblastí, ve kterých se ostatní prvky horoskopu (tedy hlavně planety ve vzájemných aspektech a v postaveních ve znameních) budou uplatňovat. Např. 7. dům je spojován s partnerem, společníkem, veřejností. 10. dům s kariérou, s vyniknutím atd. atd.
+
+Je ještě mnoho dalšího s čím astrologie pracuje – měsíční uzle, Černá luna, tvary horoskopu, živly, arabské body, kvality jednotlivých stupňů, retrogradity planet, vládci, recepce a mnoho, mnoho dalšího. Neexistuje jen horoskop narození, ale je mnoho typů horoskopů dalších, které slouží k prognózám, kdy se osudové potenciály zrození budou realizovat. Dále horoskopy porovnávací, které slouží k identifikaci vztahů osob, horoskopy času položení otázky, solární, lunární, horoskopy států, věcí, událostí atd.
+
+Vrcholným uměním astrologie je z jednotlivých prvků nechat vystoupit individuální povahu a osud jedince, jehož horoskop se analyzuje. To vyžaduje nejen práci s mnoha pravidly o dominantách, vyhodnocování důležitosti nebo nevýznamnosti jednotlivostí, ale hlavně intuitivní schopnost pochopení, která teprve vytváří individuální výklad horoskopu.</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+138,Vědy,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Matematika
+
+Fyzika
+
+Chemie
+
+Astronomie
+
+Filozofie
+
+Kvantová teorie
+</rich_text><rich_text>
+Věda a výzkum </rich_text><rich_text link=""webs http://www.veda.cz/"">http://www.veda.cz/</rich_text><rich_text>
+Science world </rich_text><rich_text link=""webs http://www.scienceworld.cz/"">http://www.scienceworld.cz/</rich_text><rich_text>
+Science geek </rich_text><rich_text link=""webs http://www.sciencegeek.net/"">http://www.sciencegeek.net/</rich_text><rich_text>
+časopis 21. století </rich_text><rich_text link=""webs https://21stoleti.cz/"">https://21stoleti.cz/</rich_text><rich_text>
+časopis Natura </rich_text><rich_text link=""webs http://natura.baf.cz/natura/"">http://natura.baf.cz/natura/</rich_text><rich_text>
+
+Techmania Science Center Plzeň </rich_text><rich_text link=""webs https://techmania.cz/cs/"">https://techmania.cz/cs/</rich_text><rich_text>
+
+Tools
+Wolfram alpha </rich_text><rich_text link=""webs http://www.wolframalpha.com/"">http://www.wolframalpha.com/</rich_text><rich_text>
+Mega Converter </rich_text><rich_text link=""webs http://www.megaconverter.com/mega2/"">http://www.megaconverter.com/mega2/</rich_text><rich_text>
+Table of tables </rich_text><rich_text link=""webs http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/ttab.html"">http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/ttab.html</rich_text><rich_text>
+Handbook of Chemistry &amp; Physics </rich_text><rich_text link=""webs http://hbcponline.com"">http://hbcponline.com</rich_text><rich_text>
+Draw a Symbol </rich_text><rich_text link=""webs http://www.mausr.com/"">http://www.mausr.com/</rich_text><rich_text>
+
+The universe zoom </rich_text><rich_text link=""webs http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/"">http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1534915225.0989997
+48,Matematika,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1665528079
+180,Čísla,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Přirozená - N
+</rich_text><rich_text>nezáporná, nenulová (1; 2; 3; 4; ...)</rich_text><rich_text scale=""h2"">
+Celá - Z
+</rich_text><rich_text>N + záporná přirozená (-1; -2; ...) a {0}</rich_text><rich_text scale=""h2"">
+Racionální - Q
+</rich_text><rich_text>Z + ryze lomená (1/2; 2,5; ...)</rich_text><rich_text scale=""h2"">
+Reálná - R
+</rich_text><rich_text>Q + iracionální (sqrt(2); pi(), ...)</rich_text><rich_text scale=""h2"">
+Komplexní - C</rich_text><rich_text>
+R + imaginární (i; 3i)</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+181,Číslicové soustavy,"<?xml version=""1.0"" ?><node><rich_text>Dvojková (Binární)
+
+Trojková
+
+Čtyřková
+
+Pětková
+
+Šestková
+
+Sedmičková
+
+Osmičková
+
+Devítková
+
+Desítková</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+202,Algebra,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+203,Geometrie,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+190,Goniometrie,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1497290250.805627
+49,Fyzika,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1665528030
+204,Mechanika těles,"<?xml version=""1.0"" ?><node><rich_text>Těleso má dvě základní vlastnosti:
+• hmotnost
+• hustota
+
+</rich_text><rich_text scale=""h2"">Pohyb</rich_text><rich_text>
+Základní vlastnost hmoty
+Rychlost = míra pohybu
+</rich_text><rich_text scale=""h3"">Přímočarý (rovnoměrný)</rich_text><rich_text scale=""h2"">
+</rich_text><rich_text>
+</rich_text><rich_text scale=""h3"">Křivočarý</rich_text><rich_text scale=""h2"">
+</rich_text><rich_text>
+</rich_text><rich_text scale=""h3"">Zrychlení</rich_text><rich_text> - Při rovnoměrném zvětšování rychlosti
+</rich_text><rich_text scale=""h2"">Síla
+</rich_text><rich_text>Uvádí těleso do pohybu
+Zvětšuje/změnšuje jeho rychlost</rich_text><rich_text scale=""h2"">
+Tíha
+Práce
+</rich_text><rich_text>Těleso koná práci pokud působí silou a přemisťuje těleso po dráze</rich_text><rich_text scale=""h2"">
+Výkon
+</rich_text><rich_text>Práce vykonaná za jednotku času (1s)</rich_text><rich_text scale=""h2"">
+Účinnost
+</rich_text><rich_text>Práce vykonaná
+-----------------------   v [%]
+Práce   dodaná</rich_text><rich_text scale=""h2"">
+Energie</rich_text><rich_text>
+1. Pohybová (kinetická)
+2. Polohová (potencionální)</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+195,Vlnění,"<?xml version=""1.0"" ?><node><rich_text>Prostředí = látka, v níž se vlnění síří
+Rozruch = změna některého parametru prostředí
+Parametry = hustota, výchylka částic z rovnovážné polohy
+Vlnění = proces šíření rozruchu v prostředí
+Vlna = šířící se rozruch (i neperiodický)
+Harmonická vlna = periodický rozruch
+Vlnová délka pro harmonické vlny
+Stojaté vlnění:
+1. Uzly - minimální výchylky
+2. Kmity - maximální výchylky
+
+Světlo
+Barvy
+Akustika
+Termika</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+198,Elektřina,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+199,Magnetismus,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+50,Chemie,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1665527898
+191,Obecná chemie,"<?xml version=""1.0"" ?><node><rich_text>Základní chemické pojmy, vzorce, rovnice
+Klasifikace chemických reakcí
+Homogenní a heterogenní směsi
+Chemická kinetika, chemická rovnováha
+Energetika chemických reakcí
+Reakce protolytické a Redoxní
+Jádro atomu a radioaktivita
+Elektronový obal atomu
+Periodická soustava prvků
+Chemická vazba
+Krystalová teorie a struktura látek</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+192,Anorganická chemie,"<?xml version=""1.0"" ?><node><rich_text>Názvosloví anorganických sloučenin
+Vodík a jeho sloučeniny
+Prvky s1 - alkalické kovy
+Prvky s2 - kovy alkalických zemin
+Prvky p1 - triely
+Prvky p2 - tetrely
+Prvky p3 - pentely
+Prvky p4 - chalkogeny
+Prvky p5 - halogeny
+Přechodné prvky
+Elektrolýza
+Beketova řada
+Prvky I.B a II. B skupiny
+Prvky III.B - VII.B skupiny
+Triády VIII.B skupiny
+Vzácné plyny
+Lanthanoidy a aktionoidy
+Chemické výpočty</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+51,Organická chemie,"<?xml version=""1.0"" ?><node><rich_text>Předmět a základní pojmy organické chemie
+Klasifikace organických sloučenin, typy reakcí, izometrie
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+52,Biochemie,"<?xml version=""1.0"" ?><node><rich_text>Oxytocin</rich_text><rich_text link=""webs https://today.duke.edu/2016/09/oxytocin-enhances-spirituality-new-study-says"">https://today.duke.edu/2016/09/oxytocin-enhances-spirituality-new-study-says</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1534580043.647
+257,Fyzikální chemie,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+316,Aparatura,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+317,Syntéza,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+32,Astronomie,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>Aladin atlas
+</rich_text><rich_text link=""webs http://aladin.u-strasbg.fr/"">http://aladin.u-strasbg.fr/</rich_text><rich_text>
+
+</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1665527600
+194,Sluneční soustava,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>Merkur
+Venuše
+Země
+Mars
+Jupiter
+Saturn
+Uran
+Neptun
+Pluto</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1661869299
+178,Planety,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1661869306
+31,Filozofie,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1665527629
+30,Kvantová teorie,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>W</rich_text><rich_text link=""webs http://www.quantum-mechanics.net/"">http://www.quantum-mechanics.net/</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1665527513
+179,Elementární částice,"<?xml version=""1.0"" ?><node><rich_text>Nejjednoduší hmotné objekty, kterými je tvořena libovolná látka, pole, hmota.</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+139,Technologie,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Materiály
+</rich_text><rich_text>asa</rich_text><rich_text scale=""h2"">
+Nástroje
+</rich_text><rich_text>Domácí
+Zahrada
+Hudba
+Optika
+Mechanika
+
+</rich_text><rich_text scale=""h2"">Energie
+</rich_text><rich_text>sas</rich_text><rich_text scale=""h2"">
+Data
+</rich_text><rich_text>saa</rich_text><rich_text scale=""h2"">
+Stavby
+</rich_text><rich_text>asa</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+3,Materiály,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+24,Přírodní,"<?xml version=""1.0"" ?><node><rich_text>Kameny
+Dřevo
+ETC...</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+29,Umělé,"<?xml version=""1.0"" ?><node><rich_text>Flexinol - drát co se teplotně roztahuje s pamětí
+</rich_text><rich_text link=""webs http://smartwires.eu/index.php?id_category=7&amp;controller=category&amp;id_lang=1"">http://smartwires.eu/index.php?id_category=7&amp;controller=category&amp;id_lang=1</rich_text><rich_text>
+
+
+Chemtrails
+</rich_text><rich_text link=""webs http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011/meta#erlaa34f6s3"">http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011/meta#erlaa34f6s3</rich_text><rich_text>
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+38,Toxikologie,"<?xml version=""1.0"" ?><node><rich_text>
+THC dermal intake
+</rich_text><rich_text link=""webs http://www.testpledge.com/PDF/Transdermal_THC_final.PDF"">http://www.testpledge.com/PDF/Transdermal_THC_final.PDF</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+1,Nástroje,"<?xml version=""1.0"" ?><node><rich_text>
+How to free frozen bolt </rich_text><rich_text link=""webs http://makezine.com/2016/11/21/how-to-free-frozen-bolts-nuts-and-screws/"">http://makezine.com/2016/11/21/how-to-free-frozen-bolts-nuts-and-screws/</rich_text><rich_text>
+
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+265,Domácí,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+253,Zahrada,"<?xml version=""1.0"" ?><node><rich_text>Zahradní nástroje
+Sečení
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1495823512.522142
+141,Hudba,"<?xml version=""1.0"" ?><node><rich_text link=""webs http://electronics.stackexchange.com/questions/182022/is-sound-produced-by-varying-current-or-voltage"">http://electronics.stackexchange.com/questions/182022/is-sound-produced-by-varying-current-or-voltage</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+120,Optika,"<?xml version=""1.0"" ?><node><rich_text>Teleskop
+
+LED Diody
+</rich_text><rich_text link=""webs http://www.soselectronic.cz/optoelektronicke-a-zobrazovaci-prvky/e2030-led-diody-vykonove"">http://www.soselectronic.cz/optoelektronicke-a-zobrazovaci-prvky/e2030-led-diody-vykonove</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.dx.com/s/led%2bgrow?PriceSort=up"">http://www.dx.com/s/led%2bgrow?PriceSort=up</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://www.ebay.com/itm/Aquarium-Plant-SMD-LED-Grow-Light-Part-4-1-Red-660nm-Blue-445nm-50W-1000LM-/301325928803?pt=LH_DefaultDomain_0&amp;hash=item46286cc963"">http://www.ebay.com/itm/Aquarium-Plant-SMD-LED-Grow-Light-Part-4-1-Red-660nm-Blue-445nm-50W-1000LM-/301325928803?pt=LH_DefaultDomain_0&amp;hash=item46286cc963</rich_text><rich_text> 
+ŠUPA RED/BLUE
+
+nakupy 
+</rich_text><rich_text link=""webs http://www.i4wifi.cz/usporna-zarovka-led-3x-mr16-gu5-3-neutralni-bila-4-w-12-v-_d2757.html"">http://www.i4wifi.cz/usporna-zarovka-led-3x-mr16-gu5-3-neutralni-bila-4-w-12-v-_d2757.html</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.i4wifi.cz/usporna-zarovka-led-21x-mr16-gu5-3-studena-bila-4-w-12-v-_d3348.html"">http://www.i4wifi.cz/usporna-zarovka-led-21x-mr16-gu5-3-studena-bila-4-w-12-v-_d3348.html</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.i4wifi.cz/usporna-zarovka-led-24x-mr16-gu5-3-studena-bila-2-w-12-v-_d3341.html"">http://www.i4wifi.cz/usporna-zarovka-led-24x-mr16-gu5-3-studena-bila-2-w-12-v-_d3341.html</rich_text><rich_text> 
+
+Halogeny
+</rich_text><rich_text link=""webs http://www.alza.cz/osram-decostar-20w-halogenova-gu5-3-d121408.htm"">http://www.alza.cz/osram-decostar-20w-halogenova-gu5-3-d121408.htm</rich_text><rich_text>
+
+teleskop 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/teleskop-messier-r-80/specifikace/"">http://dalekohledy.heureka.cz/teleskop-messier-r-80/specifikace/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/celestron-ambassador-80az/"">http://dalekohledy.heureka.cz/celestron-ambassador-80az/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/celestron-nexstar-127-slt-127-1500mm/"">http://dalekohledy.heureka.cz/celestron-nexstar-127-slt-127-1500mm/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/celestron-astromaster-130-eq/"">http://dalekohledy.heureka.cz/celestron-astromaster-130-eq/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/celestron-astromaster-90-eq/"">http://dalekohledy.heureka.cz/celestron-astromaster-90-eq/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://dalekohledy.heureka.cz/celestron-astromaster-70-az/"">http://dalekohledy.heureka.cz/celestron-astromaster-70-az/</rich_text><rich_text> 
+ 
+</rich_text><rich_text link=""webs http://eshop.fomei.com/cz/kategorie/dalekohledy/specialni-teleskopy/"">http://eshop.fomei.com/cz/kategorie/dalekohledy/specialni-teleskopy/</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.astro-forum.cz/cgi-bin/yabb/YaBB.pl?board=astrofoto2"">http://www.astro-forum.cz/cgi-bin/yabb/YaBB.pl?board=astrofoto2</rich_text><rich_text> 
+ 
+</rich_text><rich_text link=""webs http://www.celestron.cz/"">http://www.celestron.cz/</rich_text><rich_text> 
+ 
+tyto2 
+</rich_text><rich_text link=""webs http://www.supra-dalekohledy.cz/dalekohled-celestron-21063-astromaster-90-1000mm-az-cdd-3-3535.html"">http://www.supra-dalekohledy.cz/dalekohled-celestron-21063-astromaster-90-1000mm-az-cdd-3-3535.html</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.supra-dalekohledy.cz/dalekohled-celestron-22087-nexstar-90-slt-mak-90-1250mm-cdd-3-3762.html"">http://www.supra-dalekohledy.cz/dalekohled-celestron-22087-nexstar-90-slt-mak-90-1250mm-cdd-3-3762.html</rich_text><rich_text> 
+ 
+ 
+</rich_text><rich_text link=""webs http://www.dalekohledy.cz/webmagazine/home.asp?idk=1"">http://www.dalekohledy.cz/webmagazine/home.asp?idk=1</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.dalekohledy.cz/webmagazine/products.asp?idk=195"">http://www.dalekohledy.cz/webmagazine/products.asp?idk=195</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.dalekohledy.cz/webmagazine/products.asp?idk=338"">http://www.dalekohledy.cz/webmagazine/products.asp?idk=338</rich_text><rich_text> 
+ 
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1495823651.7894063
+236,Mechanika,"<?xml version=""1.0"" ?><node><rich_text>Funkce hodinek
+</rich_text><rich_text link=""webs https://www.hodinky-damske-panske.cz/hodinarsky-slovnik/funkce-hodinek/"">https://www.hodinky-damske-panske.cz/hodinarsky-slovnik/funkce-hodinek/</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+249,Laboratorní,"<?xml version=""1.0"" ?><node><rich_text>
+Hydroflux </rich_text><rich_text link=""webs http://www.hydrofluxutilities.com.au/chemical-supply/"">http://www.hydrofluxutilities.com.au/chemical-supply/</rich_text><rich_text>
+
+Silice a jejich zpracování </rich_text><rich_text link=""webs http://www.tech-info.cz/parfumerie/silice.html"">http://www.tech-info.cz/parfumerie/silice.html</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+255,Transport,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+250,Elektro,"<?xml version=""1.0"" ?><node><rich_text>Cosmic rays interference
+</rich_text><rich_text link=""webs https://science.slashdot.org/story/17/02/19/2330251/serious-computer-glitches-can-be-caused-by-cosmic-rays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"">https://science.slashdot.org/story/17/02/19/2330251/serious-computer-glitches-can-be-caused-by-cosmic-rays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</rich_text><rich_text>
+
+
+Zvukove
+
+Kamery
+
+</rich_text><rich_text link=""node 100"">OneBoards</rich_text><rich_text>
+• Arduino
+• Cubietruck
+• Cubieboard
+• </rich_text><rich_text link=""node 105"">RaspberryPi</rich_text><rich_text>
+• Pine64
+• CHIP
+• Tessel
+
+Routers
+
+</rich_text><rich_text link=""node 123"">HomeAutomation</rich_text><rich_text>
+
+Desktop
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,1495823795.097447
+4,Energie,"<?xml version=""1.0"" ?><node><rich_text>
+</rich_text><rich_text link=""webs http://www.plathome.com/casestudy/wlw_utility.html"">http://www.plathome.com/casestudy/wlw_utility.html</rich_text><rich_text>
+
+Kavitační turbína
+</rich_text><rich_text link=""webs http://www.jtresnak.com/index.php?p=5"">http://www.jtresnak.com/index.php?p=5</rich_text><rich_text> 
+</rich_text><rich_text link=""webs http://www.energoportal.cz/forum/tepelna-cerpadla/kavitacni-vytapeni-47623/?stranka_oblast="">http://www.energoportal.cz/forum/tepelna-cerpadla/kavitacni-vytapeni-47623/?stranka_oblast=</rich_text><rich_text>
+
+Solar
+</rich_text><rich_text link=""webs http://www.i4wifi.cz/Alternativni-napajeni/Solarni-panel-DAY4-Flexible-Poly-80-Wp-GSP-80Q-MPPT-10V-EUFREE.html"">http://www.i4wifi.cz/Alternativni-napajeni/Solarni-panel-DAY4-Flexible-Poly-80-Wp-GSP-80Q-MPPT-10V-EUFREE.html</rich_text><rich_text>
+
+Čerpadla povrchová - zahradní
+</rich_text><rich_text link=""webs http://www.noto.cz/zahrada/zahradni-technika/zahradni-cerpadla/povrchova-zahradni-cerpadla/"">http://www.noto.cz/zahrada/zahradni-technika/zahradni-cerpadla/povrchova-zahradni-cerpadla/</rich_text><rich_text>
+
+Chladiče
+</rich_text><rich_text link=""webs http://www.soselectronic.cz/?str=1466&amp;article=ebm-papst-potrebujete-radikalni-reseni-vetrani-nebo-chlazeni"">http://www.soselectronic.cz/?str=1466&amp;article=ebm-papst-potrebujete-radikalni-reseni-vetrani-nebo-chlazeni</rich_text><rich_text>
+
+Baterie
+</rich_text><rich_text link=""webs http://www.i4wifi.cz/Baterie-a-nabijeni/"">http://www.i4wifi.cz/Baterie-a-nabijeni/</rich_text><rich_text>
+
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+140,Orgon,"<?xml version=""1.0"" ?><node><rich_text link=""webs http://paprsky1.com/chemtrails-_cloudbuster/orgonit_-_cloudbuster_-_vyroba/orgonit_-_cloudbuster_-_vyroba_.html"">http://paprsky1.com/chemtrails-_cloudbuster/orgonit_-_cloudbuster_-_vyroba/orgonit_-_cloudbuster_-_vyroba_.html</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+163,Alternativní,"<?xml version=""1.0"" ?><node><rich_text>CO2 to create electricity
+</rich_text><rich_text link=""webs http://www.eurekalert.org/pub_releases/2016-08/cu-csc080416.php"">http://www.eurekalert.org/pub_releases/2016-08/cu-csc080416.php</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+187,Sluneční,"<?xml version=""1.0"" ?><node><rich_text>Sluneční kolektrory</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+188,Větrné,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+189,Vodní,"<?xml version=""1.0"" ?><node><rich_text>Možno využívat rozdílů nadmořských výšek u toků</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+193,Jaderná,"<?xml version=""1.0"" ?><node><rich_text>Energie vyvinutá reaktorem (teplo) využita na výrobu:
+1. Páry v parním generátoru, která pohání turbíny
+2. protékající voda odebírá teplo z aktivní reaktorové zóny</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+2,Data,"<?xml version=""1.0"" ?><node><rich_text scale=""h1"">OS (Operating Systems)</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h1"">Database</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h1"">Software</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h1"">Programming</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h1"">Networking</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+5,OS,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Microsoft</rich_text><rich_text>
+MS-DOS
+MS Windows (...,XP, Vista, 7, 8, 10)
+MS Windows Phone
+
+</rich_text><rich_text scale=""h2"">Unix</rich_text><rich_text>
+Solaris
+Linux
+GNOME vs MATE vs KDE
+
+</rich_text><rich_text scale=""h2"">Editions</rich_text><rich_text>
+Mandriva
+Debian
+Mint
+Ubuntu
+Fedora
+...
+
+</rich_text><rich_text scale=""h2"">Apple</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h2"">Virtual platforms</rich_text><rich_text>
+VMWare
+VirtaulBox
+Hyper V
+
+Android
+KODI(XBMC)
+Online Plaforms, Clouds ... </rich_text><rich_text link=""webs http://www.pcmag.com/roundup/306323/the-best-cloud-storage-providers-and-file-syncing-services"">http://www.pcmag.com/roundup/306323/the-best-cloud-storage-providers-and-file-syncing-services</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+171,Database,"<?xml version=""1.0"" ?><node><rich_text>Big Three
+Oracle
+SAP
+SQL Server
+ 
+Most popular </rich_text><rich_text link=""webs http://db-engines.com/en/ranking"">http://db-engines.com/en/ranking</rich_text><rich_text>
+
+MySQL
+SQLite
+PostgreSQL
+
+Redis
+MariaDB </rich_text><rich_text link=""webs https://mariadb.org/"">https://mariadb.org/</rich_text><rich_text>
+MongoDB
+ 
+ValentinaDB </rich_text><rich_text link=""webs http://www.valentina-db.com/en/"">http://www.valentina-db.com/en/</rich_text><rich_text>
+
+MS Access
+
+SQL Alchemy</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+6,Software,"<?xml version=""1.0"" ?><node><rich_text scale=""h1"">Mapoaplikace</rich_text><rich_text>
+ArcGIS
+QGIS
+PostGIS
+OpenJUMP
+CAD (Autocad)
+EPANET
+OpenLayers
+Google Earth
+Geocoding
+</rich_text><rich_text scale=""h1"">Měření, zkoumání</rich_text><rich_text>
+Network
+Data Connection
+Memory / Storage
+CPU
+Graphics
+Data Analysis / Visualization
+
+</rich_text><rich_text scale=""h2"">Windows monitoring</rich_text><rich_text>
+Autoruns
+ProcessExplorer
+
+</rich_text><rich_text scale=""h2"">Linux monitoring</rich_text><rich_text>
+top
+htop
+</rich_text><rich_text scale=""h1"">Textové programy</rich_text><rich_text>
+Textové editory (PSPad, EditPad, NotePad++,... )
+Textové procesory (Word, Libre write)
+Tabulkové procesory
+Notekeeping
+Advanced (EPUB, IPYNB, MarkDown)
+Prohlížeče (DocReader, WinDJVU, Nfo\Diz viewery, EPUB, CBR)
+PDF Tools
+Mapy znaků
+OCR (Character Recognition)
+
+Konvertory
+Listingy
+Syncing
+</rich_text><rich_text scale=""h1"">Multimedia</rich_text><rich_text>
+</rich_text><rich_text scale=""h2"">Obrázky
+</rich_text><rich_text>Obrázkové prohlížeče (ACDSee, Irfan View, FastStone, XnView...)
+Aplikace pro kreslení
+Vektorové apliakce (InkScape)
+</rich_text><rich_text scale=""h2"">Hudba</rich_text><rich_text>
+Hudební přehrávače (</rich_text><rich_text link=""webs http://www.foobar2000.org/"">FooBar2000</rich_text><rich_text>, </rich_text><rich_text link=""webs http://www.winamp.com/index.html"">WinAmp</rich_text><rich_text>, ...)
+Komplexní nástroje (MediaMonkey, Taggery, Úprava zvuku, ...)
+Vytváření hudby (Fruity Loops, Tracker music, Guitar Pro
+</rich_text><rich_text scale=""h2"">Multimedia</rich_text><rich_text>
+Prezentace
+Přehrávání videa (KMPlayer, ZoomPlayer
+Multimedia codecs
+Konverzní (Format Factory, Super (c), DVDFreeVideo Media Converter ...)
+</rich_text><rich_text scale=""h2"">Games</rich_text><rich_text>
+Adventury
+Akční
+...
+</rich_text><rich_text scale=""h2"">Komunikace</rich_text><rich_text>
+Textové (QIP, ICQ, ...)
+Video konference (Skype)
+</rich_text><rich_text scale=""h1"">Užitečné</rich_text><rich_text>
+Kalkulátory
+Slovníky a překladače
+
+Commanders and Folder Explorers
+Online services
+
+MindMaps
+
+Writing Virtual images
+
+Browsing
+Downloading
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+7,Programming,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Algoritmy</rich_text><rich_text>
+
+Methods
+Compiling
+
+</rich_text><rich_text scale=""h2"">Version Control</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h2"">OS Scripting</rich_text><rich_text>
+
+</rich_text><rich_text scale=""h2"">Programming languages</rich_text><rich_text>
+Unix/Linux Scripting (sh, ksh, bash, perl, ...)
+Windows Scripting (vbscript, powershell)
+C
+C++
+C#
+Visual Basic
+Python
+Actionscript / JavaScript
+Ajax
+Java
+RUBY
+
+...
+
+</rich_text><rich_text scale=""h2"">Web Dev</rich_text><rich_text>
+Javic (nodejs, npm, Web Components)
+HTML
+CSS
+PHP/MySQL
+Templating
+
+</rich_text><rich_text scale=""h2"">Web Server</rich_text><rich_text>
+Apache
+NGINX
+Lighttpd
+IIS
+ISPConfig
+
+Databases
+GIS Webserver
+
+XAMPP
+LAMP (MySQL) </rich_text><rich_text link=""webs https://www.turnkeylinux.org/lampstack"">https://www.turnkeylinux.org/lampstack</rich_text><rich_text>
+LAPP (PostgreSQL) </rich_text><rich_text link=""webs https://www.turnkeylinux.org/lapp"">https://www.turnkeylinux.org/lapp</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+8,Networking,"<?xml version=""1.0"" ?><node><rich_text scale=""h2"">Komunikace</rich_text><rich_text>
+Porty
+MAC Address
+
+Searching
+
+</rich_text><rich_text scale=""h2"">Security</rich_text><rich_text>
+Hacking
+</rich_text><rich_text scale=""h2"">File Sharing</rich_text><rich_text>
+SAMBA
+NAS
+windows sdileni
+Domains
+
+</rich_text><rich_text scale=""h2"">Neuron Networks</rich_text><rich_text>
+Tensor flow
+Brain simulator
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+175,Stavby,"<?xml version=""1.0"" ?><node><rich_text link=""webs http://www.toxel.com/tech/2016/06/23/hanging-tree-house/"">http://www.toxel.com/tech/2016/06/23/hanging-tree-house/</rich_text><rich_text>
+
+</rich_text><rich_text link=""webs http://bydleni.idnes.cz/levne-domy-z-polinek-0lq-/stavba.aspx?c=A150117_184553_stavba_rez"">http://bydleni.idnes.cz/levne-domy-z-polinek-0lq-/stavba.aspx?c=A150117_184553_stavba_rez</rich_text><rich_text>
+ 
+</rich_text><rich_text link=""webs http://bydleni.idnes.cz/rodinny-dum-ze-slamy-0ly-/stavba.aspx?c=A131123_125349_stavba_rez"">http://bydleni.idnes.cz/rodinny-dum-ze-slamy-0ly-/stavba.aspx?c=A131123_125349_stavba_rez</rich_text><rich_text>
+ 
+</rich_text><rich_text link=""webs http://bydleni.idnes.cz/rodinny-dum-zvladli-postavit-za-150-tisic-stacilo-mit-slamu-drevo-a-jil-125-/stavba.aspx?c=A091230_115057_stavba_web"">http://bydleni.idnes.cz/rodinny-dum-zvladli-postavit-za-150-tisic-stacilo-mit-slamu-drevo-a-jil-125-/stavba.aspx?c=A091230_115057_stavba_web</rich_text><rich_text>
+ 
+</rich_text><rich_text link=""webs http://bydleni.idnes.cz/sobestacny-rodinny-domek-za-600-000-dnh-/stavba.aspx?c=A130831_192339_stavba_rez"">http://bydleni.idnes.cz/sobestacny-rodinny-domek-za-600-000-dnh-/stavba.aspx?c=A130831_192339_stavba_rez</rich_text><rich_text>
+ 
+Málo peněz
+</rich_text><rich_text link=""webs http://www.rozhlas.cz/dvojka/kupredudominulosti/_zprava/rika-se-ze-hodne-penez-vas-cini-svobodnym-ja-tvrdim-ze-jsem-svobodny-protoze-nemam-slozenky-a-potrebuji-malo--1453730"">http://www.rozhlas.cz/dvojka/kupredudominulosti/_zprava/rika-se-ze-hodne-penez-vas-cini-svobodnym-ja-tvrdim-ze-jsem-svobodny-protoze-nemam-slozenky-a-potrebuji-malo--1453730</rich_text><rich_text>
+</rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+9,Domy,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+10,Infrastruktura,"<?xml version=""1.0"" ?><node><rich_text></rich_text></node>",custom-colors,,0,1,0,0,0,0,0,0
+328,Fyzicko-geografická sféra,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node><rich_text>Fyzicko-Geografická sféra
+
+• Litosféra
+• Atmosféra
+• Hydrosféra
+• Pedosféra
+• Biosféra
+
+
+</rich_text></node>
+",custom-colors,,0,1,0,0,0,0,0,1661869242
+333,Vesmírné cykly,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1661869287
+39,Toxikologie,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1661869276
+246,Celky,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<node/>
+",custom-colors,,0,1,0,0,0,0,0,1665528225

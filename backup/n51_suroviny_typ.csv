@@ -1,0 +1,19 @@
+ID,typ_cat,typ_cz,typ_en
+0,1,ovoce,Fruit
+1,1,zelenina,Vegetable
+2,1,"ořechy, semínka",Nuts & Seed
+3,1,luštěniny,Legume
+4,1,houby,Fungus
+5,1,obiloviny,Cereal
+6,1,"těstoviny, nudle, knedlíky",Dish
+7,1,pečivo,Bakery
+8,1,rostlinné oleje a tuky,Essential Oil
+9,2,mléčné,Dairy
+10,2,ryby,Fish
+11,,,
+12,2,maso,Meat
+13,1,byliny,Plant
+14,3,nápoje,Beverage
+15,3,nápoje alkoholické,Beverage Alcoholic
+16,1,koření,Spice
+17,4,dochucovadla,Additive
