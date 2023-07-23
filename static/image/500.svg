@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100%" viewBox="0 0 200 200">
+  <polygon
+    fill="blue"
+    stroke-width="1"
+    points="100,10 40,198 190,78 10,78 160,198"
+  />
+</svg>
