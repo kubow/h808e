@@ -2,20 +2,16 @@
   import { onMount } from "svelte";
   import Clock from "./Clock.svelte"; //TODO: Clock na small zobrazit jako ikonu hodin
   import Burger from "./Burger.svelte"; //Burger zustane porad stejny
+  import Search from "./Search.svelte";
   import Logo from "./Logo.svelte"; //TODO: Jen siroke
   import Moon from "./Moon.svelte";
   import enc from "$lib/store/enc.json";
-  import Popover from "svelte-popover";
 
   export let sidebar = false;
   /**
    * @type {string}
    */
   export let query; //vyhledavani v h808e
-  /**
-   * @type {any}
-   */
-  export let handleSubmit;
 
   /**
    * @type {any[]}
@@ -64,39 +60,7 @@
 
 <header id="menu">
   <div class="f-none"><Burger bind:open={sidebar} /></div>
-  <div class="f-auto">
-    <Popover
-      arrowColor="#fff"
-      overlayColor="rgba(0,0,0,0.5)"
-      placement="bottom-center"
-    >
-      <div slot="target" class="search">
-        <form class="search-form" on:submit|preventDefault={handleSubmit}>
-          <input
-            bind:value={query}
-            class="search-input"
-            type="search"
-            placeholder="Search H808E"
-          />
-        </form>
-      </div>
-      <div slot="content" class="content">
-        <select bind:value={l2}>
-          {#await l2}
-            <p>...waiting</p>
-          {:then l2}
-            <p>hey</p>
-            {#each l2 as option}
-              <option value={option.name}>{option.code}</option>
-            {/each}
-          {:catch error}
-            <p style="color: red">{error.message}</p>
-          {/await}
-        </select>
-      </div>
-      <!-- <input type="text" bind:value={$h808e}> -->
-    </Popover>
-  </div>
+  <div class="f-auto"><Search /></div>
   <div class="f-auto"><Logo /></div>
   <div class="f-none"><Moon /></div>
   <div class="f-none"><Clock /></div>
@@ -126,18 +90,5 @@
   .f-auto {
     flex: auto;
     background: none;
-  }
-  .search-input {
-    width: 100%;
-    max-width: 800px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    padding: 10px 20px;
-    font-size: 20px;
-  }
-
-  .content {
-    padding: 10px;
-    background: #fff;
   }
 </style>

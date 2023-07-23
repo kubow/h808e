@@ -1,7 +1,7 @@
 <script>
   import { onMount } from "svelte";
   import { h808e } from "$lib/stores";
-  import Popover from "svelte-popover";
+  import Popover from "$lib/Popover.svelte";
   import calendar from "$lib/store/calendar.json";
 
   let date = new Date();
@@ -82,19 +82,24 @@
 </script>
 
 <section>
-  <Popover arrowColor="#fff" action="hover" placement="bottom-start">
+  <Popover
+    arrowColor="#fff"
+    action="hover"
+    placement="bottom-start"
+    overlayColor="black"
+  >
     <div slot="target" class="clockWrapper">
       <p class="clockDisplay">
         {day}. {month}. {year} <br />
         {hour} : {min} : {sec}
         {dayOrNight}
-        <!-- <span class="tooltip-wrapper">
+        <span class="tooltip-wrapper">
           <span class="tooltip">
             {#each today as line}
               <p>{line}</p>
             {/each}
           </span>
-        </span> -->
+        </span>
       </p>
     </div>
     <div slot="content" class="tooltip">
