@@ -1,142 +1,272 @@
 [
-    {
-        "ID": 1,
-        "field_name": "home",
-        "val_cz": "Domu",
-        "val_de": null,
-        "val_en": "Home"
-    },
-    {
-        "ID": 2,
-        "field_name": "stone",
-        "val_cz": "Kamenar",
-        "val_de": null,
-        "val_en": "Stones"
-    },
-    {
-        "ID": 3,
-        "field_name": "plant",
-        "val_cz": "Herbar",
-        "val_de": null,
-        "val_en": "Plants"
-    },
-    {
-        "ID": 4,
-        "field_name": "anima",
-        "val_cz": "Animar",
-        "val_de": null,
-        "val_en": "Animal"
-    },
-    {
-        "ID": 5,
-        "field_name": "planet",
-        "val_cz": "Planety",
-        "val_de": null,
-        "val_en": "Planets"
-    },
-    {
-        "ID": 6,
-        "field_name": "calc",
-        "val_cz": "Kalkulátor",
-        "val_de": null,
-        "val_en": "Calculator"
-    },
-    {
-        "ID": 7,
-        "field_name": "rest",
-        "val_cz": "Restaurace",
-        "val_de": null,
-        "val_en": "Restaurant"
-    },
-    {
-        "ID": 8,
-        "field_name": "database",
-        "val_cz": "Databáze",
-        "val_de": null,
-        "val_en": "Databse"
-    },
-    {
-        "ID": 9,
-        "field_name": "rss",
-        "val_cz": "RSS",
-        "val_de": null,
-        "val_en": "RSS"
-    },
-    {
-        "ID": 10,
-        "field_name": "radio",
-        "val_cz": "Radio",
-        "val_de": null,
-        "val_en": "Radio"
-    },
-    {
-        "ID": 11,
-        "field_name": "maps",
-        "val_cz": "Mapy",
-        "val_de": null,
-        "val_en": "Mapping"
-    },
-    {
-        "ID": 12,
-        "field_name": "test",
-        "val_cz": "Testovací",
-        "val_de": null,
-        "val_en": "Testing"
-    },
-    {
-        "ID": 13,
-        "field_name": "shop",
-        "val_cz": "Nakupovat",
-        "val_de": null,
-        "val_en": "Shop"
-    },
-    {
-        "ID": 14,
-        "field_name": "search",
-        "val_cz": "Hledat",
-        "val_de": null,
-        "val_en": "Search"
-    },
-    {
-        "ID": 15,
-        "field_name": "pass",
-        "val_cz": "Nutno zadat heso",
-        "val_de": null,
-        "val_en": "Enter password"
-    },
-    {
-        "ID": 16,
-        "field_name": "today",
-        "val_cz": "Dnes",
-        "val_de": null,
-        "val_en": "Today"
-    },
-    {
-        "ID": 17,
-        "field_name": "is",
-        "val_cz": "je",
-        "val_de": null,
-        "val_en": "is"
-    },
-    {
-        "ID": 18,
-        "field_name": "name",
-        "val_cz": "má svátek ",
-        "val_de": null,
-        "val_en": "celebrates"
-    },
-    {
-        "ID": 19,
-        "field_name": "week",
-        "val_cz": "Týden",
-        "val_de": null,
-        "val_en": "Week"
-    },
-    {
-        "ID": 20,
-        "field_name": "day",
-        "val_cz": "Den v roce",
-        "val_de": null,
-        "val_en": "Day in year"
-    }
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 1,
+    "ID": "1",
+    "field_name": "home",
+    "val_en": "Home",
+    "val_cz": "Domu",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 2,
+    "ID": "2",
+    "field_name": "stone",
+    "val_en": "Stones",
+    "val_cz": "Kamenar",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 3,
+    "ID": "3",
+    "field_name": "plant",
+    "val_en": "Plants",
+    "val_cz": "Herbar",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 4,
+    "ID": "4",
+    "field_name": "anima",
+    "val_en": "Animal",
+    "val_cz": "Animar",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 5,
+    "ID": "5",
+    "field_name": "planet",
+    "val_en": "Planets",
+    "val_cz": "Planety",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 6,
+    "ID": "6",
+    "field_name": "calc",
+    "val_en": "Calculator",
+    "val_cz": "Kalkulátor",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 7,
+    "ID": "7",
+    "field_name": "rest",
+    "val_en": "Restaurant",
+    "val_cz": "Restaurace",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 8,
+    "ID": "8",
+    "field_name": "database",
+    "val_en": "Database",
+    "val_cz": "Databáze",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 9,
+    "ID": "9",
+    "field_name": "rss",
+    "val_en": "RSS",
+    "val_cz": "RSS",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 10,
+    "ID": "10",
+    "field_name": "music",
+    "val_en": "Music",
+    "val_cz": "Hudba",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 11,
+    "ID": "11",
+    "field_name": "maps",
+    "val_en": "Mapping",
+    "val_cz": "Mapy",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 12,
+    "ID": "12",
+    "field_name": "test",
+    "val_en": "Testing",
+    "val_cz": "Testovací",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 13,
+    "ID": "13",
+    "field_name": "shop",
+    "val_en": "Shop",
+    "val_cz": "Nakupovat",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 14,
+    "ID": "14",
+    "field_name": "search",
+    "val_en": "Search",
+    "val_cz": "Hledat",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 15,
+    "ID": "15",
+    "field_name": "pass",
+    "val_en": "Enter password",
+    "val_cz": "Nutno zadat heso",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 16,
+    "ID": "16",
+    "field_name": "today",
+    "val_en": "Today",
+    "val_cz": "Dnes",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 17,
+    "ID": "17",
+    "field_name": "is",
+    "val_en": "is",
+    "val_cz": "je",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 18,
+    "ID": "18",
+    "field_name": "name",
+    "val_en": "celebrates",
+    "val_cz": "má svátek ",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 19,
+    "ID": "19",
+    "field_name": "week",
+    "val_en": "Week",
+    "val_cz": "Týden",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 20,
+    "ID": "20",
+    "field_name": "day",
+    "val_en": "Day in year",
+    "val_cz": "Den v roce",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 21,
+    "ID": "21",
+    "field_name": "hello",
+    "val_en": "Hello",
+    "val_cz": "Vítej",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 22,
+    "ID": "22",
+    "field_name": "login",
+    "val_en": "Login",
+    "val_cz": "Přihlásit",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 23,
+    "ID": "23",
+    "field_name": "logout",
+    "val_en": "Logout",
+    "val_cz": "Odhlásit",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 24,
+    "ID": "24",
+    "field_name": "element",
+    "val_en": "Elements",
+    "val_cz": "Prvky",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 25,
+    "ID": "25",
+    "field_name": "material",
+    "val_en": "Materials",
+    "val_cz": "Suroviny",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 26,
+    "ID": "26",
+    "field_name": "cite",
+    "val_en": "Cites",
+    "val_cz": "Citáty",
+    "val_de": ""
+  },
+  {
+    "_sdc_source_file": "./backup/language.csv",
+    "_sdc_source_file_mtime": "2023-06-10T00:11:39.397309+00:00",
+    "_sdc_source_lineno": 27,
+    "ID": "27",
+    "field_name": "radio",
+    "val_en": "Radio",
+    "val_cz": "Rádio",
+    "val_de": ""
+  }
 ]
