@@ -1,0 +1,67 @@
+ID,ename,developer,language,category,estor_tran,estor_anal,estor_dwh,estor_intg,website,e_win,e_lnx,e_unx,e_mac,edep_onprem,edep_cloud,open_source,eprice,free,security,openness,point
+1,SQLite,Dwayne Richard Hipp,C,1,1,0,0,0,https://www.sqlite.org/,1,1,1,1,1,0,1,0,1,5,1,embed RDBMS
+2,SQL Anywhere,SAP,,1,1,0,0,0,https://www.sap.com/products/sql-anywhere.html,1,1,1,1,1,0,0,,1,5,,RDBMS
+3,Adaptive Server Enterprise,SAP,C/C++,1,1,0,0,0,https://www.sap.com/products/sybase-ase.html,1,1,1,0,1,1,0,,1,5,,extreme OLTP
+4,Microsoft SQL Server,Microsoft,,1,1,0,0,0,https://www.microsoft.com/en-us/sql-server/,1,1,0,0,1,1,0,,0,5,,
+5,Oracle Database,Oracle Corporation,Assembly language/C/C++,1,1,0,0,0,https://oracle.com/database,1,1,1,0,1,1,0,,0,5,,
+6,MySQL,Oracle Corporation,C/C++,1,1,0,0,0,https://www.mysql.com/,1,1,1,1,1,0,1,0,1,5,,NoSQL
+7,PostgreSQL,PostgreSQL Global Development Group,C,1,1,0,0,0,https://www.postgresql.org/,1,1,1,1,1,0,1,0,1,5,,
+8,MongoDB,"MongoDB, Inc",C++,6,1,0,0,0,https://www.mongodb.com/,1,1,1,1,1,0,0,,,5,,JSON store
+9,Vantage,Teradata,,7,5,0,0,0,https://www.teradata.com/,1,1,1,0,1,0,0,,0,5,,
+10,DB2,IBM,Assembly language/C/C++,1,1,0,0,0,https://www.ibm.com/products/db2-database,0,1,1,0,1,0,0,,0,5,,
+11,HANA,SAP,,7,2,0,0,0,https://www.sap.com/products/hana.html,0,1,0,0,1,1,0,10000,1,7,,cloud platform
+12,IQ,SAP,C/C++,1,0,1,0,0,https://www.sap.com/products/sybase-iq-big-data-management.html,1,1,1,0,1,1,0,1000,1,5,,extreme OLAP
+13,Redis,Redis,C,6,1,0,0,0,https://redis.io/,1,1,1,1,1,0,0,,,5,,in-memory real-time
+14,ElasticSearch,Apache Software Foundation,Java,6,1,0,0,0,https://www.elastic.co/,1,1,1,1,1,0,0,,,5,,advanced search
+15,Cassandra,Apache Software Foundation,Java,1,0,0,1,0,https://gitbox.apache.org/repos/asf/cassandra.git,1,1,1,1,1,0,0,,,5,,NoSQL DWH platform 
+16,SnowFlake,,,1,0,1,1,0,https://www.snowflake.com/,1,1,1,1,1,0,0,,,5,,one platform many workloads
+17,Firebird,Firebird Foundation,C/C++,1,1,0,0,0,http://www.firebirdsql.org/,1,1,1,1,1,0,1,0,1,5,,
+18,Druid,Apache Software Foundation,Java,1,0,1,0,0,http://druid.io/downloads.html,1,1,1,1,1,0,0,,,5,,
+19,Couchbase,Apache Software Foundation,Erlang/C,6,0,0,1,0,https://github.com/couchbase/manifest,1,1,1,1,1,0,0,,,5,,NoSQL DWH platform 
+20,CouchDB,Apache Software Foundation,Erlang/JavaScript/C/C++,6,1,0,0,0,https://github.com/apache/couchdb,1,1,1,1,1,0,0,,,5,,NoSQL
+21,Scalaris,,,7,1,0,0,0,http://scalaris.zib.de/,1,1,1,1,1,0,0,,,5,,
+22,OrientDB,Apache Software Foundation,Java,5,1,1,0,0,http://orientdb.org/,1,1,1,1,1,0,0,,,5,,
+23,Neo4j,Neo4j,Java,5,1,1,0,0,https://neo4j.com/,1,1,1,1,1,0,0,,,5,,connecting data graphically
+24,HBase,Apache Software Foundation,Java,1,1,0,0,0,http://hbase.apache.org/,1,1,1,1,1,0,0,,0,5,,extreme OLTP (wide column store)
+25,Hypertable,Zvents Inc.,C++,1,1,0,0,0,https://www.hypertable.com/,1,1,1,1,1,0,0,,0,5,,faster smaller HBase
+26,S3,Amazon,,7,0,0,1,0,http://aws.amazon.com/s3/,1,1,1,1,0,1,0,,,5,,
+27,Azure,Microsoft,,7,0,0,1,1,https://azure.microsoft.com/,1,1,1,1,0,1,0,,,5,,cloud platform
+28,Redshift,Amazon,C,8,0,0,1,0,https://aws.amazon.com/redshift/,0,1,1,0,0,1,1,0,1,5,,
+29,Drill,Apache Software Foundation,Java,3,0,0,0,1,https://drill.apache.org/,1,1,1,1,1,0,1,0,1,5,,
+30,Hive,Apache Software Foundation,Java,1,1,0,1,0,https://hive.apache.org/,1,1,1,1,1,0,1,0,1,5,,DWH platform for distributed datasets
+31,CockroachDB,Cockroach Labs,Go,6,1,0,0,0,https://www.cockroachlabs.com/,1,1,1,1,0,1,,,,5,,DWH platform for distributed datasets
+32,CrateDB,"Crate.io, Inc.",Java,1,0,1,0,0,https://crate.io,1,1,1,1,1,0,,,,5,,NoSQL DOMS
+33,BigQuery,Google,,8,0,1,1,0,https://cloud.google.com/products/bigquery/,1,1,1,1,1,0,,,,5,,DWH platform for distributed datasets
+34,Informix,IBM,C/C++/Java,1,1,0,0,0,https://www.ibm.com/products/informix,1,1,1,1,1,0,,,,5,,
+35,MonetDB,,C,1,0,1,0,0,https://www.monetdb.org/,1,1,1,1,1,0,,,,5,,column oriented
+36,Access,Microsoft,,1,1,0,0,0,https://www.microsoft.com/en-us/microsoft-365/access,1,1,1,1,1,0,0,10000,0,6,,RDBMS with GUI frontend
+37,MariaDB,MariaDB corporation,,1,1,0,0,0,https://mariadb.com/,1,1,1,1,1,0,1,0,1,5,,
+38,Derby,Apache Software Foundation,Java,1,1,0,0,0,http://db.apache.org/derby/,1,1,1,1,1,0,,,,5,,embed RDBMS
+39,H2,,Java,1,1,0,0,0,https://h2database.com/,1,1,1,1,1,0,,,,5,,
+40,Interbase,Embarcadero Technologies,,1,1,0,0,0,http://www.embarcadero.com/products/interbase,1,1,1,1,1,0,,,,5,,embed RDBMS
+41,MaxDB,SAP,C++,1,1,0,0,0,https://maxdb.sap.com/,1,1,1,1,1,0,0,,0,5,,
+42,NexusDB,NexusQA,Delphi/C++/C#,1,1,0,0,0,https://www.nexusdb.com/,1,1,1,1,1,0,,,,5,,
+43,Splunk,Splunk Inc.,,7,0,1,0,0,https://www.splunk.com/,1,1,1,1,1,0,,,,5,,Analytics Platform for Big Data
+44,InfluxDB,,Go,4,1,0,0,0,https://www.influxdata.com/products/influxdb/,1,1,1,1,1,0,,,,5,,
+45,Vertica,Micro Focus,C++,1,0,1,0,0,https://www.vertica.com/,1,1,1,1,1,0,0,,,5,,analytic RDBMS
+46,Memcached,Danga Interactive,C,6,1,0,0,0,http://www.memcached.org/,1,1,1,1,1,0,,,,5,,
+47,DBASE,Asthon Tate,C,1,1,0,0,0,http://www.dbase.com/,1,1,1,1,1,0,,,,5,,
+48,Presto,Facebook,,1,1,1,1,0,https://prestodb.io/,1,1,1,1,1,0,,,,5,,DWH platform for distributed datasets
+49,Marklogic,MarkLogic Corp.,C++,7,0,0,1,1,https://www.marklogic.com/,1,1,1,1,1,0,,,,5,,
+50,Prometheus,,,4,1,0,0,0,https://prometheus.io/,1,1,1,1,1,0,1,0,1,5,,Monitoring tool
+51,Ingres,Actian Corporation,C,1,1,0,0,0,http://www.actian.com/products/operational-databases/ingres/,1,1,1,1,1,0,,,,5,,
+52,HyperSQL,,,1,1,0,0,0,http://hsqldb.org/,1,1,1,1,1,0,,,,5,,
+53,HailDB / embedd InnoDB,Oracle Corporation,C,1,0,0,0,0,,1,1,1,1,1,0,,,,5,,embed RDBMS
+54,BerkeleyDB,Oracle Corporation,C,2,0,0,0,0,http://www.oracle.com/database/berkeley-db/,1,1,1,1,1,0,,,,5,,embed RDBMS
+55,Oracle NoSQL Database,Oracle Corporation,Java,2,0,0,0,0,https://www.oracle.com/database/nosql/technologies/nosql/,1,1,1,1,1,0,,,,5,,
+56,EXtremeDB,McObject,C/C++,1,1,0,0,0,https://www.mcobject.com/,1,1,1,1,1,0,,,,5,,embed RDBMS
+57,ClickHouse,Apache Software Foundation,C++,1,0,1,0,0,https://clickhouse.com/,1,1,1,1,1,0,,,,5,,column oriented
+58,Kudu,Apache Software Foundation,C++,1,0,1,0,0,https://kudu.apache.org/,1,1,1,1,1,0,1,0,1,5,,column oriented
+59,Pinot,Apache Software Foundation,Java,1,0,1,0,0,https://pinot.apache.org/,1,1,1,1,1,0,1,0,1,5,,column oriented RT
+60,DuckDB,,C++,1,0,1,0,0,https://duckdb.org/,1,1,1,1,1,0,,,,5,,column oriented
+61,SkySQL,MariaDB corporation,,1,0,1,0,0,https://mariadb.com/products/skysql/,1,1,1,1,1,0,0,,,5,,column oriented
+62,Avalanche,Actian Corporation,,7,0,0,0,0,https://www.actian.com/analytic-database/avalanche/,1,1,1,1,1,0,,,,5,,
+63,Dbt,dbt Labs™,Python,7,0,0,0,1,https://www.getdbt.com/product/what-is-dbt/,0,0,0,0,1,0,1,0,1,5,,
+64,Exasol,,,8,0,1,1,0,https://www.exasol.com/,0,0,0,0,1,0,0,0,1,5,,
+65,Greenplum,VMWare,,8,0,1,1,0,https://greenplum.org/,0,1,1,0,1,0,1,0,1,5,,
+66,Cloud Spanner,Google,,1,1,0,0,0,https://cloud.google.com/spanner,0,1,1,0,0,1,0,0,1,5,,

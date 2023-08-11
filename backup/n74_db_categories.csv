@@ -1,0 +1,10 @@
+ID,cat_name,cat_desc
+1,SQL,Classic SQL
+2,NSQL,Hybrid NoSQL
+3,HGR,Hybrid graph
+4,TS,Time Series storage
+5,GR,Graph storage
+6,KV,Key value storage
+7,NA,not identified for now
+8,DW,Data Warehousing
+9,OLDW,Mixed model
