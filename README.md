@@ -1,27 +1,46 @@
-# h808e
+# Main structure
 
 Star Encyklopedia | H808E | Hvězdná encyklopedie
 
 - 400 : Příroda (Nature)
-  - [[410| Minerály (Minerals)]] ✓
-  - [[420|Život (Life)]] ✓
-  - [[430|Složení (Realization)]] ✓
+  - [Minerály (Minerals)](static/assets/410.md) ✓
+  - [Život (Life)](static/assets/420.md) ✓
+  - [Složení (Realization)](static/assets/430.md) ✓
 - 500 : Člověk (Human)
-  - [[510|Základní potřeby (Basic needs)]]✓
-  - [[520|Pohyb (Movement)]] ✓
-  - [[530|Kultura (Culture)]] ✓
-  - [[540|Zákony (Laws)]] ☒
-  - [[550|Magie (Magic)]] ☒
+  - [Základní potřeby (Basic needs)](static/assets/510.md) ✓
+  - [Pohyb (Movement)](static/assets/520.md) ✓
+  - [Kultura (Culture)](static/assets/530.md) ✓
+  - [Zákony (Laws)](static/assets/540.md) ☒
+  - [Magie (Magic)](static/assets/550.md) ☒
 - 600 : Vědy (Science)
-  - [[610|Matematika (Mathematics)]] ✓
-  - [[620|Fyzika (Physics)]] ✓
-  - [[630|Chemie(Chemistry)]] ✓
+  - [Matematika (Mathematics)](static/assets/610.md) ✓
+  - [Fyzika (Physics)](static/assets/620.md) ✓
+  - [Chemie(Chemistry)](static/assets/630.md) ✓
 - 700 : Technologie (Technology)
-  - [[710|Materiály (Materials)]] ✓
-  - [[720|Nástroje (Tools)]] ☒
-  - [[730|Energie (Energy)]] ✓
-  - [[740|Digital (environment)]] ✓
-  - [[750|Stavby (Builds)]] ✓
+  - [Materiály (Materials)](static/assets/710.md) ✓
+  - [Nástroje (Tools)](static/assets/720.md) ☒
+  - [Energie (Energy)](static/assets/730.md) ✓
+  - [Digital (environment)](static/assets/740.md) ✓
+  - [Stavby (Builds)](static/assets/750.md) ✓
+
+## Folder structure
+
+| DATA TYPE | FOLDER LOCATION  | FILE TYPE               | LINK                  |
+| --------- | ---------------- | ----------------------- | --------------------- |
+| Text      | `static/assets/` | MarkDown                | [x](./static/assets/) |
+| Tables    | `src/lib/store/` | JSON                    | [x](./src/lib/store/) |
+| Media     | `static/images/` | Images, various content | [x](./static/images/) |
+
+## Layout structure
+
+- Header
+
+| BURGER_BUTTON      | SVG_LOGO                 | POPOVER/SEARCH     | MOON           | CLOCK                    |
+| ------------------ | ------------------------ | ------------------ | -------------- | ------------------------ |
+| fixed 16,67% width | (not positioned for now) | under construction | not positioned | hover for important days |
+
+- Content
+- Footer
 
 # Todos
 
@@ -54,3 +73,22 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Extraction (meltano)
+
+```shell
+
+meltano discover extractors  # available taps
+
+meltano add extractor tap-csv --variant=meltanolabs
+meltano add loader target-jsonl
+meltano discover loaders  # available targrets
+
+meltano run tap-csv target-jsonl
+```
+
+Sources
+
+- [tap-csv - Meltano Hub](https://hub.meltano.com/extractors/tap-csv)
+
+- [MeltanoLabs/tap-sqlalchemy: A generic Singer tap for any SQLAlchemy data source. Still under development.](https://github.com/MeltanoLabs/tap-sqlalchemy/search?l=shell)
