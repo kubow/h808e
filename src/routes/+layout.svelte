@@ -1,14 +1,27 @@
 <script>
-  import { onMount } from "svelte";
+  // atempt to pre-render not good
+  import { onMount, afterUpdate, onDestroy } from "svelte";
   import { fade, fly } from "svelte/transition";
   import { page } from "$app/stores";
-  import Mode from "$lib/Mode.svelte";
-  import Head from "$lib/Head.svelte";
-  import { findLocaleMatch } from "$lib/stores";
-  // JSON files
+  import { findLocaleMatch } from "$lib/stores"; // localization will be once the layout done
   import language from "$lib/store/language.json";
+  // Menu items components
+  import Clock from "$lib/Clock.svelte"; //TODO: Clock na small zobrazit jako ikonu hodin
+  import Burger from "$lib/Burger.svelte"; //Burger zustane porad stejny
+  import Search from "$lib/Search.svelte";
+  import Logo from "$lib/Logo.svelte"; //TODO: Jen siroke
+  import Moon from "$lib/Moon.svelte";
 
-  let font_color = "#191971";
+  //export const prerender = true;
+  // experiment
+  let cfg = {
+    lang: "",
+    logo: true,
+    search: "", // active searched value (will be dict with latest searched values)
+    side: false, // this will be the open variable
+    width: 0,
+  };
+
   let open = false; // side menu
   let pwd = ""; // password protected - not active for now
   let searchQuery = ""; // active searched value (will be dict with latest searched values)
@@ -23,8 +36,12 @@
     if (!searchQuery) return;
     console.log(searchQuery);
   }
-  function tgl() {
+  /**
+   * @param {any} event
+   */
+  function tgl(event) {
     open = !open;
+    console.log(event);
   }
   /**
    * @param {{ preventDefault: () => void; }} event
@@ -39,10 +56,28 @@
       return false;
     }
   }
+  let mainColor = "#1c62a8";
+  let color = "black";
+  let bgColor = "white";
+
+  function switch_mode() {
+    color = color === "black" ? "white" : "black";
+    bgColor = bgColor === "white" ? "black" : "white";
+    document.documentElement.style.setProperty("--color", color);
+    document.documentElement.style.setProperty("--bg-color", bgColor);
+  }
+
+  /**
+   * @param {{ target: { value: string; }; }} event
+   */
+  function select_color(event) {
+    mainColor = event.target.value;
+    document.documentElement.style.setProperty("--main-color", mainColor);
+  }
   /**
    * @param {any} dataset
    */
-  export function translate(dataset, change = "") {
+  function translate(dataset, change = "") {
     let result = {};
     let lang = "";
     if (change) {
@@ -84,13 +119,21 @@
   });
 </script>
 
-<div style="--theme-color: {font_color}">
-  <Head bind:sidebar={open} bind:query={searchQuery} {handleSubmit} />
+<div>
+  <!-- Top menu functions -->
+  <header id="menu">
+    <div class="f-none"><Burger bind:open /></div>
+    <div class="f-auto"><Search /></div>
+    <div class="f-auto"><Logo /></div>
+    <div class="f-none"><Moon /></div>
+    <div class="f-none"><Clock /></div>
+  </header>
   {#if open}
     <aside class:open in:fly={{ x: -200, duration: 1000 }} out:fade>
       {#await lang}
         <p>waiting for content...</p>
       {:then lang}
+        <!-- Main menu items aka routes list -->
         <nav>
           {#each routes as route}
             <a
@@ -102,7 +145,8 @@
               {route.name}
             </a>
           {/each}
-          <Mode />
+          <button on:click={switch_mode}> Switch mode </button>
+          <input type="color" bind:value={mainColor} on:change={select_color} />
         </nav>
       {:catch error}
         <p>oooo</p>
@@ -114,27 +158,19 @@
 </div>
 
 <style>
+  :root {
+    --color: black;
+    --bg-color: white;
+    --main-color: #1c62a8;
+  }
   :global(body) {
-    /*background-color: var(--bg, whitesmoke);
-    color: var(--font, midnightblue);
-    transition: background-color 0.3s;*/
-    background-color: whitesmoke;
-    color: #191971;
-    color: var(--theme-color);
-    /* important to set body-wide */
     margin: 0;
     padding: 0;
   }
-
-  :global(body.dark-mode) {
-    /* set to a variable does not work
-    background-color: var(--bg, #1d3040);
-    color: var(--font, #bfc2c7);*/
-    background-color: #1d3040;
-    color: #bfc2c7;
+  div {
+    background-color: var(--bg-color);
   }
   nav {
-    /*background-color: whitesmoke;*/
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -143,23 +179,24 @@
 
     margin: 12px;
     font-size: x-large;
+    /* background-color: var(--bg-color); */
   }
   aside {
     position: absolute;
-    color: currentColor;
-    background-color: currentColor;
-    /*width: 100%;
-    height: 100%;
-    background-color: whitesmoke;*/
+    background-color: var(--bg-color);
+    /* width: 100%;
+    height: 100%; think about the stretch */
+    border-bottom: 1rem ridge var(--main-color);
+    border-right: 1rem solid var(--main-color);
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
       0 4px 6px -4px rgb(0 0 0 / 0.1);
     left: -100%;
-    /*transition: left 0.3s ease-in-out;*/
+    /*transition: left 0.3s ease-in-out; svelte code handles */
     z-index: 11;
   }
 
   a {
-    color: currentColor;
+    color: var(--color);
     background-color: transparent;
     text-underline-offset: auto;
     padding: 3rem 5rem; /* 8px */
@@ -177,13 +214,39 @@
     cursor: pointer;
   }
   a.active {
+    color: crimson;
     background-color: aquamarine;
   }
   .open {
     left: 0;
   }
+  button {
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem;
+    text-transform: uppercase;
+  }
+  #menu {
+    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox; /* TWEENER */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    flex-direction: row;
 
-  /*select {
-    display: block; width: 100px; max-width: 100%;
-  }*/
+    justify-content: space-between;
+    align-items: center;
+    background: var(--main-color);
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .f-none {
+    flex: none;
+    background: none;
+  }
+  .f-auto {
+    flex: auto;
+    background: none;
+  }
 </style>

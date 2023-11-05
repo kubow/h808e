@@ -67,23 +67,23 @@
 
   function constructBackground() {
     if (moon_phase.phase == 0) {
-      return "background:url(/image/moon-new.svg)";
+      return "background:url(/images/moon-new.svg)";
     } else if (moon_phase.phase == 1) {
-      return "background:url(/image/moon-waxing-crescent.svg)";
+      return "background:url(/images/moon-waxing-crescent.svg)";
     } else if (moon_phase.phase == 2) {
-      return "background:url(/image/moon-first-quarter.svg)";
+      return "background:url(/images/moon-first-quarter.svg)";
     } else if (moon_phase.phase == 3) {
-      return "background:url(/image/moon-waxing-gibbous.svg)";
+      return "background:url(/images/moon-waxing-gibbous.svg)";
     } else if (moon_phase.phase == 4) {
-      return "background:url(/image/moon-full.svg)";
+      return "background:url(/images/moon-full.svg)";
     } else if (moon_phase.phase == 5) {
-      return "background:url(/image/moon-waxing-crescent.svg)";
+      return "background:url(/images/moon-waxing-crescent.svg)";
     } else if (moon_phase.phase == 6) {
-      return "background:url(/image/moon-waning-gibbous.svg)";
+      return "background:url(/images/moon-waning-gibbous.svg)";
     } else if (moon_phase.phase == 7) {
-      return "background:url(/image/moon-waning-crescent.svg)";
+      return "background:url(/images/moon-waning-crescent.svg)";
     } else {
-      return "background:url(/image/moon-new.svg)";
+      return "background:url(/images/moon-new.svg)";
     }
   }
 

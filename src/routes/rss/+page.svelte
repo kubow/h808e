@@ -1,9 +1,16 @@
 <script>
-  import { onMount } from "svelte";
   import ItemList from "$lib/ItemList.svelte";
   import src from "$lib/store/sources.json";
-
-  let rss = src.filter((x) => x.source_type == "radio");
+  // need to map columns to desired structure
+  const rss = src
+    .filter((x) => x.source_type == "radio")
+    .map(({ source_address, source_name }) => ({
+      title: source_name,
+      content: `${source_name}`,
+      image: "images/moon-full.svg",
+      ref: source_address,
+    }));
+  // console.log(rss);
 </script>
 
 {#await rss}

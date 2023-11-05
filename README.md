@@ -33,14 +33,25 @@ Star Encyklopedia | H808E | Hvězdná encyklopedie
 
 ## Layout structure
 
+Written in `svelte-kit`, compiled with `vite`, all `css` happens in svelte files (no extra modules).
+
 - Header
 
 | BURGER_BUTTON      | SVG_LOGO                 | POPOVER/SEARCH     | MOON           | CLOCK                    |
 | ------------------ | ------------------------ | ------------------ | -------------- | ------------------------ |
 | fixed 16,67% width | (not positioned for now) | under construction | not positioned | hover for important days |
 
+- Side panel activated by Burger button
+	- links to all areas
+	- theme + dark mode switcher
 - Content
 - Footer
+
+## Data updates
+
+script `process.sh` tells all necessary. `melatno` is used for data extraction (CSV -> JSON).
+
+- TO-DO: MySQL (@kubow.cz) database will be the middle piece.
 
 # Todos
 

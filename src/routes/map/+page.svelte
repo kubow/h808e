@@ -1,6 +1,6 @@
 <script>
   import { afterUpdate } from "svelte";
-  import model_topology from "$lib/store/model_test.geojson";
+  import model_topology from "$lib/store/model_test.json";
 
   afterUpdate(() => {
     var dataMap = new dataMap({

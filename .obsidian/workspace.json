@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bb00a9094b463357",
+        "id": "5b0509baf482d7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "c788a189801196a8",
+            "id": "19c82bc9d0cd9110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "static/assets/520.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e9f70cef13a6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "outline",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,21 +44,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "miner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "168d9b4868811b13",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -90,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7ad382c1ca2fe2ba",
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,43 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3e9f70cef13a6f3",
+  "active": "19c82bc9d0cd9110",
   "lastOpenFiles": [
-    "static/assets/410.md",
-    "src/routes/min/[slug]/+page.svelte",
-    "src/routes/min/[slug]",
-    "src/lib/store/min.jsonl",
-    "src/lib/store/language.jsonl",
-    "src/lib/store/enc.jsonl",
-    "src/lib/store/db.jsonl",
-    "src/lib/store/enc.json",
-    "src/lib/store/db.json",
-    "src/lib/store/min.jsonl.tmp",
-    "src/lib/store/language.jsonl.tmp",
-    "static/assets/522.md",
+    "src/routes/enc/[slug]/+page.svelte",
+    "src/routes/enc/[slug]",
+    "static/assets/630.md",
+    "static/assets/426.md",
+    "static/assets/420.md",
+    "static/assets/710.md",
+    "static/assets/720.md",
+    "static/assets/730.md",
+    "static/assets/750.md",
+    "static/assets/740.md",
+    "static/assets/620.md",
+    "static/assets/610.md",
+    "static/assets/550.md",
+    "static/assets/540.md",
+    "static/assets/533.md",
+    "static/assets/530.md",
+    "static/assets/532.md",
     "static/assets/520.md",
-    "static/assets/523.md",
-    "node_modules/axobject-query/README.md",
-    "node_modules/axobject-query/CHANGELOG.md",
-    "node_modules/@sveltejs/vite-plugin-svelte-inspector/README.md",
-    "node_modules/mdn-data/README.md",
-    "node_modules/mdn-data/css/readme.md",
-    "node_modules/mdn-data/CHANGELOG.md",
-    "node_modules/aria-query/README.md",
-    "node_modules/aria-query/CHANGELOG.md",
-    "node_modules/acorn/README.md",
-    "node_modules/acorn/CHANGELOG.md",
-    "node_modules/code-red/README.md",
-    "node_modules/css-tree/README.md",
-    "node_modules/estree-walker/README.md",
-    "node_modules/locate-character/README.md",
-    "node_modules/@ampproject/remapping/README.md",
-    "node_modules/@types/estree/README.md",
-    "node_modules/dequal/readme.md",
-    "node_modules/periscopic/README.md",
-    "node_modules/@jridgewell/set-array/README.md",
-    "node_modules/is-reference/README.md",
-    "node_modules/@jridgewell/gen-mapping/README.md",
-    "static/assets/431.md"
+    "static/assets/510.md",
+    "static/assets/433.md",
+    "static/assets/432.md",
+    "static/assets/431.md",
+    "static/assets/430.md",
+    "static/assets/425.md",
+    "static/assets/424.md",
+    "static/assets/413.md",
+    "static/assets/412.md",
+    "vite.config.ts.timestamp-1699140240008-ed9de3bec8e3c.mjs",
+    "src/routes/animal/+page.svelte",
+    "src/routes/animal",
+    "src/routes/anim/+page.svelte",
+    "src/routes/anim",
+    "src/routes/life/+page.svelte",
+    "src/routes/life",
+    "Main_page.canvas",
+    "enc.png",
+    "vite.config.ts.timestamp-1699134418946-8a56100a02d47.mjs",
+    "src/routes/astro/+page.svelte",
+    "node_modules/undici/docs/assets/lifecycle-diagram.png",
+    "static/images/ROS/zachovani_vlahy.JPG",
+    "static/images/ROS/uziti_rostlin.JPG",
+    "static/images/ROS/testy.JPG",
+    "static/images/ROS/sysmboly1.JPG",
+    "static/images/ROS/maca.jpg",
+    "static/images/ROS/chia.jpg",
+    "static/images/ROS/acai.jpg",
+    "static/images/ROS/spec/zvonek_rozkladity.png"
   ]
 }
