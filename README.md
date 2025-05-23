@@ -23,13 +23,14 @@ Star Encyklopedia | H808E | Hvězdná encyklopedie
   - [Digital (environment)](static/assets/740.md) ✓
   - [Stavby (Builds)](static/assets/750.md) ✓
 
-## Folder structure
+## Data structure
 
 | DATA TYPE | FOLDER LOCATION  | FILE TYPE               | LINK                  |
 | --------- | ---------------- | ----------------------- | --------------------- |
 | Text      | `static/assets/` | MarkDown                | [x](./static/assets/) |
 | Tables    | `src/lib/store/` | JSON                    | [x](./src/lib/store/) |
 | Media     | `static/images/` | Images, various content | [x](./static/images/) |
+
 
 ## Layout structure
 
