@@ -8,7 +8,8 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
-    "content:map": "node scripts/content-map.mjs"
+    "content:map": "node scripts/content-map.mjs",
+    "content:sync:enc": "node scripts/sync-enc.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^7.0.1",
