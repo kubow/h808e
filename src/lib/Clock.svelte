@@ -1,7 +1,5 @@
 <script>
   import { onMount } from "svelte";
-  import { h808e } from "$lib/stores";
-  import Popover from "$lib/Popover.svelte";
   import calendar from "$lib/store/calendar.json";
 
   let date = new Date();
@@ -82,34 +80,6 @@
 </script>
 
 <section>
-  <Popover
-    arrowColor="#fff"
-    action="hover"
-    placement="bottom-start"
-    overlayColor="black"
-  >
-    <div slot="target" class="clockWrapper">
-      <p class="clockDisplay">
-        {day}. {month}. {year} <br />
-        {hour} : {min} : {sec}
-        {dayOrNight}
-        <span class="tooltip-wrapper">
-          <span class="tooltip">
-            {#each today as line}
-              <p>{line}</p>
-            {/each}
-          </span>
-        </span>
-      </p>
-    </div>
-    <div slot="content" class="tooltip">
-      wassuo
-      {#each today as line}
-        <p>{line}</p>
-      {/each}
-    </div>
-  </Popover>
-
   <div class="clockWrapper">
     <p class="clockDisplay">
       {day}. {month}. {year} <br />
@@ -118,7 +88,7 @@
       <span class="tooltip-wrapper">
         <span class="tooltip">
           {#each today as line}
-            <p>{line}</p>
+            <span class="tooltip-line">{line}</span>
           {/each}
         </span>
       </span>
@@ -135,40 +105,51 @@
     align-items: center;
   }
   section {
-    overflow: hidden;
+    overflow: visible;
     min-width: 10%;
+    width: 6.5rem;
   }
   .clockWrapper {
-    /*position: relative;*/
-    display: inline;
+    position: relative;
+    display: inline-flex;
     margin: auto;
     border-radius: 17px;
     background: none;
   }
   .clockDisplay {
-    font-size: 0.75em;
-    background: #000000;
+    font-size: var(--font-size-0);
+    line-height: 1.35;
+    background: var(--surface-strong);
     border-radius: 17px;
-    color: #ffffff;
+    color: var(--surface-text);
     text-align: center;
     white-space: nowrap;
+    padding: 0.4rem 0.55rem;
+    margin: 0;
+    border: 1px solid color-mix(in srgb, var(--surface-text) 14%, transparent);
   }
   .tooltip-wrapper {
-    /* tooltip source https://codepen.io/PhilippeVay/pen/AXGaJv?editors=1000 */
     position: absolute;
     visibility: hidden;
-    background: #000000;
-    right: 0 !important;
+    background: var(--surface-strong);
+    color: var(--surface-text);
+    right: 0;
+    top: calc(100% + 0.35rem);
     margin: 3px;
     padding: 10px;
+    border-radius: 0.75rem;
+    min-width: max-content;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+    pointer-events: none;
   }
   .clockDisplay:hover .tooltip-wrapper {
     visibility: visible;
-    opacity: 0.7;
-    top: 10%;
+    opacity: 0.92;
     z-index: 5;
-    /*left: 50%;*/
-    /*margin-left: -76px;*/
-    /* z-index: 999; defined above with value of 5 */
+  }
+  .tooltip-line {
+    display: block;
+    text-align: left;
+    font-size: var(--font-size-1);
   }
 </style>
