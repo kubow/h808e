@@ -51,28 +51,29 @@
     display: inline-block;
     box-sizing: content-box;
     width: 100%;
-    font-size: 18px;
+    font-size: var(--font-size-2);
+    font-family: var(--font-sans);
     padding: 6px 8px 2px 2px;
     border: none;
-    border-bottom: 3px solid #d9e3f0;
+    border-bottom: 3px solid color-mix(in srgb, var(--main-color) 22%, white);
     background: none;
     outline: none;
     border-radius: 2px 2px 0 0;
-    color: #263238;
+    color: var(--color);
   }
   input:active,
   input:focus,
   select:active,
   select:focus {
-    background: #ebf0f7;
+    background: color-mix(in srgb, var(--main-color) 10%, white);
   }
   select option {
-    background: #ffffff;
+    background: var(--surface-color);
   }
   select option:active,
   select option:hover,
   select option:focus {
-    background: #d9e3f0;
+    background: color-mix(in srgb, var(--main-color) 16%, white);
   }
 </style>
 

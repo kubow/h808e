@@ -1,22 +1,8 @@
 <script>
-  //import Btn from './Btn.svelte';
-  let display = "block";
-  /**
-   * @type {number}
-   */
-  let width;
-  $: {
-    if (width > 1500) {
-      display = "block" && console.log("setting visible");
-    } else {
-      display = "none" && console.log("hiding");
-    }
-  }
+  export let compact = false;
 </script>
 
-<svelte:window bind:innerWidth={width} />
-
-<svg style="display: {display};">
+<svg class:compact>
   <g>
     <title>Hvezdna encyklopedie</title>
     <path
@@ -29,7 +15,7 @@
     <text
       xml:space="preserve"
       text-anchor="start"
-      font-family="Helvetica, Arial, sans-serif"
+      font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
       font-size="24"
       id="svg_3"
       y="32.423461"
@@ -56,13 +42,17 @@
 
 <style>
   svg {
-    /*display: inline-block;*/
     flex: 0 1 auto;
     justify-content: center;
     align-items: center;
-    /***/
-    height: 50px;
+    height: 34px;
+    color: var(--surface-text);
   }
+
+  .compact {
+    height: 28px;
+  }
+
   text {
     fill: currentColor;
   }
