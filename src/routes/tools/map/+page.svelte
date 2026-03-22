@@ -1,6 +1,8 @@
 <script>
   import { afterUpdate } from "svelte";
-  import model_topology from "$lib/store/model_test.json";
+  import modelTopology from "$lib/store/model.json";
+
+  const topologyObjectCount = Object.keys(modelTopology.objects ?? {}).length;
 
   afterUpdate(() => {
     var dataMap = new dataMap({
@@ -66,7 +68,7 @@
   <section class="panel">
     <h2>GeoJSON / TopoJSON experiments</h2>
     <p>Leaflet and OpenLayers variants are still disabled, but the dataset is kept in the app.</p>
-    <p>Loaded topology sample: {model_topology.length} records.</p>
+    <p>Loaded topology objects: {topologyObjectCount} collections.</p>
   </section>
 
   <section class="panel">

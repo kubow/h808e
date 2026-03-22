@@ -87,13 +87,18 @@
 
 <section>
   <div class="moonWrapper">
-    <div class="moonDisplay" style={`background-image:url(${moon.image})`}>
+    <a
+      class="moonDisplay"
+      href="/tools/astro"
+      aria-label="Open astronomy tool"
+      style={`background-image:url(${moon.image})`}
+    >
       <span class="moonTip">
         {#each details as line}
           <span class="tooltip-line">{line}</span>
         {/each}
       </span>
-    </div>
+    </a>
   </div>
 </section>
 
@@ -123,11 +128,14 @@
 
   .moonDisplay {
     position: relative;
+    display: block;
     width: 100%;
     min-height: 50px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    text-decoration: none;
+    cursor: pointer;
   }
 
   .moonTip {

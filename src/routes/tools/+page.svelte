@@ -15,6 +15,11 @@
       title: "Maps",
       summary: "Mapping experiments and geographic views.",
     },
+    {
+      href: "/tools/time",
+      title: "Time",
+      summary: "Interactive time zone map with clickable overlays.",
+    },
   ];
 </script>
 

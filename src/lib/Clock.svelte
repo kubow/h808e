@@ -93,8 +93,10 @@
 
 <section>
   <div class="clockWrapper">
-    <p class="clockDisplay">
-      {pad(hour)}:{pad(min)}:{pad(sec)}
+    <a class="clockDisplay" href="/tools/time" aria-label="Open time tool">
+      <span>
+        {pad(hour)}:{pad(min)}:{pad(sec)}
+      </span>
       <span class="meridiem">{dayOrNight}</span>
       <span class="tooltip-wrapper">
         <span class="tooltip">
@@ -106,7 +108,7 @@
           {/each}
         </span>
       </span>
-    </p>
+    </a>
   </div>
 </section>
 
@@ -146,6 +148,8 @@
     min-width: 5.6rem;
     border: 1px solid color-mix(in srgb, var(--surface-text) 14%, transparent);
     font-variant-numeric: tabular-nums;
+    text-decoration: none;
+    cursor: pointer;
   }
   .meridiem {
     font-size: 0.62rem;
