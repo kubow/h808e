@@ -12,6 +12,25 @@ import {
 } from "$lib/h808";
 import { getStructuredDatasetsForCode } from "$lib/categoryDatasets";
 
+export const prerender = true;
+
+export function entries() {
+  return enc.map((entry) => ({
+    code: normalizeCategoryCode(entry.code),
+  }));
+}
+
+function slugifyFragment(value = "") {
+  return value
+    .toString()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/<[^>]*>/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 function rewriteMarkdownHref(href = "") {
   if (!href || /^(https?:|mailto:|tel:|#)/i.test(href)) {
     return href;
@@ -24,9 +43,12 @@ function rewriteMarkdownHref(href = "") {
     .replace(/^assets\//, "")
     .replace(/^\/assets\//, "");
 
-  const markdownMatch = normalized.match(/^(\d{3})\.md(#[\w-]+)?$/i);
+  const markdownMatch = normalized.match(/^(\d{3})\.md(?:#(.+))?$/i);
   if (markdownMatch) {
-    return `/${markdownMatch[1]}${markdownMatch[2] ?? ""}`;
+    const fragment = markdownMatch[2]
+      ? `#${slugifyFragment(decodeURIComponent(markdownMatch[2]))}`
+      : "";
+    return `/${markdownMatch[1]}${fragment}`;
   }
 
   if (/^640_planet_position_calculator\.htm$/i.test(normalized)) {
@@ -45,6 +67,12 @@ function renderMarkdown(markdown) {
     const titleAttribute = title ? ` title="${title}"` : "";
 
     return `<a href="${resolvedHref}"${titleAttribute}>${text}</a>`;
+  };
+
+  renderer.heading = function ({ tokens, depth }) {
+    const text = this.parser.parseInline(tokens);
+    const id = slugifyFragment(text);
+    return `<h${depth} id="${id}">${text}</h${depth}>`;
   };
 
   return marked.parse(markdown, { renderer });

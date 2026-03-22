@@ -41,7 +41,7 @@
     </div>
     <div class="actions">
       <a href="/tools/calc">Open calculator</a>
-      <a href="/640">Read category 640</a>
+      <a href="/tools/calc">Open calculator tool</a>
     </div>
   </header>
 
