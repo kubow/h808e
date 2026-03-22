@@ -122,7 +122,6 @@
       { href: "/600", name: "600 Vědy" },
       { href: "/700", name: "700 Technologie" },
       { href: "/tools", name: "Tools" },
-      { href: "/test", name: "Test" },
     ];
   });
 </script>
