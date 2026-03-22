@@ -50,7 +50,9 @@ Written in `svelte-kit`, compiled with `vite`, all `css` happens in svelte files
 
 ## Data updates
 
-script `process.sh` tells all necessary. `melatno` is used for data extraction (CSV -> JSON).
+The app reads prepared JSON tables from `src/lib/store/`.
+CSV ingestion is documented in [docs/data_ingest.md](docs/data_ingest.md) as an external workflow, not as project-owned runtime logic.
+Application content behavior is documented in [docs/content_model.md](docs/content_model.md).
 
 - TO-DO: MySQL (@kubow.cz) database will be the middle piece.
 
@@ -85,22 +87,3 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-## Extraction (meltano)
-
-```shell
-
-meltano discover extractors  # available taps
-
-meltano add extractor tap-csv --variant=meltanolabs
-meltano add loader target-jsonl
-meltano discover loaders  # available targrets
-
-meltano run tap-csv target-jsonl
-```
-
-Sources
-
-- [tap-csv - Meltano Hub](https://hub.meltano.com/extractors/tap-csv)
-
-- [MeltanoLabs/tap-sqlalchemy: A generic Singer tap for any SQLAlchemy data source. Still under development.](https://github.com/MeltanoLabs/tap-sqlalchemy/search?l=shell)
