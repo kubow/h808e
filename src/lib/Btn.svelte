@@ -9,7 +9,7 @@
 
 <style>
   .big {
-    font-size: 20px;
+    font-size: var(--font-size-3);
     display: block;
     /*width: 100%;*/
   }
@@ -22,9 +22,10 @@
 
   button {
     background: 0%;
+    font-family: var(--font-sans);
     font: inherit;
     padding: 0.15rem 0.5rem;
-    color: wheat;
+    color: var(--surface-text);
     cursor: pointer;
   }
 
