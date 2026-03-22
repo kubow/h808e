@@ -1,0 +1,11 @@
+DirectoryIndex index.html
+
+RewriteEngine On
+
+# Serve existing files and directories directly.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Normalize extensionless routes to trailing-slash directories.
+RewriteRule ^(.+[^/])$ /$1/ [R=301,L]
