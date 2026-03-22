@@ -2,14 +2,34 @@
   import CategoryCardGrid from "$lib/CategoryCardGrid.svelte";
   import CategoryBackground from "$lib/CategoryBackground.svelte";
   import ItemList from "$lib/ItemList.svelte";
+  import { headerSearchQuery } from "$lib/stores";
 
   export let data;
 
   let activeView = "text";
 
+  function normalize(value = "") {
+    return value
+      .toString()
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
   $: hasListView = data.datasets.length > 0;
   $: listItems = data.datasets.flatMap((dataset) => dataset.items);
-  $: listCount = data.datasets.reduce((total, dataset) => total + dataset.count, 0);
+  $: searchTerm = normalize($headerSearchQuery);
+  $: filteredListItems = searchTerm
+    ? listItems.filter((item) =>
+        normalize(
+          [item.title, item.content, item.summary, item.href, item.ref]
+            .filter(Boolean)
+            .join(" ")
+        ).includes(searchTerm)
+      )
+    : listItems;
+  $: isFilteringList = activeView === "list" && Boolean(searchTerm);
+  $: listCount = filteredListItems.length;
   $: if (!data.html && hasListView) {
     activeView = "list";
   }
@@ -39,7 +59,7 @@
       </div>
       <p>{data.entry.header || data.entry.kw_cz || "Category overview"}</p>
       <div class="controls">
-        <a class="back" href="/">Main overview</a>
+        <a class="back" href="/">Overview</a>
         {#if hasListView}
           <div class="tabs" role="tablist" aria-label="Category view switcher">
             <button
@@ -81,7 +101,20 @@
         </div>
         <span>{listCount} records</span>
       </div>
-      <ItemList data_set={listItems} />
+      {#if isFilteringList}
+        <div class="filter-state">
+          <strong>Filtering current list:</strong>
+          <span>"{$headerSearchQuery}"</span>
+        </div>
+      {/if}
+      {#if filteredListItems.length > 0}
+      <ItemList data_set={filteredListItems} />
+      {:else}
+        <div class="empty-state">
+          <h3>No matching records</h3>
+          <p>Try a broader term or clear the top search bar.</p>
+        </div>
+      {/if}
     </section>
   {/if}
 
@@ -156,8 +189,7 @@
     text-transform: uppercase;
   }
 
-  .kicker span,
-  .back {
+  .kicker span {
     display: inline-flex;
     width: fit-content;
     padding: 0.45rem 0.8rem;
@@ -168,8 +200,19 @@
   }
 
   .back {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.1rem 0;
     color: white;
     text-decoration: none;
+    opacity: 0.82;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.28);
+  }
+
+  .back:hover,
+  .back:focus {
+    opacity: 1;
+    border-bottom-color: rgba(255, 255, 255, 0.8);
   }
 
   .controls {
@@ -250,6 +293,20 @@
     padding: 1rem 0 0;
   }
 
+  .filter-state {
+    display: flex;
+    gap: 0.45rem;
+    align-items: center;
+    padding: 0 1rem;
+    color: white;
+    font-size: var(--font-size-1);
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.28);
+  }
+
+  .filter-state span {
+    opacity: 0.88;
+  }
+
   .dataset-head,
   .children-head {
     display: flex;
@@ -279,6 +336,22 @@
     padding: 0 1rem;
     color: white;
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.32);
+  }
+
+  .empty-state {
+    display: grid;
+    gap: 0.4rem;
+    margin: 0 1rem;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.12);
+    color: white;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+  }
+
+  .empty-state h3,
+  .empty-state p {
+    margin: 0;
   }
 
   .markdown :global(h2),

@@ -9,7 +9,7 @@
   import Clock from "$lib/Clock.svelte"; //TODO: Clock na small zobrazit jako ikonu hodin
   import Burger from "$lib/Burger.svelte"; //Burger zustane porad stejny
   import Search from "$lib/Search.svelte";
-  import Logo from "$lib/Logo.svelte"; //TODO: Jen siroke
+  import Logo from "$lib/Logo.svelte";
   import Moon from "$lib/Moon.svelte";
 
   //export const prerender = true;
@@ -127,14 +127,15 @@
   });
 </script>
 
-<div>
+<div class="app-shell">
   <!-- Top menu functions -->
   <header id="menu">
-    <div class="f-none"><Burger bind:open /></div>
-    <div class="f-auto"><Search /></div>
-    <div class="f-auto"><Logo /></div>
-    <div class="f-none"><Moon /></div>
-    <div class="f-none"><Clock /></div>
+    <div class="menu-left"><Burger bind:open /></div>
+    <div class="f-search"><Search /></div>
+    <div class="menu-right">
+      <div class="f-none"><Moon /></div>
+      <div class="f-none"><Clock /></div>
+    </div>
   </header>
   {#if open}
     <aside class:open in:fly={{ x: -200, duration: 1000 }} out:fade>
@@ -143,6 +144,9 @@
       {:then lang}
         <!-- Main menu items aka routes list -->
         <nav>
+          <a class="menu-logo" href="/" on:click={tgl} aria-label="H808E home">
+            <Logo />
+          </a>
           {#each routes as route}
             <a
               href={route.href}
@@ -188,8 +192,26 @@
     color: var(--color);
     background-color: var(--bg-color);
   }
-  div {
+  .app-shell {
     background-color: var(--bg-color);
+    min-height: 100vh;
+  }
+  .f-search {
+    display: flex;
+    justify-content: center;
+    min-width: 0;
+    padding: 0 0.75rem;
+  }
+  .menu-left {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .menu-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 11.5rem;
   }
   nav {
     display: flex;
@@ -201,6 +223,13 @@
     margin: 12px;
     font-size: x-large;
     /* background-color: var(--bg-color); */
+  }
+  .menu-logo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 1.25rem 1.5rem;
+    background: color-mix(in srgb, var(--main-color) 10%, white);
   }
   aside {
     position: absolute;
@@ -238,6 +267,9 @@
     color: crimson;
     background-color: aquamarine;
   }
+  #menu {
+    gap: 0.75rem;
+  }
   .open {
     left: 0;
   }
@@ -248,18 +280,12 @@
     text-transform: uppercase;
   }
   #menu {
-    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
-    display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
-    display: -ms-flexbox; /* TWEENER */
-    display: -webkit-flex; /* NEW - Chrome */
-    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
-    flex-direction: row;
-
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
     align-items: center;
     background: var(--main-color);
-    padding: 0px;
-    margin: 0px;
+    padding: 0 0.5rem;
+    margin: 0;
     min-height: var(--header-height);
     color: var(--surface-text);
   }
@@ -268,8 +294,16 @@
     flex: none;
     background: none;
   }
-  .f-auto {
-    flex: auto;
-    background: none;
+
+  @media (max-width: 720px) {
+    .menu-right {
+      min-width: auto;
+      gap: 0.25rem;
+    }
+
+    #menu {
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      padding: 0 0.25rem;
+    }
   }
 </style>

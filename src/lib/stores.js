@@ -1,4 +1,5 @@
 import { readable, writable } from "svelte/store";
+import { marked } from "marked";
 
 
 //localstore will be preferred_language
@@ -30,6 +31,7 @@ export const h808e = writable({
 	},
 });
 export const current_path = writable("/");
+export const headerSearchQuery = writable("");
 
 export const time = readable(new Date(), function start(set) {
 	const interval = setInterval(() => {
@@ -158,7 +160,6 @@ export async function loadDataJson(address) {
  * @param {RequestInfo | URL} address
  */
 export async function loadDataMD(address) {
-	let marked = require('marked');
 	if (!address) { // default settings for application (PHP site)
 		address = 'assets/410.md';
 	} else {
@@ -167,7 +168,10 @@ export async function loadDataMD(address) {
 	try {
 		const res = await fetch(address);
 		//const text = await res.text();
-		let reader = res.body.getReader();
+		let reader = res.body?.getReader();
+		if (!reader) {
+			throw new Error('Response body is empty');
+		}
 		let utf8Decoder = new TextDecoder();
 		let nextChunk;
 		let resultStr = '';

@@ -1,5 +1,5 @@
 <script>
-  import { onMount } from "svelte";
+  import { onDestroy, onMount } from "svelte";
   import calendar from "$lib/store/calendar.json";
 
   let date = new Date();
@@ -18,6 +18,11 @@
    */
   let today = [];
   let dayOrNight = "AM";
+  let interval;
+
+  function pad(value) {
+    return value.toString().padStart(2, "0");
+  }
 
   /**
    * @param {Date} d
@@ -54,11 +59,14 @@
     return Math.floor(dayOfYear).toString();
   }
 
+  function syncClock() {
+    date = new Date();
+    dayOrNight = date.getHours() >= 12 ? "PM" : "AM";
+  }
+
   onMount(async () => {
-    const interval = setInterval(() => {
-      date = new Date();
-      dayOrNight = hour >= 12 ? "PM" : "AM";
-    }, 1000);
+    syncClock();
+    interval = setInterval(syncClock, 1000);
     for (let entry of calendar) {
       if (entry["`n_month`"] == month && entry["`n_day`"] == day) {
         if (entry["`calendar`"] == "cz_jmena") {
@@ -77,16 +85,22 @@
     today = today.concat(dayDesc);
     console.log(today);
   });
+
+  onDestroy(() => {
+    clearInterval(interval);
+  });
 </script>
 
 <section>
   <div class="clockWrapper">
     <p class="clockDisplay">
-      {day}. {month}. {year} <br />
-      {hour} : {min} : {sec}
-      {dayOrNight}
+      {pad(hour)}:{pad(min)}:{pad(sec)}
+      <span class="meridiem">{dayOrNight}</span>
       <span class="tooltip-wrapper">
         <span class="tooltip">
+          <span class="tooltip-line tooltip-date">
+            {pad(day)}. {pad(month)}. {year}
+          </span>
           {#each today as line}
             <span class="tooltip-line">{line}</span>
           {/each}
@@ -106,27 +120,37 @@
   }
   section {
     overflow: visible;
-    min-width: 10%;
-    width: 6.5rem;
+    width: 5.6rem;
   }
   .clockWrapper {
     position: relative;
     display: inline-flex;
     margin: auto;
-    border-radius: 17px;
+    width: 100%;
     background: none;
   }
   .clockDisplay {
-    font-size: var(--font-size-0);
-    line-height: 1.35;
-    background: var(--surface-strong);
-    border-radius: 17px;
+    justify-content: center;
+    gap: 0.28rem;
+    width: 100%;
+    font-size: 0.82rem;
+    line-height: 1;
+    font-family: ui-monospace, "SFMono-Regular", "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
+    background: color-mix(in srgb, var(--surface-strong) 92%, black);
+    border-radius: 999px;
     color: var(--surface-text);
     text-align: center;
     white-space: nowrap;
-    padding: 0.4rem 0.55rem;
+    padding: 0.52rem 0.5rem;
     margin: 0;
+    min-width: 5.6rem;
     border: 1px solid color-mix(in srgb, var(--surface-text) 14%, transparent);
+    font-variant-numeric: tabular-nums;
+  }
+  .meridiem {
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    opacity: 0.72;
   }
   .tooltip-wrapper {
     position: absolute;
@@ -151,5 +175,10 @@
     display: block;
     text-align: left;
     font-size: var(--font-size-1);
+  }
+  .tooltip-date {
+    margin-bottom: 0.45rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--surface-text) 16%, transparent);
   }
 </style>
