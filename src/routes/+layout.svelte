@@ -65,6 +65,18 @@
     bgColor = bgColor === "white" ? "black" : "white";
     document.documentElement.style.setProperty("--color", color);
     document.documentElement.style.setProperty("--bg-color", bgColor);
+    document.documentElement.style.setProperty(
+      "--surface-color",
+      bgColor === "black" ? "#111827" : "#ffffff"
+    );
+    document.documentElement.style.setProperty(
+      "--surface-strong",
+      bgColor === "black" ? "#020617" : "#0f172a"
+    );
+    document.documentElement.style.setProperty(
+      "--surface-text",
+      bgColor === "black" ? "#f8fafc" : "#f8fafc"
+    );
   }
 
   /**
@@ -105,15 +117,11 @@
     // console.log(lang);
     routes = [
       { href: "/", name: lang.home },
-      { href: "/astro", name: lang.planet },
-      { href: "/calc", name: lang.calc },
-      { href: "/db", name: lang.database },
-      { href: "/map", name: lang.maps },
-      { href: "/min", name: lang.stone },
-      { href: "/plant", name: lang.plant },
-      { href: "/radio", name: lang.radio },
-      { href: "/rest", name: lang.rest },
-      { href: "/rss", name: lang.rss },
+      { href: "/400", name: "400 Příroda" },
+      { href: "/500", name: "500 Člověk" },
+      { href: "/600", name: "600 Vědy" },
+      { href: "/700", name: "700 Technologie" },
+      { href: "/tools", name: "Tools" },
       { href: "/test", name: "Test" },
     ];
   });
@@ -162,10 +170,23 @@
     --color: black;
     --bg-color: white;
     --main-color: #1c62a8;
+    --surface-color: #ffffff;
+    --surface-strong: #0f172a;
+    --surface-text: #f8fafc;
+    --border-subtle: rgba(15, 23, 42, 0.12);
+    --header-height: 3.5rem;
+    --font-sans: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-size-0: 0.75rem;
+    --font-size-1: 0.875rem;
+    --font-size-2: 1rem;
+    --font-size-3: 1.125rem;
   }
   :global(body) {
     margin: 0;
     padding: 0;
+    font-family: var(--font-sans);
+    color: var(--color);
+    background-color: var(--bg-color);
   }
   div {
     background-color: var(--bg-color);
@@ -239,6 +260,8 @@
     background: var(--main-color);
     padding: 0px;
     margin: 0px;
+    min-height: var(--header-height);
+    color: var(--surface-text);
   }
 
   .f-none {
