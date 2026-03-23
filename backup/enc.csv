@@ -78,9 +78,8 @@ node_id,code,area_cz,area_en,query,folder,header,kw_en,kw_cz
 204,621,Mechanika těles,Mechanics,mech,MCH,,mechanic,mechani
 217,543,Socioekonomie,Economy,,SCE,,,
 220,544,Zpravodajství,Intelligence,,INT,,,
-236,723,Mechanika,Mechanics,tmech,MEC,,,
+236,723,Laboratorní,Laboratory,tlab,LAB,,,
 246,752,Celky,Aglomerations,,AGL,,"city, town","měst, obec"
-249,725,Laboratorní,Laboratory,tlab,LAB,,,
 250,726,Elektro,Electronics,tele,ELE,,,
 253,722,Zahrada,Garden,tgard,GRD,,,
 255,725,Transport,Transport,ttran,TRN,,"car,motor,bike,cycle,ship,plane","auto,motor,motorka,kolo,loď,letadlo"
