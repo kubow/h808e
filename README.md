@@ -56,6 +56,37 @@ Application content behavior is documented in [docs/content_model.md](docs/conte
 
 - TO-DO: MySQL (@kubow.cz) database will be the middle piece.
 
+## Minimal PHP API
+
+This project is built as a static SvelteKit site, so database access needs a small server-side layer.
+
+- PHP API entrypoints live in `static/api/`
+- `load.php` reads rows from a whitelisted table
+- `store.php` inserts rows into a whitelisted table
+- `config.example.php` is the template for server-only DB credentials and allowed tables
+- `schema.example.sql` is the matching demo table
+
+Setup on hosting:
+
+1. Copy `static/api/config.example.php` to `static/api/config.php`
+2. Fill in MySQL credentials
+3. Adjust the `tables` whitelist to your real table names and columns
+4. Create the table in MySQL
+5. Deploy so `/api/load.php` and `/api/store.php` are accessible on the same domain
+
+Frontend usage example:
+
+```js
+import { loadRows, storeRow } from '$lib/phpApi';
+
+const rows = await loadRows('notes', { limit: 10 });
+
+await storeRow('notes', {
+  title: 'Hello',
+  body: 'Stored from Svelte'
+});
+```
+
 # Todos
 
 - font and backround color as css variables
